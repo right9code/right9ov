@@ -47,7 +47,7 @@ const monthName = moment(dv.current().file.name, "YYYY-[M]MM-MMMM").format("MMMM
 
 dv.paragraph(`## Weekly Notes for ${monthName}, ${year}`);
 
-const weeklyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010102 - Weekly Notes`;
+const weeklyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Weekly Notes`;
 const weeklyNotes = dv.pages(`"${weeklyNotesPath}"`).where(w => w.month_num == monthNum);
 
 if (weeklyNotes.length > 0) {
