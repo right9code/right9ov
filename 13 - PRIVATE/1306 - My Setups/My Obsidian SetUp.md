@@ -203,6 +203,7 @@ done
 	12. **Paste image rename**
 	13. **Remember File State**
 	14. **OCR-AI**
-		- Minstral Api ``
-	15. 
+		- Minstral Api `geog71rObMIqhTFHHqtOmpHm5Vpim07T`
+	15. **Excalidraw** 
+		- 
 
