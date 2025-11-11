@@ -47,9 +47,9 @@ tR += `---
 year_num: ${year}
 Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
 quarter_num: ${quarter}
-Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
+Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}]]"
 month_num: ${monthNum}
-Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${month}]]"
+Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${month}]]"
 week_num: ${weekNum}
 Week_Link: "[[13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
 date: ${dateInput}
