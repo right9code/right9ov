@@ -123,7 +123,7 @@ if (monthlyNotesInQuarter.length > 0) {
 const year = dv.current().year_num;
 const quarterNum = dv.current().quarter_num;
 
-const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Daily Notes`;
 
 // This block calculates the quarterly summary from all the relevant daily notes.
 const dailyInQuarter = dv.pages(`"${dailyNotesPath}"`)

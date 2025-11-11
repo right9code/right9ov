@@ -56,4 +56,5 @@ x5hcz1ygfhi10qvj
 	- Cupertino 
 	-  Minimal
 
-5. AA, inA
+5. **Setup Plugins**
+	- Notebook Navigator 

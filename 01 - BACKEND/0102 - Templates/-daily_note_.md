@@ -40,7 +40,7 @@ const weekdayNum = dateMoment.isoWeekday();
 
 // Auto-rename & move
 await tp.file.rename(`${year}-${monthNum}-${dayNum}`);
-await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/01 - Daily Notes/${year}-${monthNum}-${dayNum}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Daily Notes/${year}-${monthNum}-${dayNum}`);
 
 // Emit frontmatter
 tR += `---
