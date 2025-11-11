@@ -160,8 +160,8 @@ done
 	- [x] ==**Toggle left sidebar**==: Alt + Shift + <-
 	- [x] ==**Toggle right sidebar**==: Alt + Shift + ->
 	- [x] ==**Toggle ribbon**==:  Alt + Shift + UP
-	- [ ] ==**Undo Close Tab**==: Ctrl + Shift + W
-	- [ ] ==**Delete current file**==: Ctrl + Delete
+	- [x] ==**Undo Close Tab**==: Ctrl + Shift + T
+	- [x] ==**Delete current file**==: Ctrl + Delete
 	- [ ] ==**Fold all headings and lists**==: Alt + H
 	- [ ] ==**Fold all headings and lists**==: Alt + Shift + H
 	- [ ] ==**Toggle Live Preview/Source mode**==: Alt+ Shift + L
