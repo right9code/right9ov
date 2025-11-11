@@ -188,5 +188,7 @@ done
 	4. **Custom Frames**
 		- Setup Google Keep with right9code
 		- Setup Perplexity
-	5. **Floating TO**
+	5. **Floating TOC**
+	6. **Omnisearch**
+		-
 
