@@ -200,5 +200,5 @@ done
 	9. **Open vault in VS Code**
 	10. **Various Complements**
 	11. **Dataview**
-	12. 
+	12. **Paste image **
 
