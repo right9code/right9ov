@@ -49,4 +49,6 @@ x5hcz1ygfhi10qvj
 	    - 1303 - Writings
 	    - 1304 - Quotes
 	    - 1305 - JournalArchive
+	    - 1306 - My Setups
 
+4. Setup mobile
