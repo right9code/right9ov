@@ -206,5 +206,7 @@ done
 		- Minstral Api `geog71rObMIqhTFHHqtOmpHm5Vpim07T`
 	15. **Excalidraw** 
 		- Set path `01 - BACKEND/0105 - Excalidraw`
-	16. **Pandoc**
+	16. **Pandoc Plugin**
+	17. **Enhanced Export**
+	18. 
 
