@@ -202,6 +202,7 @@ done
 	11. **Dataview**
 	12. **Paste image rename**
 	13. **Remember File State**
-	14. 
+	14. **OCR-AI**
+		- Minstral Api ``
 	15. 
 
