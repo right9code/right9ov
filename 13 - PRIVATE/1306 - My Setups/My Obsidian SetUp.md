@@ -215,5 +215,5 @@ done
 	19. **Recent Files**
 	20. **Vault Changelog**
 	21. **Vertical Tabs**
-	22. 
+	22. **Better Word Count**
 
