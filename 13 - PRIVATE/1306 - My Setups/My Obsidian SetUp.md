@@ -170,10 +170,11 @@ done
 	- [ ] **==Search & replace in current file==**: Ctrl + Shift + H
 	- [ ] **==Toggle highlight==**: Ctrl + H
 	- [ ] **==Toggle strikethrough==**: Ctrl + Shift + 
-	- [ ] **==Split down==**: Ctrl + Shift + DOWN
-	- [ ] **==Split right==**: Ctrl + Shift + -> 
+	- [x] **==Split down==**: Ctrl + Shift + DOWN
+	- [x] **==Split right==**: Ctrl + Shift + -> 
 	- [x] ==**Change Theme**==: Alt + Ctrl + T
 	- [ ] **==Move current file to another folder==**: Alt + M
 
 10. **Setup Plugins**:
-	- 
+	1. Templeter
+		- 
