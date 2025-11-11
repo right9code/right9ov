@@ -16,6 +16,7 @@ x5hcz1ygfhi10qvj
 4. **Folder Structure**
 	- 00 - Unsorted
 	- 01 - BACKEND
+		- _DummyPDF
 	    - 0101 - Attachments
 	    - 0102 - Templates
 	    - 0103 - Tags
@@ -60,6 +61,7 @@ x5hcz1ygfhi10qvj
 mkdir -p "00 - Unsorted"
 
 # BACKEND
+mkdir -p "_DummyPDF"
 mkdir -p "01 - BACKEND/0101 - Attachments"
 mkdir -p "01 - BACKEND/0102 - Templates"
 mkdir -p "01 - BACKEND/0103 - Tags"
