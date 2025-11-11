@@ -212,5 +212,7 @@ done
 		- toolbar theme : glass
 		- vertical position: 54
 		- horizontal position: 142
-	19. 
+	19. **Recent Files**
+	20. **Vault Changelog**
+	21. 
 
