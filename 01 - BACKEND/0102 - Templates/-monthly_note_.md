@@ -15,15 +15,15 @@ const quarter = dateMoment.quarter();
 await tp.file.rename(`${year}-M${monthNum}-${monthName}`);
 
 // Auto-move  
-await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${monthName}`);
 
 tR += `---
 year_num: ${year}  
 Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"  
 quarter_num: ${quarter}  
-Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"  
+Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}]]"  
 month_num: ${monthNum}
-Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}]]"
+Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${monthName}]]"
 aliases:
   - "${monthName} ${year}"  
 tags:
@@ -37,7 +37,7 @@ monthly_pomo_duration: "0h 0m"
 `;
 
 // Breadcrumbs  
-tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]]\n\n`;  
+tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]]\n\n`;  
 %>
 ```dataviewjs
 // Weekly Notes for {MonthName}, {Year}
