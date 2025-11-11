@@ -45,11 +45,11 @@ await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Daily Notes/${year}-${mo
 // Emit frontmatter
 tR += `---
 year_num: ${year}
-Year_Link: "[[01 - JOURNAL/${year}/${year}]]"
+Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
 quarter_num: ${quarter}
-Quarterly_Link: "[[01 - JOURNAL/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
+Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}]]"
 month_num: ${monthNum}
-Monthly_Link: "[[01 - JOURNAL/${year}/03 - Monthly Notes/${year}-M${monthNum}-${month}]]"
+Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${month}]]"
 week_num: ${weekNum}
 Week_Link: "[[01 - JOURNAL/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
 date: ${dateInput}
