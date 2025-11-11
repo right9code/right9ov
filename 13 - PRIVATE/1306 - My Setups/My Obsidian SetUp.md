@@ -161,7 +161,7 @@ done
 	- [x] ==**Toggle left sidebar**==: Alt + Shift + <-
 	- [x] ==**Toggle right sidebar**==: Alt + Shift + ->
 	- [x] ==**Toggle ribbon**==:  Alt + Shift + UP
-	- [x] ==**Undo Close Tab**==: Ctrl + Shift + T
+	- [x] ==**Undo Close Tab**==: Ctrl + Shift + W
 	- [x] ==**Delete current file**==: Ctrl + Delete
 	- [ ] ==**Fold all headings and lists**==: Alt + H
 	- [ ] ==**Fold all headings and lists**==: Alt + Shift + H
@@ -177,4 +177,9 @@ done
 
 10. **Setup Plugins**:
 	1. Templeter
-		- 
+		- Templater: Create -new_note_ Al + N
+
+Templater: Create new note from
+
+Ctrl + shift + T
+template
