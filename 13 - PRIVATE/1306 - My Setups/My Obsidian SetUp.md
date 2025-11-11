@@ -182,5 +182,5 @@ done
 	2. **Terminal**
 		- ==Terminal: Open root directory in terminal: Integrated== Ctrl + Alt + Shift + T 
 	3. **PDF++**
-		- 
+		- ==Default location for new PDFs==: `01 - BACKEND/_DummyPDF`
 
