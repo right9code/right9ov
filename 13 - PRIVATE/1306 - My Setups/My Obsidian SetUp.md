@@ -147,5 +147,11 @@ done
 	- Primary
 
 8. Setup the `css snippets`
-	- 00 - zen
-	- 
+	- 00 - zen.css
+	- 01 - sleek.css
+	- 02- sidebar-folder-colors.css
+	- 03 - fat-sidebar-folders.css
+	- 04 - custon-heading-colors.css
+	- 05 - fatheading.css
+	- 06 - text-formatting.css
+	- 07 - hover-properties.css
