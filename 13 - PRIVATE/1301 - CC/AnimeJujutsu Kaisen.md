@@ -126,4 +126,4 @@ tags:
 ---
 ## My Thoughts:
 - 
-![[AnimeJujutsu Kaisen.png]]
+![[AnimeJujutsu Kaisen.png]]![[../../01 - BACKEND/0101 - Attachments/Pasted image 20251111210116.png]]
