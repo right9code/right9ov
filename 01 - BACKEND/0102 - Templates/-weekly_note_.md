@@ -40,7 +40,7 @@ weekly_pomo_duration: "0h 0m"
 `;
 
 // Breadcrumb line
-tR += `**YEAR:** [[01 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[01 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[01 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]] • **WEEK:** [[01 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]]\n\n`;
+tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[01 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]] • **WEEK:** [[01 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]]\n\n`;
 %>
 ```dataviewjs
 const year = dv.current().year_num;  
