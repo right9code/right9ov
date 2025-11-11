@@ -198,4 +198,5 @@ done
 		- Apikey `AIzaSyDFCswoLp7EyKxA5bodOpHV6z9xrUtYBJc`
 	9. **Open vault in VS Code**
 	10. **Various Complements**
-	11. 
+	11. **Dataview**
+	12. 
