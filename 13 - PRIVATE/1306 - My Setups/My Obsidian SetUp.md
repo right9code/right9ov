@@ -155,3 +155,21 @@ done
 	- 05 - fatheading.css
 	- 06 - text-formatting.css
 	- 07 - hover-properties.css
+
+9. **Basic HOTKEYS SETUP**:
+	- [x] ==**Toggle left sidebar**==: Alt + Shift + <-
+	- [x] ==**Toggle right sidebar**==: Alt + Shift + ->
+	- [x] ==**Toggle ribbon**==:  Alt + Shift + UP
+	- [ ] ==**Undo Close Tab**==: Ctrl + Shift + W
+	- [ ] ==**Delete current file**==: Ctrl + Delete
+	- [ ] ==**Fold all headings and lists**==: Alt + H
+	- [ ] ==**Fold all headings and lists**==: Alt + Shift + H
+	- [ ] ==**Toggle Live Preview/Source mode**==: Alt+ Shift + L
+	- [ ] ==**Toggle reading view**==: Alt+ Shift + R
+	- [ ] **==Search & replace in current file==**: Ctrl + Shift + H
+	- [ ] **==Toggle highlight==**: Ctrl + H
+	- [ ] **==Toggle strikethrough==**: Ctrl + Shift + 
+	- [ ] **==Split down==**: Ctrl + Shift + DOWN
+	- [ ] **==Split right==**: Ctrl + Shift + -> 
+	- [x] ==**Change Theme**==: Alt + Ctrl + T
+	- [ ] **==Move current file to another folder==**: Alt + M
