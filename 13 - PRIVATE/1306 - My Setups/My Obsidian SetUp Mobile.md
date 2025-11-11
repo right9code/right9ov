@@ -56,4 +56,4 @@ x5hcz1ygfhi10qvj
 	- Cupertino 
 	-  Minimal
 
-5. AA,A
+5. AA, inA
