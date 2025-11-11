@@ -176,7 +176,9 @@ done
 	- [ ] **==Move current file to another folder==**: Alt + M
 
 10. **Setup Plugins**:
-	1. Templeter
+	1. **Templeter**
 		- ==Templater: Create -new_note_==: Alt + N
 		- ==Templater: Create new note from templete==: Ctrl + shift + T
+	2. **Terminal**
+		- ==Terminal: Open root directory in terminal: Integrated== Ctrl + Alt + Shift + T 
 
