@@ -163,8 +163,8 @@ done
 	- [x] ==**Toggle ribbon**==:  Alt + Shift + UP
 	- [x] ==**Undo Close Tab**==: Ctrl + Shift + W
 	- [x] ==**Delete current file**==: Ctrl + Delete
-	- [ ] ==**Fold all headings and lists**==: Alt + H
-	- [ ] ==**Fold all headings and lists**==: Alt + Shift + H
+	- [x] ==**Fold all headings and lists**==: Alt + H
+	- [x] ==**Fold all headings and lists**==: Alt + Shift + H
 	- [ ] ==**Toggle Live Preview/Source mode**==: Alt+ Shift + L
 	- [ ] ==**Toggle reading view**==: Alt+ Shift + R
 	- [ ] **==Search & replace in current file==**: Ctrl + Shift + H
@@ -177,9 +177,8 @@ done
 
 10. **Setup Plugins**:
 	1. Templeter
-		- Templater: Create -new_note_ Al + N
-
-Templater: Create new note from
+		- ==Templater: Create -new_note_==: Alt + N
+		- Templater: Create new note from
 
 Ctrl + shift + T
 template
