@@ -178,7 +178,7 @@ done
 10. **Setup Plugins**:
 	1. **Templeter**
 		- ==Templater: Create -new_note_==: Alt + N
-		- ==Templater: Create new note from templete==: Alt + T
+		- ==Templater: Open insert template modal==: Alt + T
 	2. **Terminal**
 		- ==Terminal: Open root directory in terminal: Integrated== Ctrl + Alt + Shift + T 
 	3. **PDF++**
@@ -200,3 +200,4 @@ done
 	10. **Various Complements**
 	11. **Dataview**
 	12. 
+
