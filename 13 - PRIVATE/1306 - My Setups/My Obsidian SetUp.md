@@ -208,5 +208,5 @@ done
 		- Set path `01 - BACKEND/0105 - Excalidraw`
 	16. **Pandoc Plugin**
 	17. **Enhanced Export**
-	18. 
+	18. **Editing Toolbar**
 
