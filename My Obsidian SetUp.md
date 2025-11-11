@@ -52,4 +52,55 @@ x5hcz1ygfhi10qvj
 	    - 1304 - Quotes
 	    - 1305 - JournalArchive
 
-5. Create required folders 
+5. Create required folders
+```bash
+#!/bin/bash
+
+# Top-level and simple dirs
+mkdir -p "00 - Unsorted"
+
+# BACKEND
+mkdir -p "01 - BACKEND/0101 - Attachments"
+mkdir -p "01 - BACKEND/0102 - Templates"
+mkdir -p "01 - BACKEND/0103 - Tags"
+mkdir -p "01 - BACKEND/0104 - Bases"
+mkdir -p "01 - BACKEND/0105 - Excalidraw"
+mkdir -p "01 - BACKEND/0106 - Canvas"
+
+# WIKI (note: you had a typo: "0105 - Cosmology" → should be "0305")
+mkdir -p "03 - WIKI/0301 - English"
+mkdir -p "03 - WIKI/0302 - ComSci"
+mkdir -p "03 - WIKI/0303 - Psychology"
+mkdir -p "03 - WIKI/0304 - Philosophy"
+mkdir -p "03 - WIKI/0305 - Cosmology"
+
+# ACADEMICS
+mkdir -p "05 - ACADEMICS/0501 - PGT"
+mkdir -p "05 - ACADEMICS/0502 - AP"
+
+# ROUGH NOTES
+mkdir -p "07 - ROUGH NOTES"
+
+# PWD
+mkdir -p "09 - PWD"
+
+# PROJECTS
+mkdir -p "11 - PROJECTS/1101 - Academics"
+mkdir -p "11 - PROJECTS/1102 - Writing"
+
+# PRIVATE
+mkdir -p "13 - PRIVATE/1301 - CC"
+mkdir -p "13 - PRIVATE/1301 - CC/Books"
+mkdir -p "13 - PRIVATE/1301 - CC/GraphicReads"
+mkdir -p "13 - PRIVATE/1301 - CC/Anime"
+mkdir -p "13 - PRIVATE/1301 - CC/AsianDramas"
+mkdir -p "13 - PRIVATE/1301 - CC/Movies"
+mkdir -p "13 - PRIVATE/1301 - CC/Shows"
+mkdir -p "13 - PRIVATE/1301 - CC/Podcasts"
+mkdir -p "13 - PRIVATE/1301 - CC/Games"
+mkdir -p "13 - PRIVATE/1301 - CC/Music"
+mkdir -p "13 - PRIVATE/1302 - Journal"
+mkdir -p "13 - PRIVATE/1303 - Writings"
+mkdir -p "13 - PRIVATE/1304 - Quotes"
+mkdir -p "13 - PRIVATE/1305 - JournalArchive"
+  ```
