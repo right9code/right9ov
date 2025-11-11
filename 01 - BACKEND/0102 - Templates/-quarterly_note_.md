@@ -9,13 +9,13 @@ const [year, quarterNum] = quarterInput.split("-Q");
 await tp.file.rename(`${year}-Q${quarterNum}`);
 
 // AUTO-MOVE THE FILE
-await tp.file.move(`01 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarterNum}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarterNum}`);
 
 tR += `---
 year_num: ${year}
-Year_Link: "[[01 - Journal/${year}/${year}]]"
+Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
 quarter_num: ${quarterNum}
-Quarterly_Link: "[[01 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarterNum}]]"
+Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarterNum}]]"
 aliases:
   - "Q${quarterNum} ${year}"
 tags:
@@ -27,7 +27,7 @@ quarterly_pomos: 0
 quarterly_pomo_duration: "0h 0m"
 ---
 
-**YEAR:** [[01 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[01 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarterNum}|${year}-Q${quarterNum}]]
+**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarterNum}|${year}-Q${quarterNum}]]
 
 `;
 %>
@@ -35,7 +35,7 @@ quarterly_pomo_duration: "0h 0m"
 const year = dv.current().year_num;
 const quarterNum = dv.current().quarter_num;
 
-const monthlyNotesPath = `01 - Journal/${year}/010103 - Monthly Notes`;
+const monthlyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Monthly Notes`;
 
 // This block finds and lists the monthly notes for this quarter.
 const monthlyNotesInQuarter = dv.pages(`"${monthlyNotesPath}"`)
@@ -123,7 +123,7 @@ if (monthlyNotesInQuarter.length > 0) {
 const year = dv.current().year_num;
 const quarterNum = dv.current().quarter_num;
 
-const dailyNotesPath = `01 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;
 
 // This block calculates the quarterly summary from all the relevant daily notes.
 const dailyInQuarter = dv.pages(`"${dailyNotesPath}"`)
