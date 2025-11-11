@@ -219,5 +219,7 @@ done
 	22. **Better Word Count**
 		- Disable core `word count` plugin
 	23. **Image Converter**
-	24. **Media**
+	24. **Media Extended**
+	25. **File Explorer Word Count**
+	26. 
 
