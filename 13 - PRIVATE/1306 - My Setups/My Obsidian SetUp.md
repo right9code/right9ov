@@ -188,4 +188,4 @@ done
 	4. **Custom Frames**
 		- Setup Google Keep with right9code
 		- 
-www.google.com
+
