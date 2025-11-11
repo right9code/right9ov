@@ -190,6 +190,8 @@ done
 		- Setup Perplexity
 	5. **Floating TOC**
 	6. **Omnisearch**
-		- Omnisearch: Vault search Ctrl+ O
+		- ==Omnisearch: Vault search==: Ctrl+ O
+	7. **Text Extractor**
+	8. 
 
 
