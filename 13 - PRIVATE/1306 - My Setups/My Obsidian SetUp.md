@@ -218,5 +218,6 @@ done
 	21. **Vertical Tabs**
 	22. **Better Word Count**
 		- Disable core `word count` plugin
-	23. 
+	23. **Image Converter**
+	24. **Media**
 
