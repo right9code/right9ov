@@ -197,4 +197,5 @@ done
 		- Select Gemini model `models/gemini-2.5-flash`
 		- Apikey `AIzaSyDFCswoLp7EyKxA5bodOpHV6z9xrUtYBJc`
 	9. **Open vault in VS Code**
-	10. 
+	10. **Various Complements**
+	11. 
