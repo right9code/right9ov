@@ -209,4 +209,6 @@ done
 	16. **Pandoc Plugin**
 	17. **Enhanced Export**
 	18. **Editing Toolbar**
+		- toolbar theme : glass
+		- 
 
