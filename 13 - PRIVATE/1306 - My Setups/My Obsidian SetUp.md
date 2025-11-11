@@ -191,6 +191,7 @@ done
 	5. **Floating TOC**
 	6. **Omnisearch**
 		- ==Omnisearch: Vault search==: Ctrl+ O
+		- Enable Indexing for different file formats
 	7. **Text Extractor**
 	8. 
 
