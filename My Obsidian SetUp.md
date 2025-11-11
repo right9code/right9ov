@@ -6,4 +6,6 @@ ghpxxx_ImsK6UVxCrs0ZzEOwYd1QuJWlbPWxv2tvSQu
 ```
 
 2. **Install and SetUp `Remotely Save` Plugin**
-	- 
+```koofr key
+x5hcz1ygfhi10qvj
+```
