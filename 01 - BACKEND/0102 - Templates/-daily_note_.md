@@ -51,7 +51,7 @@ Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q
 month_num: ${monthNum}
 Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${month}]]"
 week_num: ${weekNum}
-Week_Link: "[[13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
+Week_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${weekNum}]]"
 date: ${dateInput}
 Date_Link: "[[13 - PRIVATE/1302 - Journal/${year}/Daily Notes/${year}-${monthNum}-${dayNum}]]"
 weekday: "${weekday}"
@@ -74,7 +74,7 @@ pomo_duration: "0h 0m"
 `;
 
 // Breadcrumb line
-tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/010104 - Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[13 - PRIVATE/1302 - Journal/${year}/010103 - Monthly Notes/${year}-M${monthNum}-${month}|${month}]] • **WEEK:** [[13 - PRIVATE/1302 - Journal/${year}/010102 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]] • **DATE:** [[13 - PRIVATE/1302 - Journal/${year}/0101Daily Notes/${year}-${monthNum}-${dayNum}|${dateInput}]] • **DAY:** [[13 - PRIVATE/1302 - Journal/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]\n\n`;
+tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${month}|${month}]] • **WEEK:** [[13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]] • **DATE:** [[13 - PRIVATE/1302 - Journal/${year}/Daily Notes/${year}-${monthNum}-${dayNum}|${dateInput}]] • **DAY:** [[13 - PRIVATE/1302 - Journal/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]\n\n`;
 %>
 ### TO-DO:
 - **BASE 3**:
