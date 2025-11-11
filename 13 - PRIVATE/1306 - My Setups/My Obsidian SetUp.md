@@ -181,4 +181,6 @@ done
 		- ==Templater: Create new note from templete==: Ctrl + shift + T
 	2. **Terminal**
 		- ==Terminal: Open root directory in terminal: Integrated== Ctrl + Alt + Shift + T 
+	3. **PDF++**
+		- 
 
