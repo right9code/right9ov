@@ -146,4 +146,5 @@ done
 	- Transient
 	- Primary
 
-8. Plugins Setu
+8. Setup the `css `
+	- 
