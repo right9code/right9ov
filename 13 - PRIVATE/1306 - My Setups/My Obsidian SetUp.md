@@ -139,3 +139,5 @@ find "$ROOT" -type d -not -path "*/\.*" -not -name "_*" -not -name ".*" | while 
     echo "Created: $unsorted_dir"
 done
 ```
+
+7. 
