@@ -28,6 +28,7 @@ const durationH = Math.floor(diff / 3600000);
 const durationM = Math.floor((diff % 3600000) / 60000);
 const sleepDuration = `${durationH}h ${durationM}m`;
 
+await tp.file.rename(`${year}-${monthNum}-${dayNum}`);
 // Extract components
 const year     = dateMoment.format("YYYY");
 const monthNum = dateMoment.format("MM");
