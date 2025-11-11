@@ -179,6 +179,7 @@ done
 	1. **Templeter**
 		- ==Templater: Create -new_note_==: Alt + N
 		- ==Templater: Open insert template modal==: Alt + T
+		- ==Templater: Create new note from template==: Alt + Shift + T
 	2. **Terminal**
 		- ==Terminal: Open root directory in terminal: Integrated== Ctrl + Alt + Shift + T 
 	3. **PDF++**
