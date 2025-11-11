@@ -15,7 +15,7 @@ const monthNum = weekMoment.format("MM");
 const monthName = weekMoment.format("MMMM");
 
 // AUTO-MOVE
-await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${weekNum}`);
 
 // YAML
 tR += `---
