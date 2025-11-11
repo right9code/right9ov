@@ -140,4 +140,7 @@ find "$ROOT" -type d -not -path "*/\.*" -not -name "_*" -not -name ".*" | while 
 done
 ```
 
-7. 
+7. **Setup Desktop themes**:
+	- Retroma
+	- Velocity
+	- 
