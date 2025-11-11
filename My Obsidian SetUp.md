@@ -52,4 +52,4 @@ x5hcz1ygfhi10qvj
 	    - 1304 - Quotes
 	    - 1305 - JournalArchive
 
-5. 
+5. Create required folders 
