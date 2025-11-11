@@ -52,6 +52,8 @@ x5hcz1ygfhi10qvj
 	    - 1305 - JournalArchive
 	    - 1306 - My Setups
 
-4. Setup mobile theme
+4. **Setup mobile theme**
 	- Cupertino 
-	- 
+	-  Minimal
+
+5. 
