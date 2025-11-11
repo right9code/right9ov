@@ -146,5 +146,6 @@ done
 	- Transient
 	- Primary
 
-8. Setup the `css `
+8. Setup the `css snippets`
+	- 00 - zen
 	- 
