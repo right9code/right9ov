@@ -74,7 +74,7 @@ pomo_duration: "0h 0m"
 `;
 
 // Breadcrumb line
-tR += `**YEAR:** [[01 - JOURNAL/${year}/${year}|${year}]] • **QUARTER:** [[01 - JOURNAL/${year}/010104 - Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[01 - JOURNAL/${year}/010103 - Monthly Notes/${year}-M${monthNum}-${month}|${month}]] • **WEEK:** [[01 - JOURNAL/${year}/010102 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]] • **DATE:** [[01 - JOURNAL/${year}/010101 - Daily Notes/${year}-${monthNum}-${dayNum}|${dateInput}]] • **DAY:** [[01 - JOURNAL/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]\n\n`;
+tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[01 - JOURNAL/${year}/010103 - Monthly Notes/${year}-M${monthNum}-${month}|${month}]] • **WEEK:** [[01 - JOURNAL/${year}/010102 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]] • **DATE:** [[01 - JOURNAL/${year}/010101 - Daily Notes/${year}-${monthNum}-${dayNum}|${dateInput}]] • **DAY:** [[01 - JOURNAL/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]\n\n`;
 %>
 ### TO-DO:
 - **BASE 3**:
