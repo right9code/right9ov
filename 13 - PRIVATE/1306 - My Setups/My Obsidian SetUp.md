@@ -205,5 +205,5 @@ done
 	14. **OCR-AI**
 		- Minstral Api `geog71rObMIqhTFHHqtOmpHm5Vpim07T`
 	15. **Excalidraw** 
-		- 
+		- Set path ``
 
