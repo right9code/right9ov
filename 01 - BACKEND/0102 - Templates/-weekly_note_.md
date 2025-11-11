@@ -15,18 +15,18 @@ const monthNum = weekMoment.format("MM");
 const monthName = weekMoment.format("MMMM");
 
 // AUTO-MOVE
-await tp.file.move(`01 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}`);
 
 // YAML
 tR += `---
 year_num: ${year}
-Year_Link: "[[01 - Journal/${year}/${year}]]"
+Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
 quarter_num: ${quarter}
-Quarterly_Link: "[[01 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
+Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
 month_num: ${monthNum}
-Monthly_Link: "[[01 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}]]"
+Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}]]"
 week_num: ${weekNum}
-Week_Link: "[[01 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
+Week_Link: "[[13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
 aliases:
   - "Week ${weekNum}, ${monthName} ${year}"
 tags:
@@ -40,12 +40,12 @@ weekly_pomo_duration: "0h 0m"
 `;
 
 // Breadcrumb line
-tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[01 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]] • **WEEK:** [[01 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]]\n\n`;
+tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **QUARTER:** [[13 - PRIVATE/1302 - Journal/${year}/Quarterly Notes/${year}-Q${quarter}|${year}-Q${quarter}]] • **MONTH:** [[13 - PRIVATE/1302 - Journal/${year}/Monthly Notes/${year}-M${monthNum}-${monthName}|${monthName}]] • **WEEK:** [[13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${weekNum}|${year}-W${weekNum}]]\n\n`;
 %>
 ```dataviewjs
 const year = dv.current().year_num;  
 const weekNum = dv.current().week_num;  
-const dailyNotesPath = `01 - Journal/${year}/010101 - Daily Notes`;  
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;  
 
 // More robust filter: checks year AND week_num
 const dailyNotesInWeek = dv.pages(`"${dailyNotesPath}"`)
@@ -133,7 +133,7 @@ if (dailyNotesInWeek.length > 0) {
 const year = dv.current().year_num;
 const weekNum = dv.current().week_num;
 
-const dailyNotesPath = `01 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;
 
 // More robust filter: checks year AND week_num
 const dailyNotesInWeek = dv.pages(`"${dailyNotesPath}"`)
