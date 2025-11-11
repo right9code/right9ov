@@ -20,7 +20,7 @@ await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${
 // YAML
 tR += `---
 year_num: ${year}
-Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
+Year_Link: "[[01 - BACKEND/0105 - Excalidraw/${year}/${year}]]"
 quarter_num: ${quarter}
 Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
 month_num: ${monthNum}
