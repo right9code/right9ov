@@ -214,5 +214,6 @@ done
 		- horizontal position: 142
 	19. **Recent Files**
 	20. **Vault Changelog**
-	21. 
+	21. **Vertical Tabs**
+	22. 
 
