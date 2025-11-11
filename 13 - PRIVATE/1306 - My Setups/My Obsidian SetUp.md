@@ -61,7 +61,7 @@ x5hcz1ygfhi10qvj
 mkdir -p "00 - Unsorted"
 
 # BACKEND
-mkdir -p "_DummyPDF"
+mkdir -p "01 - BACKEND/_DummyPDF"
 mkdir -p "01 - BACKEND/0101 - Attachments"
 mkdir -p "01 - BACKEND/0102 - Templates"
 mkdir -p "01 - BACKEND/0103 - Tags"
