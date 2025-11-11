@@ -194,5 +194,6 @@ done
 		- Enable Indexing for different file formats
 	7. **Text Extractor**
 	8. **Inline AI**
-		- 
-
+		- Select Gemini model `models/gemini-2.5-flash`
+		- Apikey `AIzaSyDFCswoLp7EyKxA5bodOpHV6z9xrUtYBJc`
+	9. 
