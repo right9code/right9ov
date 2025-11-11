@@ -178,7 +178,5 @@ done
 10. **Setup Plugins**:
 	1. Templeter
 		- ==Templater: Create -new_note_==: Alt + N
-		- Templater: Create new note from
+		- ==Templater: Create new note from templete==: Ctrl + shift + T
 
-Ctrl + shift + T
-template
