@@ -193,6 +193,6 @@ done
 		- ==Omnisearch: Vault search==: Ctrl+ O
 		- Enable Indexing for different file formats
 	7. **Text Extractor**
-	8. 
-
+	8. **Inline AI**
+		- 
 
