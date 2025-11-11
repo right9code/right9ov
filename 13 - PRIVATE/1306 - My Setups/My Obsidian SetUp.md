@@ -186,4 +186,5 @@ done
 		- ==PDF++: Create dummy file for external PDF==: Ctrl + Alt + P
 		- ==PDF++: Toggle "adapt to theme”== Alt + Shift + P
 	4. **Custom Frames**
-		- Setup Keep
+		- Setup Google Keep with right9code
+		- 
