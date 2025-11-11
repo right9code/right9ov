@@ -146,3 +146,4 @@ done
 	- Transient
 	- Primary
 
+8. Plugins Setu
