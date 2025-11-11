@@ -146,7 +146,7 @@ done
 	- Transient
 	- Primary
 
-8. Setup the `css snippets`
+8. **Setup the `css snippets`**:
 	- 00 - zen.css
 	- 01 - sleek.css
 	- 02- sidebar-folder-colors.css
@@ -173,3 +173,5 @@ done
 	- [ ] **==Split right==**: Ctrl + Shift + -> 
 	- [x] ==**Change Theme**==: Alt + Ctrl + T
 	- [ ] **==Move current file to another folder==**: Alt + M
+
+10. **Setup Plugins**:
