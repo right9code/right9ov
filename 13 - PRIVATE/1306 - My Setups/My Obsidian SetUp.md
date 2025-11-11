@@ -143,4 +143,6 @@ done
 7. **Setup Desktop themes**:
 	- Retroma
 	- Velocity
-	- Transie
+	- Transient
+	- Primary
+
