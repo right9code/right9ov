@@ -9,7 +9,7 @@ const year = yearInput;
 await tp.file.rename(`${year}`);
 
 // AUTO-MOVE THE FILE
-await tp.file.move(`01 - Journal/${year}/${year}`);
+await tp.file.move(`13 - PRIVATE/1302 - Journal//${year}/${year}`);
 
 tR += `---
 year_num: ${year}
@@ -25,14 +25,14 @@ yearly_pomos: 0
 yearly_pomo_duration: "0h 0m"
 ---
 
-**YEAR:** [[01 - Journal/${year}/${year}|${year}]]
+**YEAR:** [[13 - PRIVATE/1302 - Journal//${year}/${year}|${year}]]
 
 `;
 %>
 ```dataviewjs
 const year = dv.current().year_num;
 
-const quarterlyNotesPath = `01 - Journal/${year}/010104 - Quarterly Notes`;
+const quarterlyNotesPath = `13 - PRIVATE/1302 - Journal//${year}/010104 - Quarterly Notes`;
 
 // This block finds and lists the quarterly notes for this year.
 const quarterlyNotesInYear = dv.pages(`"${quarterlyNotesPath}"`)
@@ -116,7 +116,7 @@ if (quarterlyNotesInYear.length > 0) {
 ```dataviewjs
 const year = dv.current().year_num;
 
-const dailyNotesPath = `01 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal//${year}/010101 - Daily Notes`;
 
 // This block calculates the yearly summary from all daily notes in this year.
 const dailyInYear = dv.pages(`"${dailyNotesPath}"`)
