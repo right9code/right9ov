@@ -1,7 +1,7 @@
 <%*
 // --- CONFIGURATION ---
 const defaultCoverUrl = "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/default.jpg";
-const targetFolder = "/97 - PRIVATE/9701 - CC/02 - Anime/"; // The destination folder
+const targetFolder = "/13 - PRIVATE/1301 - CC/Anime"; // The destination folder
 
 // --- SCRIPT START ---
 const notice = (msg) => new Notice(msg, 6000);
