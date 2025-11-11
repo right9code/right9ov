@@ -20,7 +20,7 @@ await tp.file.move(`13 - PRIVATE/1302 - Journal/${year}/Weekly Notes/${year}-W${
 // YAML
 tR += `---
 year_num: ${year}
-Year_Link: "[[01 - BACKEND/0105 - Excalidraw/${year}/${year}]]"
+Year_Link: "[[13 - PRIVATE/1302 - Journal/${year}/${year}]]"
 quarter_num: ${quarter}
 Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${year}-Q${quarter}]]"
 month_num: ${monthNum}
@@ -45,7 +45,7 @@ tR += `**YEAR:** [[13 - PRIVATE/1302 - Journal/${year}/${year}|${year}]] • **Q
 ```dataviewjs
 const year = dv.current().year_num;  
 const weekNum = dv.current().week_num;  
-const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;  
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Daily Notes`;  
 
 // More robust filter: checks year AND week_num
 const dailyNotesInWeek = dv.pages(`"${dailyNotesPath}"`)
@@ -133,7 +133,7 @@ if (dailyNotesInWeek.length > 0) {
 const year = dv.current().year_num;
 const weekNum = dv.current().week_num;
 
-const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Daily Notes`;
 
 // More robust filter: checks year AND week_num
 const dailyNotesInWeek = dv.pages(`"${dailyNotesPath}"`)

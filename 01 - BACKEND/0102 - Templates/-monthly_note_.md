@@ -132,7 +132,7 @@ const year = dv.current().year_num;
 const monthNum = dv.current().month_num;
 const monthName = moment().month(monthNum - 1).format("MMMM");
 
-const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/010101 - Daily Notes`;
+const dailyNotesPath = `13 - PRIVATE/1302 - Journal/${year}/Daily Notes`;
 
 // This now filters by BOTH year and month for maximum robustness.
 const dailyInMonth = dv.pages(`"${dailyNotesPath}"`)
