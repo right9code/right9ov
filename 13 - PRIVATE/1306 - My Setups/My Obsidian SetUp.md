@@ -155,6 +155,7 @@ done
 	- 05 - fatheading.css
 	- 06 - text-formatting.css
 	- 07 - hover-properties.css
+	- 08 - hide-popups.css
 
 9. **Basic HOTKEYS SETUP**:
 	- [x] ==**Toggle left sidebar**==: Alt + Shift + <-
@@ -175,3 +176,4 @@ done
 	- [ ] **==Move current file to another folder==**: Alt + M
 
 10. **Setup Plugins**:
+	- 
