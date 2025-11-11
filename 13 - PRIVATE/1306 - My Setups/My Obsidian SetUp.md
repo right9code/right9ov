@@ -211,6 +211,5 @@ done
 	18. **Editing Toolbar**
 		- toolbar theme : glass
 		- vertical position: 54
-		- horizontal position: 142
-	19. 
+		- horizontal position:
 
