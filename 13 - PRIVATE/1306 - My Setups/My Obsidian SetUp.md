@@ -177,6 +177,7 @@ done
 
 10. **Setup Plugins**:
 	1. **Templeter**
+	2. 
 		- ==Templater: Create -new_note_==: Alt + N
 		- ==Templater: Open insert template modal==: Alt + T
 		- ==Templater: Create new note from template==: Alt + Shift + T
@@ -216,4 +217,5 @@ done
 	20. **Vault Changelog**
 	21. **Vertical Tabs**
 	22. **Better Word Count**
+		- Disable core `word count plugin`
 
