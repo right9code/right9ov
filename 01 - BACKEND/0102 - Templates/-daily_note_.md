@@ -51,11 +51,11 @@ Quarterly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/04 - Quarterly Notes/${ye
 month_num: ${monthNum}
 Monthly_Link: "[[13 - PRIVATE/1302 - Journal/${year}/03 - Monthly Notes/${year}-M${monthNum}-${month}]]"
 week_num: ${weekNum}
-Week_Link: "[[01 - JOURNAL/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
+Week_Link: "[[13 - PRIVATE/1302 - Journal/${year}/02 - Weekly Notes/${year}-W${weekNum}]]"
 date: ${dateInput}
-Date_Link: "[[01 - JOURNAL/${year}/01 - Daily Notes/${year}-${monthNum}-${dayNum}]]"
+Date_Link: "[[13 - PRIVATE/1302 - Journal/${year}/01 - Daily Notes/${year}-${monthNum}-${dayNum}]]"
 weekday: "${weekday}"
-Weekday_Link: "[[01 - JOURNAL/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]"
+Weekday_Link: "[[13 - PRIVATE/1302 - Journal/Weekdays/${weekdayNum} - ${weekday}|${weekday}]]"
 Day_type:
   - "[[LineDAY]]"
   - "[[ArcDAY]]"
