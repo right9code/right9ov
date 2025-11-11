@@ -5,7 +5,11 @@ githubxxx_pat_11BQ7IPLA0hj4HP2tElCbG_L1n0wrpB1shEkFzoRFjij4maA1kujWwGMKXfGiKUkIk
 ghpxxx_ImsK6UVxCrs0ZzEOwYd1QuJWlbPWxv2tvSQu
 ```
 
-2. **Install and SetUp `Remotely Save` Plugin**
+2. **Install and Setup `Remotely Save` Plugin**
 ```koofr key
 x5hcz1ygfhi10qvj
 ```
+
+3. Install and Setup the Terminal Plugin
+	- Set Profile : Zsh External
+
