@@ -157,19 +157,19 @@ tags:
 - etc.
 #### 🕰️ **19th–20th Century American & English Literature**  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Robert Frost|Robert Frost]], 
-- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Ernest Hemingway|Ernest Hemingway]], 
-- [[Walt Whitman]],  
-- [[Nathaniel Hawthorne]], 
-- [[Emily Dickinson]],  
-- [[George Bernard Shaw]], 
-- [[Arthur Miller]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Ernest Hemingway|Ernest Hemingway]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Walt Whitman|Walt Whitman]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Nathaniel Hawthorne|Nathaniel Hawthorne]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Emily Dickinson|Emily Dickinson]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/George Bernard Shaw|George Bernard Shaw]],
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Arthur Miller|Arthur Miller]],
 - etc.
 
 #### 🇮🇳 **Modern Indian Writing in English**  
-- [[Anita Desai]] , 
-- [[Vikram Seth]] ,  
-- [[Nissim Ezekiel]], 
-- [[K.N. Daruwalla]] ,  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Anita Desai|Anita Desai]] , 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Vikram Seth|Vikram Seth]] ,  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Nissim Ezekiel|Nissim Ezekiel]], 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/K.N. Daruwalla|K.N. Daruwalla]] ,  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Ruskin Bond|Ruskin Bond]], 
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/R.K. Narayan|R.K. Narayan]],  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Mulk Raj Anand|Mulk Raj Anand]], 
@@ -177,10 +177,10 @@ tags:
 - etc.
 
 #### 🌍 **Modern Writing from Other Regions**  
-- [[Latin American Literature]]
-- [[African Literature]]
-- [[Australian Literature]] 
-- [[South Asian Literature]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Writing from Other Regions/Latin American Literature|Latin American Literature]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Writing from Other Regions/African Literature|African Literature]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Writing from Other Regions/Australian Literature|Australian Literature]] 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Writing from Other Regions/South Asian Literature|South Asian Literature]]  
 
 ---
 
