@@ -52,20 +52,19 @@ tags:
 ---
 
 ### **Part-II: Reasoning Ability**
-- [[Puzzles & Seating Arrangement]]  
-- [[Data Sufficiency]]  
-- [[Statement-Based Questions (Verbal Reasoning)]]  
-- [[Inequality]]  
-- [[Blood Relations]]  
-- [[Sequences & Series]]  
-- [[Direction Test]]  
-- [[Assertion & Reason]]  
-- [[Venn Diagrams]]  
-
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Puzzles & Seating Arrangement|Puzzles & Seating Arrangement]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Data Sufficiency|Data Sufficiency]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Statement-Based Questions (Verbal Reasoning)|Statement-Based Questions (Verbal Reasoning)]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Inequality|Inequality]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Blood Relations|Blood Relations]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Sequences & Series|Sequences & Series]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Direction Test|Direction Test]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Assertion & Reason|Assertion & Reason]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-II – Reasoning Ability/Venn Diagrams|Venn Diagrams]]
 ---
 
 ### **Part-III: Knowledge of ICT**
-- [[Fundamentals of Computer System]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Fundamentals of Computer System|Fundamentals of Computer System]]  
 - [[Basics of Operating System]]  
 - [[MS Office]]  
 - [[Keyboard Shortcuts]]  
