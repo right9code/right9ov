@@ -47,7 +47,7 @@ tags:
 
 ### **Part-I: General Awareness**
 - [[EMRS Paper 1/Part-I – General Awareness/General Knowledge|General Knowledge]]  
-- [[Current Affairs]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-I – General Awareness/Current Affairs|Current Affairs]]  
 
 ---
 
