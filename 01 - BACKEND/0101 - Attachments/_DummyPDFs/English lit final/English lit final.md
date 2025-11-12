@@ -1557,8 +1557,7 @@ Below is a fully comprehensive table of Neoclassical writers, their countries of
 | Hannah More | Fiction, Poetry, <br> Drama | 20 | Strictures on Female Education | Percy: A Tragedy |
 | Charlotte Smith | Poetry, Fiction | 20 | Elegiac Sonnets | The Old Manor House |
 | Fanny Burney | Fiction | 10 | Evelina, Cecilia | Camilla |
-
---- William Collins | Poetry | 10 | Odes on Several <br> Descriptive and <br> Allegoric Subjects | The Passions |
+| William Collins | Poetry | 10 | Odes on Several <br> Descriptive and <br> Allegoric Subjects | The Passions |
 | :-- | :-- | :-- | :-- | :-- |
 
 # Restoration Age (1660-1700) 
@@ -4267,20 +4266,16 @@ After WWII, literature rejected Modernist seriousness and coherence, embracing p
 
 # Themes in Early Postmodernism 
 
-| Theme | Writers | Explanation | Example |
-| :--: | :--: | :--: | :--: |
-| Absurdity \& Meaninglessness | Beckett, <br> Vonnegut, <br> Heller | Life is irrational, repetitive, and often senseless | Waiting for Godot Characters wait endlessly for nothing |
-| Paranoia \& Conspiracy | Pynchon, Orwell, Burroughs | Reality is manipulated by unseen forces | The Crying of Lot 49 - A woman discovers a secret postal system |
-| Uncertainty \& Unreliable Narrators | Nabokov, <br> Borges, <br> Calvino | The narrator lies, distorts, or is insane | Lolita - Humbert justifies his crimes through poetic language |
-| Dystopian \& Totalitarian Control | Orwell, Bradbury, Burroughs | Fear of surveillance, propaganda, and government control | 1984 - Big Brother controls thought and language |
-| Metafiction \& SelfReferentiality | Borges, Calvino, Barth | Fiction calls attention to its own artificiality | If on a Winter's Night a Traveler - The novel is about a reader reading a novel |
-
----
-
-| Time as Nonlinear \& Fluid | Vonnegut, <br> García <br> Márquez, <br> Borges | Time loops, jumps, or collapses | Slaughterhouse-Five - <br> Protagonist experiences life out of order |
-| :--: | :--: | :--: | :--: |
-| Satire of War \& Politics | Heller, <br> Vonnegut, <br> Orwell | War is portrayed as irrational, bureaucratic, or absurd | Catch-22 - War is endless and nonsensical |
-| Technological \& Posthuman Concerns | Pynchon, <br> Burroughs | Technology and media replace reality | The Soft Machine Humanity is controlled by unseen networks |
+|                Theme                |                     Writers                     |                       Explanation                        |                                     Example                                     |
+| :---------------------------------: | :---------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+|    Absurdity \& Meaninglessness     |       Beckett, <br> Vonnegut, <br> Heller       |   Life is irrational, repetitive, and often senseless    |             Waiting for Godot Characters wait endlessly for nothing             |
+|       Paranoia \& Conspiracy        |           Pynchon, Orwell, Burroughs            |         Reality is manipulated by unseen forces          |         The Crying of Lot 49 - A woman discovers a secret postal system         |
+| Uncertainty \& Unreliable Narrators |       Nabokov, <br> Borges, <br> Calvino        |        The narrator lies, distorts, or is insane         |          Lolita - Humbert justifies his crimes through poetic language          |
+|  Dystopian \& Totalitarian Control  |           Orwell, Bradbury, Burroughs           | Fear of surveillance, propaganda, and government control |                1984 - Big Brother controls thought and language                 |
+|  Metafiction \& SelfReferentiality  |             Borges, Calvino, Barth              |     Fiction calls attention to its own artificiality     | If on a Winter's Night a Traveler - The novel is about a reader reading a novel |
+|     Time as Nonlinear \& Fluid      | Vonnegut, <br> García <br> Márquez, <br> Borges |             Time loops, jumps, or collapses              |      Slaughterhouse-Five - <br> Protagonist experiences life out of order       |
+|      Satire of War \& Politics      |       Heller, <br> Vonnegut, <br> Orwell        | War is portrayed as irrational, bureaucratic, or absurd  |                    Catch-22 - War is endless and nonsensical                    |
+| Technological \& Posthuman Concerns |             Pynchon, <br> Burroughs             |           Technology and media replace reality           |           The Soft Machine Humanity is controlled by unseen networks            |
 
 # Final Observations 
 
@@ -4304,11 +4299,7 @@ Here are key writers who emerged during Early Postmodernism, their major works, 
 | Vladimir Nabokov (1899-1977) | Lolita (1955), Pale Fire (1962) | $30+$ | Unreliable Narrators \& Wordplay - Mastered narrative deception and invented fictional literary analysis | Obsession, deception, artistic manipulation |
 | William S. <br> Burroughs <br> (1914-1997) | Naked Lunch (1959), The Soft Machine (1961) | $18+$ | Cut-Up Technique Coined the term \& method of randomly cutting and reassembling text | Drugs, control systems, paranoia, altered consciousness |
 | Joseph <br> Heller <br> (1923-1999) | Catch-22 (1961) | 7 | Catch-22 Paradox - <br> Coined the term "Catch-22" to describe self-contradictory logic | War's absurdity, bureaucracy, irony, survival |
-
----
-
 | Kurt <br> Vonnegut <br> (1922-2007) | Slaughterhouse-Five (1969), Cat's Cradle (1963) | 14 | Blended Sci-Fi \& Satire - Created the fictional religion "Bokononism" in Cat's Cradle | War, fate vs. free will, absurdity, dehumanization |
-| :--: | :--: | :--: | :--: | :--: |
 | Gabriel <br> García <br> Márquez <br> (1927-2014) | One Hundred Years of Solitude (1967) | $20+$ | Magical Realism <br> Pioneer - Popularized the blending of fantasy with historical and political reality | Time loops, myth vs. reality, colonialism, solitude |
 | Thomas <br> Pynchon (b. <br> 1937) | V. (1963), The Crying of Lot 49 (1966) | $10+$ | Paranoia \& Conspiracy - Explored systems of power and disorder, coined the "entropy" metaphor | Technology, surveillance, chaos, fragmentation |
 | Italo Calvino (1923-1985) | If on a Winter's <br> Night a Traveler <br> (1979), Invisible <br> Cities (1972) | $40+$ | Intertextuality \& SelfAware Storytelling Played with reader engagement and nonlinear narratives | Dreams vs. reality, narrative instability, language games |
@@ -4319,11 +4310,7 @@ Here are key writers who emerged during Early Postmodernism, their major works, 
 | :-- | :-- | :-- |
 | Joseph Heller | "Catch-22" | A no-win situation where contradictory <br> rules prevent escape (now a common <br> term) |
 | William S. <br> Burroughs | Cut-Up Technique | A method of randomly cutting and <br> reassembling text to create new <br> meaning |
-
----
-
 | Kurt Vonnegut | Bokononism | A fictional religion built on comforting <br> lies, introduced in Cat's Cradle |
-| :-- | :-- | :-- |
 | Thomas <br> Pynchon | Entropy (as a metaphor <br> for disorder in society) | Explored entropy from physics as a <br> symbol of chaos in culture |
 | Gabriel García <br> Márquez | Popularized "Magical <br> Realism" | Merged fantasy with historical \& <br> political reality, reshaping Latin <br> American literature |
 
