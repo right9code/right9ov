@@ -5149,7 +5149,7 @@ The God of Small Things (1997) - Won the Booker Prize. A novel exploring caste, 
 - Norman Mailer Prize (2011)
 
 
-# Vikram Seth 
+## Vikram Seth 
 
 - Major Works:
 - A Suitable Boy (1993) - A landmark novel depicting post-independence India, one of the longest English-language novels.
@@ -5177,7 +5177,7 @@ The Inheritance of Loss (2006) - Won the Booker Prize, deals with migration and 
 
 ---
 
-# Amitav Ghosh 
+## Amitav Ghosh 
 
 - Major Works:
 - The Shadow Lines (1988) - Explores India's history and Partition.
@@ -5206,7 +5206,7 @@ The Inheritance of Loss (2006) - Won the Booker Prize, deals with migration and 
 
 ---
 
-# Aravind Adiga 
+## Aravind Adiga 
 
 - Major Works:
 - The White Tiger (2008) - Critiques India's class divide, won the Booker Prize.
@@ -5415,7 +5415,7 @@ Why It Matters? Essential in tragedy and dramatic irony.
 
 ---
 
-# 6. Pathos ( $\pi \alpha \dot{\theta} \theta$ os) 
+## 6. Pathos ( $\pi \alpha \dot{\theta} \theta$ os) 
 
 - Definition: The emotional appeal that evokes sympathy.
 - Example: The tragic life of Tess in Tess of the d'Urbervilles.
