@@ -4908,11 +4908,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 | G. V. Desani (1909- <br> 2000) | All About H. Hatterr (1948) | Early experimental Indian novel, influenced Rushdie. |
 | Shashi Deshpande (b. 1938) | That Long Silence (1988), The Dark Holds No Terrors (1980) | Feminist themes, explored women's struggles in a patriarchal society. |
 | Kiran Desai (b. 1971) | The Inheritance of Loss (2006) | Explores diaspora, globalization, class struggles. |
-
----
-
 | Aravind Adiga (b. <br> 1974) | The White Tiger (2008) | Satire on modern India, Booker <br> Prize winner. |
-| :-- | :-- | :-- |
 | Chetan Bhagat (b. <br> 1974) | Five Point Someone (2004), 2 <br> States (2009) | Popular fiction, commercialized <br> Indian English literature. |
 | Meena Kandasamy <br> (b. 1984) | When I Hit You (2017), The Gypsy <br> Goddess (2014) | Focuses on Dalit struggles, <br> feminism, caste oppression. |
 
@@ -4994,9 +4990,6 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 
 - Untouchable (1935)
 - Coolie (1936)
-
----
-
 - Two Leaves and a Bud (1937)
 - The Village (1939)
 - Across the Black Waters (1940)
@@ -5031,9 +5024,6 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 ## - Contributions:
 
 - Created the fictional town of Malgudi, vividly portraying South Indian life.
-
----
-
 - Compared to William Faulkner for his exploration of ordinary lives with humor and compassion.
 - Awards:
 - Padma Bhushan (1964)
@@ -5069,9 +5059,6 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - Rajmohan's Wife (1864)
 - Anandamath (1882, in Bengali)
 - Contributions:
-
----
-
 - Authored Rajmohan's Wife, considered one of the earliest Indian English novels.
 - His song "Vande Mataram" from Anandamath became a national song of India.
 
@@ -5114,7 +5101,6 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 
 - Explored themes of rural life, social upheaval, and East-West encounters.
 
----
 
 # 9. Khushwant Singh (1915-2014) 
 
