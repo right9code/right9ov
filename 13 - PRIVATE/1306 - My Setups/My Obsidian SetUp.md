@@ -165,7 +165,6 @@ done
 	- [x] ==**Delete current file**==: Ctrl + Delete
 	- [x] ==**Fold all headings and lists**==: Alt + H
 	- [x] ==**Fold all headings and lists**==: Alt + Shift + H
-	- [ ] ==**Toggle Live Preview/Source mode**==: Alt+ Shift + L
 	- [ ] ==**Toggle reading view**==: Alt+ Shift + R
 	- [ ] **==Search & replace in current file==**: Ctrl + Shift + H
 	- [ ] **==Toggle highlight==**: Ctrl + H
@@ -174,7 +173,7 @@ done
 	- [x] **==Split right==**: Ctrl + Shift + -> 
 	- [x] ==**Change Theme**==: Alt + Ctrl + T
 	- [ ] **==Move current file to another folder==**: Alt + M
-	- [ ] ==Toggle Live Previen/Source mode==: Ctrl + Alt + V
+	- [ ] ==Toggle Live Preview/Source mode==: Ctrl + Alt + V
 
 
 10. **Setup Plugins**:
