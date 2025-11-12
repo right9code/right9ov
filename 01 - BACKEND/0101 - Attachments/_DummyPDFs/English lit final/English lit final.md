@@ -4684,18 +4684,12 @@ $\checkmark$ Metafiction and nonlinear narratives continue, but with more charac
 | Tommy Orange (b. 1982) | There There (2018) | 1 novel (so far) | - Redefined <br> Native <br> American <br> fiction for <br> modern <br> times - Used <br> polyphonic <br> storytelling <br> (multiple <br> first-person <br> narrators) | - Nonlinear structure -Intertextuality - Fragmented storytelling | - Urban <br> Native <br> American identity, displacement, history |
 | George <br> Saunders <br> (b. 1958) | Lincoln in the Bardo (2017), Tenth of December (2013) | $10+$ | - Merged historical fiction with surrealist elements Used ghost narrators and experimental prose | - Dark satire - <br> Absurdism - <br> Playful formal experimentati on | Consumeris m , corporate dystopia, empathy, mortality |
 | Sheila <br> Heti (b. <br> 1976) | How Should a Person Be? (2010), Motherhoo d (2018) | $4+$ | - Blended philosophical essays and fiction - <br> Explored gender and artistic identity | - Autofiction - <br> Stream-ofconsciousness <br> - Dialoguedriven narratives | - Feminism, existentialis m , motherhoo d, identity |
-
----
-
 | Richard <br> Powers <br> (b. 1957) | The <br> Overstory <br> (2018), <br> Galatea 2.2 <br> (1995) | $13+$ | - Blended science, philosophy, and literature - Used "ecofiction" to explore environment al concerns | - Science-meets-literature - <br> Polyphonic storytelling - <br> Thematic symbolism | - Ecology, <br> AI, <br> consciousn ess, ethics |
-| :--: | :--: | :--: | :--: | :--: | :--: |
 | Neal <br> Stephens <br> on (b. <br> 1959) | Snow Crash <br> (1992), <br> Cryptonomi <br> con (1999) | $10+$ | - Pioneer of postcyberpunk fiction - <br> Coined "Metaverse" (in Snow Crash) | - <br> Technothriller <br> s - Speculative <br> fiction - <br> Futurism | - Virtual reality, hacking, dystopia, surveillance |
 | Salman <br> Rushdie <br> (b. 1947) | The Satanic <br> Verses <br> (1988), <br> Midnight's <br> Children <br> (1981) | $10+$ | - Merged magical realism with political critique Influenced postcolonial literature | - Nonlinear narratives Allegorical storytelling Symbolism | - Cultural hybridity, migration, satire |
 | Haruki <br> Murakam <br> i (b. <br> 1949) | Kafka on the Shore (2002), 1084 (2009) | $15+$ | - Globalized magical realism \& surrealism Merged Western \& Eastern literary traditions | - Dreamlike storytelling Unreliable narration Blending realism \& fantasy | - <br> Loneliness, memory, alternate realities |
 
 # Unique Literary Innovations \& Coined Terms in Contemporary Postmodernism
-
----
 
 | Term | Coined By | Definition | Example Work |
 | :-- | :-- | :-- | :-- |
@@ -4771,9 +4765,6 @@ Techniques: Nonlinear storytelling, unconventional typography, text arranged in 
 ## Influence:
 
 - Inspired digital literature and interactive fiction.
-
----
-
 - Influenced experimental graphic novels and mixed-media narratives.
 
 
@@ -4808,8 +4799,6 @@ Influence:
 ## 6. Metamodernism (2000s-Present)
 
 A fusion of postmodern irony with genuine emotional engagement and hope. Sometimes called "oscillation" literature, as it shifts between irony and sincerity.
-
----
 
 Key Writers: Zadie Smith, David Foster Wallace, Haruki Murakami
 Key Works: NW (Smith, 2012), 1Q84 (Murakami, 2009), Consider the Lobster (Wallace, 2005)
