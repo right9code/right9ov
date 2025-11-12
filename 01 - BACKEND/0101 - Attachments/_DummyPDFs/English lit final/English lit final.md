@@ -4483,22 +4483,20 @@ High Postmodernism marked the peak of literary self-awareness and experimentatio
 
 ## Movements
 
-## 1 Post-Postmodernism (1990s-Present)
+### 1 Post-Postmodernism (1990s-Present)
 
 - Writers responded to High Postmodernism's irony and detachment by exploring more emotional, sincere, and socially engaged themes
 - Example: Infinite Jest (David Foster Wallace) - A critique of irony's limitations in modern life
 - Themes: Irony fatigue, sincerity, self-awareness, media culture
 
 
-## 2 New Sincerity (2000s-Present)
+### 2 New Sincerity (2000s-Present)
 
 - A shift away from postmodern detachment toward earnest, emotionally engaged storytelling
 - Example: A Heartbreaking Work of Staggering Genius (Dave Eggers) - Blends self-referential irony with genuine emotion
 - Themes: Emotional vulnerability, irony vs. authenticity
 
----
-
-3 Digital \& Interactive Fiction (2000s-Present)
+### 3 Digital \& Interactive Fiction (2000s-Present)
 
 - Postmodern metafiction influenced video games, online literature, and hypertext fiction
 - Example: House of Leaves - Uses footnotes, visual play, and reader participation to create an immersive experience
@@ -4520,8 +4518,6 @@ High Postmodernism marked the peak of literary self-awareness and experimentatio
 
 High Postmodernism set the stage for contemporary literary experimentation later writers either expanded upon or reacted against its extreme irony, fragmentation, and metafiction
 $\square$ Themes of media, surveillance, and hyperreality became even more relevant in the digital age
-
----
 
 Its influence extended beyond literature into gaming, digital media, and cyberpunk fiction
 
