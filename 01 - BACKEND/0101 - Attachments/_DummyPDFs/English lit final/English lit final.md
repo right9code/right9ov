@@ -780,8 +780,6 @@ The English Renaissance (1500-1660) was a cultural rebirth inspired by the redis
 | Christopher <br> Marlowe | 5 | - | Hero and Leander | Doctor <br> Faustus, <br> Tamburlaine <br> the Great, The <br> Jew of Malta, <br> Edward II | - |
 | William <br> Shakespeare | $40+$ | - | Sonnets, Venus and Adonis, The Rape of Lucrece | Hamlet, <br> Othello, <br> Macbeth, King <br> Lear, A | - |
 
----
-
 |  |  |  |  | Midsummer <br> Night's <br> Dream, <br> Twelfth Night, <br> The Tempest |  |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Ben Jonson | 6 | - | - | Volpone, The <br> Alchemist, <br> Every Man in <br> His Humour | - |
@@ -1560,9 +1558,7 @@ Below is a fully comprehensive table of Neoclassical writers, their countries of
 | Charlotte Smith | Poetry, Fiction | 20 | Elegiac Sonnets | The Old Manor House |
 | Fanny Burney | Fiction | 10 | Evelina, Cecilia | Camilla |
 
----
-
-| William Collins | Poetry | 10 | Odes on Several <br> Descriptive and <br> Allegoric Subjects | The Passions |
+--- William Collins | Poetry | 10 | Odes on Several <br> Descriptive and <br> Allegoric Subjects | The Passions |
 | :-- | :-- | :-- | :-- | :-- |
 
 # Restoration Age (1660-1700) 

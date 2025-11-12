@@ -174,6 +174,8 @@ done
 	- [x] **==Split right==**: Ctrl + Shift + -> 
 	- [x] ==**Change Theme**==: Alt + Ctrl + T
 	- [ ] **==Move current file to another folder==**: Alt + M
+	- [ ] ==Toggle Live Previen/Source mode==: Ctrl + Alt + V
+
 
 10. **Setup Plugins**:
 	1. **Templeter**
