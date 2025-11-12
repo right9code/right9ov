@@ -110,13 +110,13 @@ tags:
 
 #### **(b) General Hindi**
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/संधि|संधि]] 
-- [[समा]]  
-- [[विलोम शब्द]] 
-- [[पर्यायवाची शब्द]]  
-- [[सामान्य अनुश्रुति]]  
-- [[वाक्यांशों के लिए एक शब्द]]  
-- [[मुहावरे एवं लोकोक्तियाँ]]  
-- [[अपठित गद्यांश पर आधारित प्रश्न]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/समास|समास]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/विलोम शब्द|विलोम शब्द]] 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/पर्यायवाची शब्द|पर्यायवाची शब्द]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/सामान्य अनुश्रुति|सामान्य अनुश्रुति]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/वाक्यांशों के लिए एक शब्द|वाक्यांशों के लिए एक शब्द]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/मुहावरे एवं लोकोक्तियाँ|मुहावरे एवं लोकोक्तियाँ]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/अपठित गद्यांश पर आधारित प्रश्न|अपठित गद्यांश पर आधारित प्रश्न]]
 
 ---
 
@@ -124,7 +124,7 @@ tags:
 ### **Unit I - Reading**
 - [[Unseen Passage – Factual, Descriptive, Literary]] → assesses comprehension, inference, interpretation, vocabulary  
 - [[Case-Based Unseen Passage with Verbal-Visual Inputs]](e.g., charts, data)  
-- **[[Note-making & Summarization]]**
+- **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit I – Reading/Note-making & Summarization|Note-making & Summarization]]**
 
 ---
 
