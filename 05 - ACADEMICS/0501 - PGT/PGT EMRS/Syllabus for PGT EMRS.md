@@ -86,7 +86,7 @@ tags:
 
 ### **Part-V: Domain Knowledge** (a & b)
 
-- (a) **Experiential Activity-Based Pedagogy & Case study-based questions** 
+- (a) **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-V – Domain Knowledge/Experiential Activity-Based Pedagogy & Case study-based questions|Experiential Activity-Based Pedagogy & Case study-based questions]]** 
 - (b) **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-V – Domain Knowledge/National Education Policy (NEP) – 2020|National Education Policy (NEP) - 2020]]**
 
 ---
