@@ -132,10 +132,10 @@ Several Germanic tribes invaded and settled in England after the Roman withdrawa
 
 Key Transitions to Middle English
 
-|  Old English (450-1066 AD) | Middle English (1066-1500 AD)  |
-| --- | --- |
-|  Germanic language with
-complex inflections | Simplified grammar, French
+| Old English (450-1066 AD) | Middle English (1066-1500 AD) |
+| ------------------------- | ----------------------------- |
+|                           |                               |
+|                           |                         complex inflections | Simplified grammar, French
 influence  |
 |  Heroic themes, religious texts | Courtly love, chivalry, satire  |
 |  Epic poetry, elegies, chronicles | Rhymed verse, drama, prose  |
