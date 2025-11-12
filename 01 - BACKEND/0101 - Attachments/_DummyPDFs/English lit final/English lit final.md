@@ -4564,11 +4564,7 @@ Definition: A movement that embraces pop culture and digital media in an experim
 | :-- | :-- |
 | Blends Literature \& Pop Culture - <br> Incorporates TV, comics, video games | House of Leaves (Mark Z. Danielewski) - A <br> novel structured like an internet deep-dive |
 | Hyperreality \& Media Obsession - <br> Fiction shaped by modern media <br> saturation | White Noise (Don DeLillo) - A critique of <br> mass media and consumerism |
-
----
-
 | Nonlinear, Digital Storytelling - Uses <br> internet, gaming, and multimedia <br> influences | Only Revolutions (Danielewski) - A book <br> meant to be read from multiple directions |
-| :-- | :-- |
 | Fast, Chaotic, Playful - Mashups of <br> literary and pop styles | The Broom of the System (David Foster <br> Wallace) - Combines philosophy with sitcom <br> absurdity |
 
 $\checkmark$ Influenced By: Barthelme, Ballard, Pynchon
@@ -4625,11 +4621,7 @@ Key Characteristics of Contemporary Postmodernism
 | Hyperreality \& <br> Digital Media <br> Influence | Reality shaped by media, <br> simulation, and technology | Pattern Recognition (William Gibson, <br> 2003) - A novel about branding, <br> internet culture, and globalization |
 | Blending High \& <br> Low Culture | Merging literature, pop <br> culture, sci-fi, and philosophy | The Brief Wondrous Life of Oscar <br> Wao (Junot Diaz, 2007) - Mixes <br> Dominican history with geek culture |
 | Autofiction \& <br> Memoir Hybrids | Fictionalized autobiographies <br> questioning memory and <br> identity | My Struggle (Karl Ove Knausgård, <br> 2009-2011) - A six-volume <br> introspective novel blending fiction <br> and reality |
-
----
-
 | Global \& <br> Multicultural <br> Perspectives | Stories exploring <br> postcolonialism, migration, <br> and cultural identity | There There (Tommy Orange, 2018) - <br> A fragmented novel about modern <br> Native American life |
-| :-- | :-- | :-- |
 
 # Writers Unique to Contemporary Postmodernism (1980s-Present) 
 
@@ -4640,22 +4632,14 @@ Below is a list of key writers from this period, their works, contributions, and
 | Mark Z. <br> Danielewski <br> (b. 1966) | House of Leaves (2000), Only Revolutions (2006), The Familiar series (2015-2017) | $6+$ | - Experimental typography, nonlinear storytelling, ergodic literature | - Madness, paranoia, shifting realities, unreliable narrators |
 | David Foster Wallace (1962-2008) | Infinite Jest (1996), <br> The Pale King <br> (2011, <br> posthumous), Brief Interviews with Hideous Men (1999) | 4 novels, 3 short story collections | - Postpostmodernism, footnote-heavy prose, critique of irony and media saturation | - Addiction, loneliness, mass culture, existentialism |
 | Jennifer Egan (b. 1962) | A Visit from the <br> Goon Squad (2010), <br> The Candy House <br> (2022), Look at Me <br> (2001) | 5 novels | - Interlinked narratives, digital age fiction, nonlinear storytelling | - Memory, time, identity, social media |
-
----
-
 | Junot Díaz <br> (b. 1968) | The Brief Wondrous Life of Oscar Wao (2007), This Is How You Lose Her (2012) | 3 books | - Merging pop culture with history, Spanglish and Dominican identity, hybrid storytelling | - Immigration, masculinity, history, trauma |
-| :--: | :--: | :--: | :--: | :--: |
 | Karl Ove Knausgård (b. 1968) | My Struggle (20092011) | 6 volumes | - Autofiction pioneer, hyperrealistic introspection | - Memory, selfreflection, domestic life |
 | Tommy Orange (b. 1982) | There There (2018) | 1 novel (as of now) | - Multi-narrative storytelling, modern Native American experiences | - Cultural identity, displacement, urban life |
 | George <br> Saunders (b. 1958) | Lincoln in the Bardo (2017), Tenth of December (2013), CivilWarLand in Bad Decline (1996) | $10+$ | - Absurdist satire, dystopian humor, moral storytelling | - Consumerism, corporate dystopia, human empathy |
 | Sheila Heti <br> (b. 1976) | How Should a Person Be? (2010), Motherhood (2018) | $4+$ | - Autofiction, blending fiction with philosophy | - Feminism, personal identity, artistic struggle |
 | Richard <br> Powers (b. 1957) | The Overstory (2018), Galatea 2.2 (1995) | $13+$ | - Science-meetsliterature, consciousness and AI | - Ecology, technology, philosophy |
 | Neal <br> Stephenson <br> (b. 1959) | Snow Crash (1992), Cryptonomicon (1999), The Diamond Age (1995) | $10+$ | - Cyberpunk, digital futurism, technothrillers | - Virtual reality, hacking, surveillance |
-
----
-
 | Salman <br> Rushdie (b. <br> 1947) | The Satanic Verses <br> (1988), Midnight's <br> Children (1981) | $10+$ | - Magical realism, <br> postcolonial themes | - Cultural <br> hybridity, <br> migration, <br> political satire |
-| :-- | :-- | :-- | :-- | :-- |
 | Haruki <br> Murakami <br> (b. 1949) | Kafka on the Shore <br> (2002), 1Q84 (2009) | $15+$ | - Surrealism, <br> magical realism, <br> dreamlike fiction | - Memory, <br> loneliness, fate |
 
 Techniques Used in Contemporary Postmodernism
@@ -4692,18 +4676,11 @@ $\checkmark$ Metafiction and nonlinear narratives continue, but with more charac
 | Writer | Major <br> Works | Total <br> Works | Contributions \& Innovations | Techniques <br> Used | Themes |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Mark Z. <br> Danielew ski (b. <br> 1966) | House of Leaves (2000), Only Revolutions (2006), The Familiar (20152017) | $6+$ | - <br> Revolutionize <br> d ergodic <br> literature <br> (books that <br> require effort <br> to navigate) - <br> Created <br> "typographic <br> al horror" - <br> Built <br> multilayered <br> unreliable <br> narration | - Nonlinear, fragmented storytelling -Visual/textual experimentati on - <br> Intertextuality | - Madness, reality vs. perception, paranoia, horror, trauma |
-
----
-
 | David <br> Foster <br> Wallace <br> (1962- <br> 2008) | Infinite Jest <br> (1996), The <br> Pale King <br> (2011) | 4 <br> novels, <br> 3 short <br> story <br> collectio <br> ns | - Coined <br> "post- <br> postmoderni <br> sm" (also <br> called "New <br> Sincerity") - <br> Critiqued <br> excessive <br> irony in <br> postmoderni <br> sm - Used <br> footnote- <br> heavy <br> storytelling <br> and <br> encyclopedic <br> detail | - Stream-of- <br> consciousness <br> - Meta-irony <br> (irony about <br> irony) - <br> Digressive <br> prose - <br> Multiple <br> perspectives | - Addiction, <br> media <br> saturation, <br> depression, <br> entertainm <br> ent culture |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Jennifer <br> Egan (b. <br> 1962) | A Visit from <br> the Goon <br> Squad <br> (2010), The <br> Candy <br> House <br> (2022) | 5 novels | - Reinvented <br> linked short <br> stories as a <br> novel format <br> - Integrated <br> digital <br> technology <br> into fiction | - Fragmented <br> storytelling - <br> Shifting <br> perspectives - <br> Mixed media <br> (PowerPoint <br> chapters) | - Memory, <br> technology, <br> self- <br> identity, <br> fame |
 | Junot <br> Diaz (b. <br> 1968) | The Brief <br> Wondrous <br> Life of Oscar <br> Wao (2007), <br> This Is How <br> You Lose <br> Her (2012) | 3 books | - Merged pop <br> culture \& <br> history - <br> Used <br> Spanglish <br> and code- <br> switching - <br> Modernized <br> postcolonial <br> storytelling | - First-person <br> confessional - <br> Hybrid <br> languages - <br> Multigenerati <br> onal <br> storytelling | - <br> Immigratio <br> n , <br> masculinity, <br> trauma, <br> Dominican <br> identity |
-
----
-
 | Karl Ove Knausgår d (b. 1968) | My Struggle (20092011) | 6 <br> volumes | - Redefined autofiction (mixing autobiograph $y$ and fiction) - Used brutally honest introspection | - Minimalist realism - Selfreflection Confessional prose | - Memory, family, masculinity, existential crisis |
-| :--: | :--: | :--: | :--: | :--: | :--: |
 | Tommy Orange (b. 1982) | There There (2018) | 1 novel (so far) | - Redefined <br> Native <br> American <br> fiction for <br> modern <br> times - Used <br> polyphonic <br> storytelling <br> (multiple <br> first-person <br> narrators) | - Nonlinear structure -Intertextuality - Fragmented storytelling | - Urban <br> Native <br> American identity, displacement, history |
 | George <br> Saunders <br> (b. 1958) | Lincoln in the Bardo (2017), Tenth of December (2013) | $10+$ | - Merged historical fiction with surrealist elements Used ghost narrators and experimental prose | - Dark satire - <br> Absurdism - <br> Playful formal experimentati on | Consumeris m , corporate dystopia, empathy, mortality |
 | Sheila <br> Heti (b. <br> 1976) | How Should a Person Be? (2010), Motherhoo d (2018) | $4+$ | - Blended philosophical essays and fiction - <br> Explored gender and artistic identity | - Autofiction - <br> Stream-ofconsciousness <br> - Dialoguedriven narratives | - Feminism, existentialis m , motherhoo d, identity |
