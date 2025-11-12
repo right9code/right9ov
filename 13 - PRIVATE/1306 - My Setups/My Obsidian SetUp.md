@@ -227,3 +227,4 @@ done
 
 
 In Files and Links set absolute path in vault
+Page preview is active with ctrl key
