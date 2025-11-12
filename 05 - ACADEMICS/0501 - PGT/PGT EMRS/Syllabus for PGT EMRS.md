@@ -109,8 +109,8 @@ tags:
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Idioms & Phrases|Idioms & Phrases]]
 
 #### **(b) General Hindi**
-- [[संधि]] 
-- [[समास]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General Hindi/संधि|संधि]] 
+- [[समा]]  
 - [[विलोम शब्द]] 
 - [[पर्यायवाची शब्द]]  
 - [[सामान्य अनुश्रुति]]  
