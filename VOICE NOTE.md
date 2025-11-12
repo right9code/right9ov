@@ -118,9 +118,16 @@ Deconstruction and irony. Atwood's *The Handmaid's Tale*. "Nolite te bastardes c
 - ALL CAPS FOR CLIMAX: POSTMODERNISM CHALLENGES REALITY! ***Question ***bold italic*** everything!***
 
 Code block for tech test:
-````
+```
 def speak_text():
 print("Voice AI: Reading in mixed cases and italics.")
 print("Exclamatory: What a test! Interrogative: How does it sound?")
 print("Bold italic sentence. Bold italic question? Bold italic exclamation!")
+```
+Code block for tech test:
+```
+def speak_text():
+    print("Voice AI: Reading in mixed cases and italics.")
+    print("Exclamatory: What a test! Interrogative: How does it sound?")
+    print("***Bold italic sentence.*** ***Bold italic question?*** ***Bold italic exclamation!***")
 ```
