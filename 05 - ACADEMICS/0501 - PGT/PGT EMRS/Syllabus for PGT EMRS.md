@@ -1,0 +1,191 @@
+---
+type:
+  - "[[note]]"
+date: 2025-11-09
+timestamp: 2025-11-09 12:58:26
+tags:
+  - "#xxx"
+  - "#yyy"
+  - "#zzz"
+  - "#syllabus"
+---
+# 📚 **PGT Examination Structure & Syllabus (English)** 
+
+## 📝 **Tier-I: Preliminary (Qualifying) Examination**  
+**Mode**: OMR-based Objective Test  
+**Total Marks**: 100  
+**Duration**: 2 hours (no sectional time limits)  
+**Date**: W2 Dec 2025
+
+| Part | Component | No. of Qs | Marks |
+|------|-----------|-----------|-------|
+| **I** | General Awareness | 10 | 10 |
+| **II** | Reasoning Ability | 15 | 15 |
+| **III** | Knowledge of ICT | 15 | 15 |
+| **IV** | Teaching Aptitude | 30 | 30 |
+| **V** | Domain Knowledge:<br>• Experiential & case-based pedagogy<br>• NEP-2020 | 20 + 10 | 30 |
+| **Total (I–V)** | | **100** | **100** |
+| **VI** | **Language Competency** (Qualifying)<br>• General English (10)<br>• General Hindi (10) | 20 | 20 |
+
+> ⚠️ **Important**: Candidates must score **≥40% (8/20)** in **Part-VI** to qualify. If failed, Parts I–V **will NOT be evaluated**.
+
+---
+## 📝 **Tier-II: Subject Knowledge Examination**  
+**Eligibility**: Top 10× candidates (based on Tier-I) per vacancy  
+**Duration**: 3 hours  
+**Total Marks**: 100  
+
+| Component | Objective | Descriptive | Marks (Obj.) | Marks (Desc.) |
+|----------|-----------|-------------|--------------|----------------|
+| Subject-Specific Syllabus | 40 | 15 | 40 | 60 |
+| **Total** | **55** | | **100** | |
+
+> 🏆 **Merit List** is prepared **only on Tier-II performance**.
+---
+
+## 🧠 **Tier-I Detailed Syllabus**
+
+### **Part-I: General Awareness**
+- [[EMRS Paper 1/Part-I – General Awareness/General Knowledge|General Knowledge]]  
+- [[Current Affairs]]  
+
+---
+
+### **Part-II: Reasoning Ability**
+- [[Puzzles & Seating Arrangement]]  
+- [[Data Sufficiency]]  
+- [[Statement-Based Questions (Verbal Reasoning)]]  
+- [[Inequality]]  
+- [[Blood Relations]]  
+- [[Sequences & Series]]  
+- [[Direction Test]]  
+- [[Assertion & Reason]]  
+- [[Venn Diagrams]]  
+
+---
+
+### **Part-III: Knowledge of ICT**
+- [[Fundamentals of Computer System]]  
+- [[Basics of Operating System]]  
+- [[MS Office]]  
+- [[Keyboard Shortcuts]]  
+- [[Important Computer Terms & Abbreviations]]  
+- [[Computer Networks]]  
+- [[Cyber Security]]  
+- [[Internet]]  
+
+---
+
+### **Part-IV: Teaching Aptitude**
+- [[Teaching - Nature, Characteristics, Objectives and Basic requirements]]  
+- [[Learner’s Characteristics]]  
+- [[Factors Affecting Teaching]]  
+- [[Teaching Methods]]  
+- [[Teaching Aids]]  
+- [[Evaluation Systems]]
+
+---
+
+### **Part-V: Domain Knowledge** (a & b)
+
+- (a) **Experiential Activity-Based Pedagogy & Case study-based questions** 
+- (b) **National Education Policy (NEP) – 2020**
+
+---
+
+### **Part-VI: Language Competency** (a&b)
+
+#### **(a) General English**
+- [[EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tenses]]  
+- [[Voice]]  
+- [[Subject-Verb Agreement]]  
+- [[Articles]]  
+- [[Comprehension & Unseen Passages]]  
+- [[Fill in the Blanks]]  
+- [[Adverbs]]  
+- [[Error Correction]]  
+- [[Sentence Rearrangement]]  
+- [[Vocabulary]]  
+- [[Antonyms - Synonyms]]  
+- [[Grammar]]  
+- [[Idioms & Phrases]]  
+
+#### **(b) General Hindi**
+- [[संधि]] 
+- [[समास]]  
+- [[विलोम शब्द]] 
+- [[पर्यायवाची शब्द]]  
+- [[सामान्य अनुश्रुति]]  
+- [[वाक्यांशों के लिए एक शब्द]]  
+- [[मुहावरे एवं लोकोक्तियाँ]]  
+- [[अपठित गद्यांश पर आधारित प्रश्न]]
+
+---
+
+## 📖 **PGT – English: Tier-II Subject Syllabus**
+### **Unit I - Reading**
+- [[Unseen Passage – Factual, Descriptive, Literary]] → assesses comprehension, inference, interpretation, vocabulary  
+- [[Case-Based Unseen Passage with Verbal-Visual Inputs]](e.g., charts, data)  
+- **[[Note-making & Summarization]]**
+
+---
+
+### **Unit II - Creative Writing Skills**
+- [[Notice]] 
+- [[Formal - Informal Invitation & Reply]]
+- [[Letter Writing]] (based on verbal/visual input)  
+- [[Article - Report Writing]](descriptive & analytical based on verbal inputs)  
+- [[Classified Advertisements]] 
+- [[Poster Design]]
+- **[[Speech Writing]]** (120–150 words) based on verbal/visual inputs  
+- **[[Debate]]** on current issues (based on visual/verbal cues)
+
+---
+
+### **Unit III - Grammar**
+- [[Gap-filling – Tenses and Clauses]]
+- [[Sentence Reordering & Transformation of Sentences]]
+
+---
+
+### **Unit IV - Literature**
+
+#### 🎭 **Shakespeare’s Works**  
+#### 🌿 **Romantic Period**  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/William Wordsworth|William Wordsworth]], 
+- [[P.B. Shelley]] , 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/John Keats|John Keats]], 
+- [[Samuel Taylor Coleridge]] , 
+- etc.
+#### 🕰️ **19th–20th Century American & English Literature**  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Robert Frost|Robert Frost]], 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Ernest Hemingway|Ernest Hemingway]], 
+- [[Walt Whitman]],  
+- [[Nathaniel Hawthorne]], 
+- [[Emily Dickinson]],  
+- [[George Bernard Shaw]], 
+- [[Arthur Miller]],
+- etc.
+
+#### 🇮🇳 **Modern Indian Writing in English**  
+- [[Anita Desai]] , 
+- [[Vikram Seth]] ,  
+- [[Nissim Ezekiel]], 
+- [[K.N. Daruwalla]] ,  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Ruskin Bond|Ruskin Bond]], 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/R.K. Narayan|R.K. Narayan]],  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Mulk Raj Anand|Mulk Raj Anand]], 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Modern Indian Writing in English/Khushwant Singh|Khushwant Singh]],
+- etc.
+
+#### 🌍 **Modern Writing from Other Regions**  
+- [[Latin American Literature]]
+- [[African Literature]]
+- [[Australian Literature]] 
+- [[South Asian Literature]]  
+
+---
+
+> 📌 *Official syllabus available at: [nests.tribal.gov.in](https://nests.tribal.gov.in) under ESSE 2025*
+
+✅ **Tip**: Focus heavily on **Tier-II**, as it solely determines your final merit rank!
