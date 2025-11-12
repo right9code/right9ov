@@ -1575,7 +1575,7 @@ Below is a fully comprehensive table of Neoclassical writers, their countries of
 # Restoration Age (1660-1700) 
 
 ## 1. John Dryden
-
+P
 - Pioneering Role: Father of English criticism, notable for his development of literary criticism.
 - Alternate Name: The "Father of English Drama."
 - Achievements: Dryden was a key figure in the development of the heroic couplet and wrote extensively on literary theory and criticism.
