@@ -4348,11 +4348,7 @@ The transition from Late Modernism to Early Postmodernism marks a shift from ser
 | War \& <br> Destruction | Serious, focuses on the trauma <br> of WWII (Four Quartets, The <br> Pisan Cantos) | Satirical, absurd, highlights the <br> irrationality of war (Catch-22, <br> Slaughterhouse-Five) |
 | Alienation \& <br> Exile | Characters struggle with <br> identity \& isolation (Murphy, <br> The Waves) | Characters are often unreliable or <br> fragmented (Lolita, Pale Fire) |
 | Existentialism | Questions meaning but <br> searches for truth (Waiting for <br> Godot) | Embraces absurdity, meaning is an <br> illusion (Naked Lunch, One Hundred <br> Years of Solitude) |
-
----
-
 | Paranoia \& Conspiracy | Fascism, war, totalitarianism as real threats | Reality itself is a conspiracy (The Crying of Lot 49) |
-| :--: | :--: | :--: |
 | Technology \& Media | Viewed as a force shaping modern life | Blurs fiction \& reality, media replaces truth (The Soft Machine) |
 | Time \& Narrative | Stream-of-consciousness, fragmented time (Finnegans Wake) | Nonlinear, self-referential, loops in time (Slaughterhouse-Five, Ficciones) |
 
@@ -4431,11 +4427,7 @@ Writers Unique to High Postmodernism (1960s-1980s)
 | Donald <br> Barthelme <br> (1931- <br> 1989) | Snow White (1967), Sixty Stories (1976) | 12 | Collage Fiction - Used fragmented narratives, absurd humor, and pastiche to disrupt traditional meaning | Irony, media overload, absurdity, deconstruction of myths |
 | Robert <br> Coover (b. <br> 1932) | The Universal <br> Baseball <br> Association, Inc. <br> (1968), <br> Pricksongs \& Descants (1969) | $20+$ | Hyperreality \& Fairy Tale Deconstruction - Blended pop culture and history, creating stories within stories | Fantasy vs. reality, role of chance, game theory in fiction |
 | Thomas Bernhard (19311989) | Correction (1975), The Loser (1983) | $25+$ | Monologue Novels - Used long, single-paragraph prose filled with selfloathing and intellectual despair | Repetition, social criticism, existential nihilism |
-
----
-
 | J.G. Ballard (1930- | Crash (1973), High-Rise (1975) | $20+$ | Dystopian Postmodernism \& Psychopathology of Media - Explored consumerism and technology shaping human psychology | Technology \& alienation, media hyperreality, urban dystopia |
-| :--: | :--: | :--: | :--: | :--: |
 | Kathy Acker (1947- | Blood and Guts in High School (1978) | $10+$ | Punk Postmodernism \& Plagiarism as Art - Used pastiche, cut-up techniques, and radical feminism | Sexuality, anarchy, rewriting history, experimental language |
 | Paul Auster <br> (b. 1947) | The New York Trilogy (198586) | $20+$ | Anti-Detective Fiction Subverted detective fiction, questioning authorship and identity | Fate, identity, language, selfreferential storytelling |
 | Milan <br> Kundera (b. <br> 1929) | The Unbearable Lightness of Being (1984) | $10+$ | Philosophical Fiction \& Metafiction - Combined existentialism with playful narration | Fate vs. free will, irony, political history |
@@ -4447,11 +4439,7 @@ Writers Unique to High Postmodernism (1960s-1980s)
 | Metafiction | The story acknowledges itself <br> as fiction | Lost in the Funhouse (Barth) - A <br> story about writing a story |
 | Pastiche \& <br> Collage | Blends multiple styles, genres, <br> or historical references | Snow White (Barthelme) - A surreal <br> retelling of a fairy tale |
 | Hyperreality | Fiction overtakes reality; <br> reality is indistinguishable <br> from media | Crash (Ballard) - A world where <br> people fetishize car crashes |
-
----
-
 | Paranoia \& <br> Conspiracy | Characters are trapped in <br> unknowable systems | The New York Trilogy (Auster) - A <br> detective loses his identity in the <br> investigation |
-| :-- | :-- | :-- |
 | Game Theory in <br> Fiction | Narratives are structured like <br> games | The Universal Baseball Association, <br> Inc. (Coover) - A man plays a <br> godlike baseball simulation |
 | Deconstruction of <br> Genre | Traditional genres are <br> distorted or mocked | Correction (Bernhard) - An anti- <br> novel in a single paragraph |
 | Radical <br> Intertextuality | Rewrites historical texts or <br> other literature | Blood and Guts in High School <br> (Acker) - Mixes literature with <br> extreme feminist revisionism |
@@ -4486,11 +4474,7 @@ High Postmodernism marked the peak of literary self-awareness and experimentatio
 | Metafiction Became <br> Mainstream | Writers continued breaking <br> the fourth wall and playing <br> with the nature of storytelling | House of Leaves (Mark Z. <br> Danielewski, 2000) - A novel <br> that is aware of itself, layered <br> like a labyrinth |
 | Pastiche \& Genre <br> Blending Expanded | Mixing multiple genres, <br> literary styles, and pop culture <br> references became a norm | Infinite Jest (David Foster <br> Wallace, 1996) - Blends satire, <br> philosophy, dystopia, and <br> metafiction |
 | Hyperreality \& <br> Simulacra Explored <br> Further | Writers and media became <br> more interested in how reality <br> is shaped by technology, <br> simulation, and media | White Noise (Don DeLillo, 1985) <br> - Explores media saturation, <br> simulation, and death anxiety |
-
----
-
 | Anti-Detective \& Fragmented Narratives Continued | Stories increasingly resisted resolution, leaving readers in uncertainty | City of Glass (Paul Auster, 1985) A detective novel that unravels into paranoia and identity loss |
-| :--: | :--: | :--: |
 | Radical Intertextuality Became More Common | Literature increasingly incorporated historical, literary, and cultural references as part of the story | The People of Paper (Salvador <br> Plascencia, 2005) - Features characters who know they are written by an author |
 | Deconstruction of Traditional Narrative Structures | Novels began to disrupt linearity, using footnotes, non-traditional layouts, and mixed media | Cloud Atlas (David Mitchell, 2004) - A novel structured as interlocking, mirrored narratives across time |
 | Cyberpunk \& Techno- <br> Postmodernism <br> Emerged | Writers blended postmodern ideas with science fiction and digital culture | Neuromancer (William Gibson, 1984) - A cyberpunk novel that explores simulated realities and fragmented identities |
