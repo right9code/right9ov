@@ -132,5 +132,4 @@ def speak_text():
     print("***Bold italic sentence.*** ***Bold italic question?*** ***Bold italic exclamation!***")
 ```
 
-> 'We live in a world where there is more and more information, and less and less meaning,' – Italicized postmodern reflection. ***Isn't that **bold italic*** profound?**
-```
+ 'We live in a world where there is more and more information, and less and less meaning,' – Italicized postmodern reflection. **Isn't that bold italic*** profound?***
