@@ -4731,9 +4731,8 @@ Key Works: Infinite Jest (Wallace, 1996), On Beauty (Smith, 2005), Tenth of Dece
 Themes: Mental health, authenticity vs. irony, meaning in a media-saturated world
 Techniques: Meta-irony (irony about irony), maximalist prose, introspection, footnotes as narrative
 
----
 
-# Influence: 
+### Influence: 
 
 - Broke away from postmodern detachment, bringing emotional engagement back to literature.
 - Inspired autofiction and introspective narratives.
@@ -4749,6 +4748,7 @@ Themes: Self-identity, artistic struggle, memory, relationships
 Techniques: Stream-of-consciousness, diary-like prose, minimal plot
 Influence:
 
+### Influence:
 - Inspired confessional writing and introspective realism in fiction.
 - Led to greater acceptance of self-referential, quasi-memoir narratives.
 
@@ -4762,7 +4762,7 @@ Key Works: House of Leaves (Danielewski, 2000), If on a Winter's Night a Travele
 Themes: Uncertainty, reality vs. fiction, deconstructed narrative
 Techniques: Nonlinear storytelling, unconventional typography, text arranged in chaotic ways
 
-## Influence:
+### Influence:
 
 - Inspired digital literature and interactive fiction.
 - Influenced experimental graphic novels and mixed-media narratives.
@@ -4778,6 +4778,7 @@ Themes: Ecological destruction, activism, survival in a changing world
 Techniques: Polyphonic storytelling, allegory, world-building
 Influence:
 
+### Influence:
 - Raised awareness of climate change through narrative-driven activism.
 - Inspired eco-conscious storytelling across genres.
 
@@ -4805,7 +4806,7 @@ Key Works: NW (Smith, 2012), 1Q84 (Murakami, 2009), Consider the Lobster (Wallac
 Themes: Self-awareness, empathy, hope, absurdity of modern life
 Techniques: Blending irony and sincerity, nonlinear plots, character-driven storytelling
 
-# Influence: 
+### Influence: 
 
 - Influenced film and TV (e.g., Everything Everywhere All at Once, BoJack Horseman).
 - Redefined postmodernism for the internet age.
