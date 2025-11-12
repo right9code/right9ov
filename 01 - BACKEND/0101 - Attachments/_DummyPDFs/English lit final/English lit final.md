@@ -4793,6 +4793,7 @@ Themes: Surveillance, Al, digital identity, corporate power
 Techniques: Technothriller pacing, near-future speculation, fragmented storytelling
 Influence:
 
+### Influence:
 - Coined "Metaverse" (Stephenson, 1992), influencing VR and Al discussions.
 - Inspired real-world tech developments (cryptocurrency, Al ethics).
 
@@ -4822,6 +4823,7 @@ Themes: Alternate realities, subjective truth, existential exploration
 Techniques: Dreamlike storytelling, surrealism, unreliable narration
 Influence:
 
+### Influence:
 - Inspired psychedelic and dream logic narratives in mainstream fiction.
 - Merged sci-fi with literary fiction in a way that reshaped both genres.
 
@@ -4830,12 +4832,9 @@ Influence:
 
 Contemporary Postmodernism is more global, personal, and politically engaged than its predecessors. While High Postmodernism (1960s-1980s) was obsessed with irony and deconstruction, Contemporary Postmodernism blends these techniques with sincerity, activism, and digital culture.
 
-## Key Features:
+### Key Features:
 
 - Hybrid genres: Sci-fi mixed with realism (Transrealism), memoir mixed with fiction (Autofiction).
-
----
-
 - Digital \& interactive literature: Books that respond to internet-age storytelling.
 - Emotional sincerity: Writers pushing against extreme irony, returning to real emotion.
 - Environmental and social concerns: Cli-Fi, social activism, and AI ethics dominate new themes.
@@ -4863,11 +4862,7 @@ Writers shifted from colonial issues to identity, tradition vs. modernity, and s
 | Writer | Major Works | Contributions \& <br> Influence | Techniques \& <br> Themes | Total <br> Works |
 | :-- | :-- | :-- | :-- | :-- |
 | Kamala <br> Markandaya <br> (1924-2004) | Nectar in a Sieve <br> (1954), Some <br> Inner Fury (1955) | Explored rural life, <br> gender roles, <br> partition trauma | Realism, <br> feminism, East- <br> West conflict | 10 <br> novels |
-
----
-
 | Khushwant <br> Singh (1915- <br> 2014) | Train to Pakistan <br> (1956), I Shall Not <br> Hear the <br> Nightingale (1959) | Chronicled <br> Partition violence, <br> Sikh identity | Satire, <br> journalistic <br> realism | 6 novels, <br> 3 history <br> books |
-| :-- | :-- | :-- | :-- | :-- |
 | Anita Desai (b. <br> 1937) | Cry, the Peacock <br> (1963), Clear Light <br> of Day (1980) | Pioneer of <br> psychological <br> realism in Indian <br> fiction | Stream-of- <br> consciousness, <br> interiority | 17 <br> novels |
 
 # Indian Writers in Postmodern Era (1980s-Present) 
@@ -4880,11 +4875,7 @@ Literature expanded globally, blending myth, history, postcolonialism, and globa
 | Amitav <br> Ghosh (b. <br> 1956) | The Shadow Lines (1988), The Ibis Trilogy (20082015) | Merged history, postcolonialism, and migration | Polyphonic narration, historical depth | 11 novels |
 | Arundhati <br> Roy (b. <br> 1961) | The God of Small Things (1997), The Ministry of Utmost Happiness (2017) | Feminist, political activism in literature | Fragmented narrative, poetic prose | 2 novels, 5 <br> nonfiction <br> books |
 | Vikram <br> Seth (b. <br> 1952) | A Suitable Boy (1993), The Golden Gate (1986) | Wrote one of the longest English novels, used verse-novel format | Realism, social history | 3 novels, 6 poetry collections |
-
----
-
 | Jhumpa <br> Lahiri (b. <br> 1967) | Interpreter of <br> Maladies (1999), <br> The Namesake <br> (2003) | Explores Indian <br> diaspora, immigrant <br> experience | Minimalist <br> prose, <br> nostalgia | 3 novels, 3 <br> short story <br> collections |
-| :-- | :-- | :-- | :-- | :-- |
 
 # Key Movements \& Trends in Indian English Literature 
 
