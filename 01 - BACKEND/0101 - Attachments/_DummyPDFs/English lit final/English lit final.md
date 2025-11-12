@@ -134,14 +134,11 @@ Key Transitions to Middle English
 
 | Old English (450-1066 AD) | Middle English (1066-1500 AD) |
 | ------------------------- | ----------------------------- |
-|           complex inflections | Simplified grammar, French
-influence  |
+|       complex inflections | Simplified grammar, French influence  |
 |  Heroic themes, religious texts | Courtly love, chivalry, satire  |
 |  Epic poetry, elegies, chronicles | Rhymed verse, drama, prose  |
-|  Beowulf, The Wanderer | The Canterbury Tales, Piers
-Plowman  |
-|  Bede, Caedmon, Cynewulf | Geoffrey Chaucer, Langland,
-Gower  |
+|  Beowulf, The Wanderer | The Canterbury Tales, PiersPlowman  |
+|  Bede, Caedmon, Cynewulf | Geoffrey Chaucer, Langland,Gower  |
 
 ---
 
