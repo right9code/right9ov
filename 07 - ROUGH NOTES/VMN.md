@@ -2199,3 +2199,573 @@ vm-stat
 | `/usr/local/bin/vm-cleanup.sh` | Post-shutdown cleanup |
 | `/usr/local/bin/vm-status.sh` | Status dashboard |
 | `
+# CONTINUATION - ULTIMATE GPU PASSTHROUGH SETUP GUIDE
+
+## PHASE 10: FINAL TESTING & BENCHMARKING (Continued)
+
+### Configuration Files Summary (Continued)
+
+| File | Purpose |
+|------|---------|
+| `~/.config/looking-glass/client.ini` | Looking Glass client settings |
+| `~/.config/hypr/hyprland.conf` | Hyprland keybindings for VM |
+| `~/.zshrc` | Shell aliases for VM management |
+
+***
+
+## Expected Performance Metrics
+
+| Metric | Target | Acceptable | Poor |
+|--------|--------|------------|------|
+| **3DMark Time Spy Score** | 90-95% native | 85-90% native | <85% native |
+| **Frame Time (1080p gaming)** | <1ms variance | <2ms variance | >2ms variance |
+| **Input Latency** | <5ms added | <10ms added | >10ms added |
+| **CPU Host Impact** | <10% load | <20% load | >20% load |
+| **Temperature (CPU)** | <75°C | <85°C | >85°C |
+| **Memory Overhead** | <500MB host | <1GB host | >1GB host |
+| **Boot Time** | <30 seconds | <60 seconds | >60 seconds |
+
+***
+
+## Step 10.5: Benchmark Checklist
+
+**In Windows VM**:
+
+1. **3DMark Time Spy** (GPU benchmark)
+   - Expected score: 4500-5500 (RTX 3050 Mobile)
+   
+2. **Unigine Heaven** (GPU stress test)
+   - 1080p, Ultra settings: 50-70 FPS average
+
+3. **CrystalDiskMark** (disk I/O)
+   - Sequential Read: >3000 MB/s (NVMe)
+   - Sequential Write: >2000 MB/s
+
+4. **LatencyMon** (system latency)
+   - DPC latency: <100μs
+   - ISR latency: <50μs
+
+5. **Game benchmarks**:
+   - CS:GO: 200+ FPS (1080p medium)
+   - Valorant: 150+ FPS (1080p high)
+   - Cyberpunk 2077: 40-50 FPS (1080p medium, DLSS)
+
+**On Host** (while VM running):
+
+```bash
+# CPU usage (host should be 30-50% max)
+htop
+
+# Memory usage
+free -h
+
+# System load (should be <8)
+uptime
+
+# Temperatures
+sensors
+```
+
+***
+
+## QUICK REFERENCE COMMANDS
+
+### Daily Operations
+
+```bash
+# Start VM
+vm-start
+# OR
+Super + F12
+
+# Shutdown VM
+vm-stop
+# OR
+Super + Shift + F12
+
+# Check status
+vm-stat
+# OR
+Super + Ctrl + F12
+
+# Emergency stop
+virsh destroy win10-gaming
+```
+
+### Troubleshooting Commands
+
+```bash
+# Check VFIO binding
+lspci -nnk -d 10de:25a2
+
+# Check IOMMU groups
+for d in /sys/kernel/iommu_groups/*/devices/*; do 
+    n=${d#*/iommu_groups/*}; n=${n%%/*}
+    printf 'IOMMU Group %s ' "$n"
+    lspci -nns "${d##*/}"
+done | grep -i nvidia
+
+# Check hugepages
+cat /proc/meminfo | grep Huge
+
+# Check VM logs
+sudo tail -f /var/log/libvirt/qemu/win10-gaming.log
+
+# Monitor VM performance
+watch -n 1 "virsh domstats win10-gaming --cpu-total"
+
+# Test Looking Glass shared memory
+ls -lh /dev/shm/looking-glass
+```
+
+### Maintenance Commands
+
+```bash
+# Update GRUB after kernel update
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+# Regenerate initramfs after config changes
+sudo mkinitcpio -P
+
+# Restart libvirtd after XML changes
+sudo systemctl restart libvirtd
+
+# Clear VM cache
+virsh destroy win10-gaming
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+virsh start win10-gaming
+
+# Check VM XML
+virsh dumpxml win10-gaming | less
+
+# Edit VM XML
+virsh edit win10-gaming
+```
+
+***
+
+## OPTIMIZATION CHECKLIST
+
+### Pre-Setup Verification
+
+- [x] BIOS: AMD-V/SVM enabled
+- [x] BIOS: IOMMU/AMD-Vi enabled
+- [x] BIOS: CSM disabled, UEFI only
+- [x] IOMMU groups verified
+- [x] NVIDIA GPU isolated (01:00.0 and 01:00.1)
+- [x] 80+ GB free disk space
+- [x] Btrfs subvolume created with CoW disabled
+
+### Kernel Configuration
+
+- [x] GRUB parameters added (amd_iommu, isolcpus, vfio-pci.ids)
+- [x] VFIO modules configured
+- [x] NVIDIA drivers blacklisted on host
+- [x] Mkinitcpio updated with VFIO modules
+- [x] System rebooted
+- [x] VFIO binding verified (lspci -k shows vfio-pci)
+
+### Performance Tuning
+
+- [x] Hugepages allocated (5120 pages)
+- [x] CPU isolation configured (cores 4-11)
+- [x] IRQ affinity set to host cores (0-3)
+- [x] I/O scheduler set to 'none' for NVMe
+- [x] THP defragmentation disabled
+- [x] Swappiness reduced to 10
+
+### VM Configuration
+
+- [x] Q35 machine type with OVMF UEFI
+- [x] Hugepages enabled in XML
+- [x] CPU pinning configured (cores 4-11)
+- [x] Host-passthrough CPU mode
+- [x] Hyper-V enlightenments enabled
+- [x] KVM hidden state enabled
+- [x] VirtIO-SCSI with optimal I/O settings
+- [x] Multi-queue VirtIO network
+- [x] NVIDIA GPU + audio passed through
+- [x] IVSHMEM device added (256MB)
+
+### Windows Guest
+
+- [x] Windows 10 installed
+- [x] VirtIO drivers installed
+- [x] NVIDIA drivers installed (no Code 43)
+- [x] Looking Glass host installed and running
+- [x] Windows optimizations applied (HPET disabled, power plan, etc.)
+- [x] NVIDIA power management disabled (registry)
+- [x] MSI mode enabled for GPU
+
+### Looking Glass
+
+- [x] Client built with Wayland support
+- [x] Shared memory file created (/dev/shm/looking-glass)
+- [x] Client config optimized for 1080p@120Hz
+- [x] QXL display removed from VM
+- [x] Client launches successfully
+- [x] Input capture works (Scroll Lock)
+
+### Automation
+
+- [x] vm-prepare.sh script created
+- [x] vm-launch.sh script created
+- [x] vm-shutdown.sh script created
+- [x] vm-cleanup.sh script created
+- [x] vm-status.sh script created
+- [x] Libvirt hooks configured
+- [x] Hyprland keybindings added
+- [x] Shell aliases created
+
+***
+
+## TROUBLESHOOTING DECISION TREE
+
+```
+VM Won't Start?
+├─ Check logs: journalctl -u libvirtd -f
+├─ Hugepages allocated? → cat /proc/meminfo | grep Huge
+├─ OVMF firmware present? → ls /usr/share/edk2/x64/
+└─ IVSHMEM file exists? → ls /dev/shm/looking-glass
+
+GPU Not Passed Through?
+├─ VFIO binding? → lspci -k | grep -A 3 "01:00.0"
+├─ IOMMU groups? → Check isolation with IOMMU group script
+├─ Kernel parameters? → cat /proc/cmdline
+└─ Mkinitcpio modules? → lsmod | grep vfio
+
+Code 43 Error in Windows?
+├─ Hyper-V vendor_id set? → virsh dumpxml | grep vendor_id
+├─ KVM hidden? → virsh dumpxml | grep hidden
+├─ evmcs disabled? → virsh dumpxml | grep evmcs
+└─ Need VBIOS patch? → Follow Phase 9 Solution B
+
+Looking Glass Black Screen?
+├─ Host service running in Windows? → Services.msc
+├─ IVSHMEM device present? → Device Manager
+├─ Shared memory correct size? → ls -lh /dev/shm/looking-glass
+└─ Try with Spice first → Add graphics back to XML
+
+Poor Performance?
+├─ CPU pinning active? → virsh vcpuinfo win10-gaming
+├─ Hugepages in use? → grep HugePages_Rsvd /proc/meminfo
+├─ Host load too high? → uptime
+└─ Thermal throttling? → sensors
+
+Audio Issues?
+├─ Increase latency in XML → audio latency="1024"
+├─ Try SCREAM network audio
+└─ Check PipeWire on host → systemctl --user status pipewire
+```
+
+***
+
+## MAINTENANCE SCHEDULE
+
+### Weekly
+
+- **Check disk space**: `df -h /vm-images`
+- **Clean Windows temp files** in VM
+- **Monitor temperatures** during gaming
+- **Update Windows** (but disable auto-restart)
+
+### Monthly
+
+- **Update Arch packages**: `sudo pacman -Syu`
+- **Update NVIDIA drivers** in Windows
+- **Check libvirt logs** for errors: `sudo journalctl -u libvirtd | grep error`
+- **Verify hugepages allocation**: `cat /proc/meminfo | grep Huge`
+
+### As Needed
+
+- **Regenerate initramfs** after kernel update: `sudo mkinitcpio -P`
+- **Update GRUB** after grub config changes: `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+- **Restart libvirtd** after XML changes: `sudo systemctl restart libvirtd`
+- **BIOS updates**: Check Lenovo support[10][11]
+
+***
+
+## ADVANCED TIPS & TRICKS
+
+### Tip 1: Snapshot Management (if using qcow2)
+
+```bash
+# Take snapshot before risky changes
+virsh snapshot-create-as win10-gaming \
+    snapshot-$(date +%Y%m%d) \
+    "Clean state before updates"
+
+# List snapshots
+virsh snapshot-list win10-gaming
+
+# Revert to snapshot
+virsh snapshot-revert win10-gaming snapshot-20251113
+```
+
+### Tip 2: USB Passthrough (for peripherals)
+
+**Pass entire USB controller**:
+
+```bash
+# Find USB controller
+lspci | grep USB
+
+# Add to VM XML
+<hostdev mode='subsystem' type='pci' managed='yes'>
+  <source>
+    <address domain='0x0000' bus='0xXX' slot='0xXX' function='0xX'/>
+  </source>
+</hostdev>
+```
+
+**Or pass individual USB devices**:
+
+```bash
+# List USB devices
+lsusb
+
+# Add to VM XML
+<hostdev mode='subsystem' type='usb' managed='yes'>
+  <source>
+    <vendor id='0xXXXX'/>
+    <product id='0xXXXX'/>
+  </source>
+</hostdev>
+```
+
+### Tip 3: CPU Governor Automation
+
+**Automatically switch to performance mode during VM**:
+
+Already configured in vm-prepare.sh and vm-cleanup.sh scripts.
+
+### Tip 4: Network Performance Tuning
+
+**Increase network buffers on host**:
+
+```bash
+sudo nvim /etc/sysctl.d/99-network-tune.conf
+```
+
+Add:
+```bash
+net.core.rmem_max = 16777216
+net.core.wmem_max = 16777216
+net.core.netdev_max_backlog = 5000
+```
+
+Apply:
+```bash
+sudo sysctl -p /etc/sysctl.d/99-network-tune.conf
+```
+
+### Tip 5: Windows 11 Upgrade Path
+
+Your VM already has TPM 2.0 configured. To upgrade to Windows 11:
+
+1. In Windows 10 VM, run Windows Update
+2. Or create Windows 11 ISO and mount
+3. TPM requirement already satisfied
+4. Secure Boot not required for VM
+
+***
+
+## BACKUP & RECOVERY
+
+### Backup VM Configuration
+
+```bash
+# Backup VM XML
+virsh dumpxml win10-gaming > ~/backup/win10-gaming.xml
+
+# Backup disk image (shutdown VM first)
+virsh shutdown win10-gaming
+cp /vm-images/disks/windows10.img ~/backup/windows10-$(date +%Y%m%d).img
+
+# Compress backup (saves space)
+qemu-img convert -O qcow2 -c \
+    /vm-images/disks/windows10.img \
+    ~/backup/windows10-$(date +%Y%m%d).qcow2
+```
+
+### Restore VM
+
+```bash
+# Restore from backup
+cp ~/backup/windows10-20251113.img /vm-images/disks/windows10.img
+
+# Define VM from XML
+virsh define ~/backup/win10-gaming.xml
+
+# Start VM
+virsh start win10-gaming
+```
+
+***
+
+## PERFORMANCE OPTIMIZATION MATRIX
+
+| Optimization | Performance Gain | Difficulty | Stability Risk | Recommended |
+|--------------|------------------|------------|----------------|-------------|
+| **CPU Pinning** | 15-25% | Medium | Low | ✓ Yes |
+| **Hugepages** | 10-15% | Easy | Low | ✓ Yes |
+| **CPU Isolation** | 20-30% latency reduction | Medium | Low | ✓ Yes |
+| **IOMMU=pt** | 5-10% | Easy | Low | ✓ Yes |
+| **iommu.strict=0** | 10-15% I/O | Easy | Low | ✓ Yes |
+| **Hyper-V Enlightenments** | 5-10% | Easy | Low | ✓ Yes |
+| **VirtIO-SCSI** | 20-30% I/O | Easy | Low | ✓ Yes |
+| **I/O scheduler=none** | 5-10% I/O | Easy | None | ✓ Yes |
+| **Raw disk format** | 5-10% I/O | Easy | None (no snapshots) | ✓ Yes |
+| **Multi-queue virtio-net** | 10-20% network | Easy | Low | ✓ Yes |
+| **IRQ affinity** | 5-10% latency | Medium | Low | ✓ Yes |
+| **Disable THP defrag** | 2-5% latency | Easy | Low | ✓ Yes |
+| **Looking Glass** | -1-2% (overhead) | Hard | Medium | ✓ Yes (convenience) |
+| **Real-time kernel** | 5-10% latency | Hard | Medium | Maybe (advanced) |
+| **ACS override** | 0% (fixes isolation) | Medium | High (security) | Only if needed |
+| **VBIOS patching** | 0% (fixes Code 43) | Medium | Medium | Only if Code 43 |
+
+***
+
+## FINAL CHECKLIST BEFORE GAMING
+
+### Pre-Gaming System Check
+
+```bash
+# Run comprehensive check
+vm-stat
+
+# Should show:
+# ✓ GPU bound to vfio-pci
+# ✓ Hugepages: 5120+ free
+# ✓ CPU Governor: powersave (will switch to performance on VM start)
+# ✓ Load average: <4
+# ✓ Free memory: >5GB
+# ✓ Looking Glass shared memory: 256M
+```
+
+### Launch Sequence
+
+```bash
+# 1. Launch VM (automated)
+vm-start
+
+# OR with Hyprland keybind
+Super + F12
+
+# 2. Wait 20 seconds for Windows to boot
+
+# 3. Looking Glass client opens automatically
+
+# 4. Press Scroll Lock to capture input
+
+# 5. Game in Windows VM with near-native performance!
+
+# 6. Press Scroll Lock to release input back to host
+
+# 7. Switch between host (Hyprland) and VM seamlessly
+```
+
+### Shutdown Sequence
+
+```bash
+# 1. Release input from VM (Scroll Lock)
+
+# 2. Shutdown VM
+vm-stop
+
+# OR with Hyprland keybind
+Super + Shift + F12
+
+# 3. System automatically cleans up:
+#    - Restores CPU governor to powersave
+#    - Restarts stopped services
+#    - Compacts memory
+```
+
+***
+
+## RESOURCES & REFERENCES
+
+### Official Documentation
+
+- **Arch Wiki - PCI Passthrough**: https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF[12]
+- **Looking Glass Documentation**: https://looking-glass.io/docs[13]
+- **Libvirt Domain XML**: https://libvirt.org/formatdomain.html
+- **QEMU Documentation**: https://www.qemu.org/docs/master/
+
+### Community Resources
+
+- **r/VFIO subreddit**: https://reddit.com/r/VFIO
+- **Level1Techs Forum**: https://forum.level1techs.com/c/software/vfio/33
+- **Arch Linux Forums**: https://bbs.archlinux.org
+
+### Tools & Utilities
+
+- **Looking Glass**: https://looking-glass.io
+- **NVIDIA vBIOS Patcher**: https://github.com/Matoking/NVIDIA-vBIOS-VFIO-Patcher[14]
+- **MSI Utility v3**: For enabling MSI mode in Windows
+- **LatencyMon**: For measuring system latency in Windows
+
+---
+
+## WHAT YOU'VE ACCOMPLISHED
+
+By completing this guide, you now have:
+
+✅ **Dual-GPU KVM setup** with NVIDIA RTX 3050 Mobile passthrough  
+✅ **AMD Radeon 660M** driving host (Hyprland on Wayland)  
+✅ **Windows 10 VM** with near-native gaming performance (90-95%)  
+✅ **Looking Glass** for seamless display switching  
+✅ **CPU isolation** (cores 4-11 dedicated to VM)  
+✅ **Hugepages** for reduced TLB misses  
+✅ **VirtIO optimizations** for maximum I/O performance  
+✅ **Automated scripts** for VM lifecycle management  
+✅ **Hyprland integration** with keybindings (Super+F12)  
+✅ **Production-ready configuration** with error handling  
+
+### Performance Expectations
+
+- **GPU Performance**: 90-95% of native Windows
+- **Input Latency**: <5ms added (imperceptible)
+- **Frame Times**: Stable, low variance
+- **Host Impact**: Minimal (AMD 660M handles all host graphics)
+- **Thermal Management**: Within safe limits (<85°C)
+- **Boot Time**: ~30 seconds from VM start to desktop
+- **Workflow**: Seamless switching between host and VM
+
+---
+
+## CONGRATULATIONS!
+
+You now have a **professional-grade GPU passthrough setup** on your Lenovo IdeaPad Gaming 3 15ARH7. This configuration provides:
+
+- **Best of both worlds**: Linux productivity (Arch + Hyprland) + Windows gaming
+- **Seamless workflow**: Switch between host and VM with Scroll Lock
+- **Maximum performance**: 90-95% native GPU performance
+- **Future-proof**: Easy to maintain and upgrade
+- **Automated management**: One-command VM launch and shutdown
+
+**Your daily workflow**:
+1. Boot into Arch Linux (Hyprland)
+2. Do Linux work (development, browsing, etc.)
+3. Press `Super+F12` to launch Windows VM
+4. Game with near-native performance
+5. Press `Super+Shift+F12` to shutdown VM
+6. Continue Linux work
+
+**Enjoy your ultimate gaming + productivity setup!** 🚀🎮
+
+***
+
+## SUPPORT & COMMUNITY
+
+If you encounter issues:
+
+1. **Check troubleshooting section** (Phase 9)
+2. **Review logs**: `journalctl -u libvirtd -f`
+3. **Run vm-status.sh** for comprehensive system check
+4. **Search Arch Wiki**: Most issues are documented[1][12]
+5. **Ask r/VFIO community**: Helpful community for passthrough questions
+6. **Check Lenovo forums**: Hardware-specific issues[11][15]
+
+**Happy gaming and may your frame times be low and your FPS high!** 🎯
