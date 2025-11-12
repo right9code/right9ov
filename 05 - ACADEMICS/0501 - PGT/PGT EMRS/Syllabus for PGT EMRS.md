@@ -46,7 +46,7 @@ tags:
 ## 🧠 **Tier-I Detailed Syllabus**
 
 ### **Part-I: General Awareness**
-- [[EMRS Paper 1/Part-I – General Awareness/General Knowledge|General Knowledge]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-I – General Awareness/General Knowledge|General Knowledge]]  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-I – General Awareness/Current Affairs|Current Affairs]]  
 
 ---
@@ -87,7 +87,7 @@ tags:
 ### **Part-V: Domain Knowledge** (a & b)
 
 - (a) **Experiential Activity-Based Pedagogy & Case study-based questions** 
-- (b) **National Education Policy (NEP) – 2020**
+- (b) **National Education Policy ([[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-V – Domain Knowledge/National Education Policy (NEP) – 2020]]**
 
 ---
 
@@ -104,9 +104,9 @@ tags:
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Error Correction|Error Correction]]
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Sentence Rearrangement|Sentence Rearrangement]]
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Vocabulary|Vocabulary]]
-- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Antonyms - Synonyms|Antonyms - Synonyms]]  
-- [[Grammar]]  
-- [[Idioms & Phrases]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Antonyms - Synonyms|Antonyms - Synonyms]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Grammar|Grammar]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Idioms & Phrases|Idioms & Phrases]]
 
 #### **(b) General Hindi**
 - [[संधि]] 
