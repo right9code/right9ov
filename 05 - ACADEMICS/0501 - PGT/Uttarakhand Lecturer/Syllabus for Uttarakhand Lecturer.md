@@ -46,23 +46,23 @@ A written exam will be conducted for the subject opted by the candidate. The que
 ### Unit I – Application of English Grammar Rules
 1. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Tenses and Conditional Sentences|Tenses and Conditional Sentences]]
 2. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Subject–Verb Agreement|Subject–Verb Agreement]]
-3. [[Transformation of Sentences]]
-4. [[Direct and Indirect Narration]]
+3. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Transformation of Sentences|Transformation of Sentences]]
+4. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Direct and Indirect Narration|Direct and Indirect Narration]]
 
 ### Unit II – Vocabulary
-1. [[One-Word Substitution]]
-2. [[Antonyms, Synonyms, and Homonyms]]
-3. [[Phrasal Verbs, Idioms, and Phrases]]
-4. [[Spellings]]
+1. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit II – Vocabulary/One-Word Substitution|One-Word Substitution]]
+2. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit II – Vocabulary/Antonyms, Synonyms, and Homonyms|Antonyms, Synonyms, and Homonyms]]
+3. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit II – Vocabulary/Phrasal Verbs, Idioms, and Phrases|Phrasal Verbs, Idioms, and Phrases]]
+4. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit II – Vocabulary/Spellings|Spellings]]
 
 ### Unit III – Comprehension
-1. [[Prose Passage]]
-2. [[Poetry Passage]]
+1. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit III – Comprehension/Prose Passage|Prose Passage]]
+2. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit III – Comprehension/Poetry Passage|Poetry Passage]]
    > *Questions will focus on interpretation of theme and style.*
 
 ### Unit IV – Writing Skills
-1. [[Parts of Speech and Figures of Speech (with usage in sentences)]]
-2. [[Technical Aspects of Letter and Report Writing]]
+1. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit IV – Writing Skills/Parts of Speech and Figures of Speech (with usage in sentences)|Parts of Speech and Figures of Speech (with usage in sentences)]]
+2. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit IV – Writing Skills/Technical Aspects of Letter and Report Writing|Technical Aspects of Letter and Report Writing]]]
 
 ---
 
@@ -71,7 +71,7 @@ A written exam will be conducted for the subject opted by the candidate. The que
 **Duration**: 3 Hours  
 
 ### Unit I – Literary Forms, Terms, and Movements  
-- **Movements**: [[Renaissance]], [[Metaphysical Poetry]], [[Gothic Novel]], [[Pre-Raphaelites]], [[Post-Modernism]], [[Existentialism]], [[Deconstruction]], [[Intertextuality]]  
+- **Movements**: [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 2/Unit I – Literary Forms, Terms, and Movements/Renaissance|Renaissance]], [[Metaphysical Poetry]], [[Gothic Novel]], [[Pre-Raphaelites]], [[Post-Modernism]], [[Existentialism]], [[Deconstruction]], [[Intertextuality]]  
 - **Forms & Terms**: [[Ballad]], [[Sonnet]], [[Elegy]], [[Ode]], [[Metre]], [[Heroic Couplet]], [[Catharsis]], [[Hamartia]], [[Aside]], [[Chronicle Play]], [[Travelogue]]  
 
 ### Unit II – Poetry  
