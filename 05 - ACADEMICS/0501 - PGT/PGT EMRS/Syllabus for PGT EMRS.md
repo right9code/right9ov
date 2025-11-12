@@ -64,25 +64,24 @@ tags:
 ---
 
 ### **Part-III: Knowledge of ICT**
-- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Fundamentals of Computer System|Fundamentals of Computer System]]  
-- [[Basics of Operating System]]  
-- [[MS Office]]  
-- [[Keyboard Shortcuts]]  
-- [[Important Computer Terms & Abbreviations]]  
-- [[Computer Networks]]  
-- [[Cyber Security]]  
-- [[Internet]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Fundamentals of Computer System|Fundamentals of Computer System]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Basics of Operating System|Basics of Operating System]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/MS Office|MS Office]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Keyboard Shortcuts|Keyboard Shortcuts]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Important Computer Terms & Abbreviations|Important Computer Terms & Abbreviations]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Computer Networks|Computer Networks]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Cyber Security|Cyber Security]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-III – Knowledge of ICT/Internet|Internet]]
 
 ---
 
 ### **Part-IV: Teaching Aptitude**
-- [[Teaching - Nature, Characteristics, Objectives and Basic requirements]]  
-- [[Learner’s Characteristics]]  
-- [[Factors Affecting Teaching]]  
-- [[Teaching Methods]]  
-- [[Teaching Aids]]  
-- [[Evaluation Systems]]
-
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Teaching - Nature, Characteristics, Objectives and Basic requirements|Teaching - Nature, Characteristics, Objectives and Basic requirements]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Learner’s Characteristics|Learner’s Characteristics]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Factors Affecting Teaching|Factors Affecting Teaching]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Teaching Methods|Teaching Methods]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Teaching Aids|Teaching Aids]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-IV – Teaching Aptitude/Evaluation Systems|Evaluation Systems]]
 ---
 
 ### **Part-V: Domain Knowledge** (a & b)
@@ -96,7 +95,7 @@ tags:
 
 #### **(a) General English**
 - [[EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tense]]  
-- [[Voice]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Voice|Voice]]  
 - [[Subject-Verb Agreement]]  
 - [[Articles]]  
 - [[Comprehension & Unseen Passages]]  
