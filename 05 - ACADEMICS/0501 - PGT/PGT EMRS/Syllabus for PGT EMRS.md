@@ -96,7 +96,7 @@ tags:
 ### **Part-VI: Language Competency** (a&b)
 
 #### **(a) General English**
-- [[EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tenses]]  
+- [[EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tense]]  
 - [[Voice]]  
 - [[Subject-Verb Agreement]]  
 - [[Articles]]  
@@ -106,7 +106,7 @@ tags:
 - [[Error Correction]]  
 - [[Sentence Rearrangement]]  
 - [[Vocabulary]]  
-- [[Antonyms - Synonyms]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Antonyms - Synonyms|Antonyms - Synonyms]]  
 - [[Grammar]]  
 - [[Idioms & Phrases]]  
 
