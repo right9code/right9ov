@@ -225,3 +225,5 @@ done
 	25. **File Explorer Word Count**
 	26. 
 
+
+In Files and Links set absolute path in vault
