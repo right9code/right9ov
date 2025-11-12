@@ -5459,7 +5459,7 @@ These terms define the way stories are structured.
 
 ---
 
-# 11. Frame Narrative 
+## 11. Frame Narrative 
 
 - Definition: A story within a story.
 - Example: Frankenstein is told through multiple embedded narratives.
@@ -5553,7 +5553,7 @@ These are contemporary literary styles and theories.
 
 ---
 
-# 24. Pastiche 
+## 24. Pastiche 
 
 - Definition: A work that imitates various styles or genres.
 - Example: Thomas Pynchon's The Crying of Lot 49.
