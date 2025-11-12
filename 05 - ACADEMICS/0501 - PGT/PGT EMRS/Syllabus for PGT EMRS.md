@@ -136,13 +136,13 @@ tags:
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Classified Advertisements|Classified Advertisements]] 
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Poster Design|Poster Design]]
 - **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Speech Writing|Speech Writing]]** (120–150 words) based on verbal/visual inputs  
-- **[[Debate]]** on current issues (based on visual/verbal cues)
+- **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Debate|Debate]]** on current issues (based on visual/verbal cues)
 
 ---
 
 ### **Unit III - Grammar**
-- [[Gap-filling – Tenses and Clauses]]
-- [[Sentence Reordering & Transformation of Sentences]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit III – Grammar/Gap-filling – Tenses and Clauses|Gap-filling – Tenses and Clauses]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit III – Grammar/Sentence Reordering & Transformation of Sentences|Sentence Reordering & Transformation of Sentences]]
 
 ---
 
@@ -151,9 +151,9 @@ tags:
 #### 🎭 **Shakespeare’s Works**  
 #### 🌿 **Romantic Period**  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/William Wordsworth|William Wordsworth]], 
-- [[P.B. Shelley]] , 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/P.B. Shelley|P.B. Shelley]] , 
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/John Keats|John Keats]], 
-- [[Samuel Taylor Coleridge]] , 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/Romantic Period/Samuel Taylor Coleridge|Samuel Taylor Coleridge]] , 
 - etc.
 #### 🕰️ **19th–20th Century American & English Literature**  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit IV – Literature/19th–20th Century American & English Literature/Robert Frost|Robert Frost]], 
