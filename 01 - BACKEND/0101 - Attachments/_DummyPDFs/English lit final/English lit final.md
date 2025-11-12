@@ -5007,7 +5007,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - Sahitya Akademi Award (1971) for Morning Face
 
 
-# 3. R. K. Narayan (1906-2001) 
+## 3. R. K. Narayan (1906-2001) 
 
 ## - Major Works:
 
@@ -5033,7 +5033,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - Sahitya Akademi Fellowship (1994)
 
 
-# 4. Toru Dutt (1856-1877) 
+## 4. Toru Dutt (1856-1877) 
 
 - Major Works:
 - A Sheaf Gleaned in French Fields (1876)
@@ -5063,7 +5063,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - His song "Vande Mataram" from Anandamath became a national song of India.
 
 
-# 7. Sarojini Naidu (1879-1949) 
+## 7. Sarojini Naidu (1879-1949) 
 
 ## - Major Works:
 
@@ -5102,7 +5102,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - Explored themes of rural life, social upheaval, and East-West encounters.
 
 
-# 9. Khushwant Singh (1915-2014) 
+## 9. Khushwant Singh (1915-2014) 
 
 ## - Major Works:
 
@@ -5122,7 +5122,7 @@ $\checkmark$ Influenced global literary styles-Magical Realism (Rushdie), Psycho
 - Punjab Rattan Award (2006)
 
 
-## Indian English Writers: Expanded Analysis
+# Indian English Writers: Expanded Analysis
 
 ## 1. Contemporary Indian English Writers (1980s-Present)
 
