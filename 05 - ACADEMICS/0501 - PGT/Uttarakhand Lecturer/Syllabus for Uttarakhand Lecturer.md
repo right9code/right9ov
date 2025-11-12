@@ -44,8 +44,8 @@ A written exam will be conducted for the subject opted by the candidate. The que
 **No. of Questions**: 150  
 **Duration**: 3 Hours  
 ### Unit I – Application of English Grammar Rules
-1. [[Tenses and Conditional Sentences]]
-2. [[Subject–Verb Agreement]]
+1. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Tenses and Conditional Sentences|Tenses and Conditional Sentences]]
+2. [[05 - ACADEMICS/0501 - PGT/Uttarakhand Lecturer/UL Paper 1/Unit I – Application of English Grammar Rules/Subject–Verb Agreement|Subject–Verb Agreement]]
 3. [[Transformation of Sentences]]
 4. [[Direct and Indirect Narration]]
 
