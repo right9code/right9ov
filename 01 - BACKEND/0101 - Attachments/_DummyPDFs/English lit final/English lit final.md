@@ -4,15 +4,8 @@
 
 ## Important periods of English Lit.
 
-| Old     | Middle  | The         | The Neo   | The       | The       | The    | The     |
-| English | English | Renaissance | classical | Romantic  | Victorian | Modern | Postmod |
-| (Anglo- | Period  | (1500-1660  | Period    | Period    | Period    | Period | ern     |
-| Saxon)  | (1066-  | AD)         | (1660-    | (1798-    | (1837-    | (1901- | Period  |
-| Period  | 1500    |             | 1798 AD): | 1837 AD): | 1901      | 1945   | (1945-  |
-| 1066    | AD)     |             |           |           | AD)       | AD)    | present |
-| AD)     |         |             |           |           |           |        | AD)     |
-| :------ | :------ | :---------- | :-------- | :-------- | :-------- | :----- | :------ |
-
+| Old English (Anglo-Saxon) Period (1066 AD) | Middle English Period (1066-1500 AD) | The Renaissance Period (1500-1660 AD) | The Neo classical Period (1660-1798 AD) | The Romantic Period (1798-1837 AD) | The Victorian Period (1837-1901 AD) | The Modern Period (1901-1945 AD) | The Postmodern Period (1945-present AD) |
+|:------------------------------------------|:------------------------------------|:-------------------------------------|:---------------------------------------|:----------------------------------|:-----------------------------------|:--------------------------------|:---------------------------------------|
 The Renaissance (1500-1660): This can be further divided into:
 
 | Early <br> Tudor <br> Period <br> (roughly <br> 1500- <br> 1558) | Elizabethan <br> Period (1558- <br> 1603) | Jacobean <br> Period <br> (1603- <br> 1625) | Caroline <br> Period <br> (1625- <br> 1649) | Commonwealth <br> Period (1649- <br> 1660) |
