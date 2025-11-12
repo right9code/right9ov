@@ -94,7 +94,7 @@ tags:
 ### **Part-VI: Language Competency** (a&b)
 
 #### **(a) General English**
-- [[EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tense]]  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Verb & Tenses|Verb & Tenses]]  
 - [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 1/Part-VI – Language Competency/General English/Voice|Voice]]  
 - [[Subject-Verb Agreement]]  
 - [[Articles]]  
