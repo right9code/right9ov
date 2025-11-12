@@ -122,20 +122,20 @@ tags:
 
 ## 📖 **PGT – English: Tier-II Subject Syllabus**
 ### **Unit I - Reading**
-- [[Unseen Passage – Factual, Descriptive, Literary]] → assesses comprehension, inference, interpretation, vocabulary  
-- [[Case-Based Unseen Passage with Verbal-Visual Inputs]](e.g., charts, data)  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit I – Reading/Unseen Passage – Factual, Descriptive, Literary|Unseen Passage – Factual, Descriptive, Literary]] → assesses comprehension, inference, interpretation, vocabulary  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit I – Reading/Case-Based Unseen Passage with Verbal-Visual Inputs|Case-Based Unseen Passage with Verbal-Visual Inputs]](e.g., charts, data)  
 - **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit I – Reading/Note-making & Summarization|Note-making & Summarization]]**
 
 ---
 
 ### **Unit II - Creative Writing Skills**
-- [[Notice]] 
-- [[Formal - Informal Invitation & Reply]]
-- [[Letter Writing]] (based on verbal/visual input)  
-- [[Article - Report Writing]](descriptive & analytical based on verbal inputs)  
-- [[Classified Advertisements]] 
-- [[Poster Design]]
-- **[[Speech Writing]]** (120–150 words) based on verbal/visual inputs  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Notice|Notice]] 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Formal - Informal Invitation & Reply|Formal - Informal Invitation & Reply]]
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Letter Writing|Letter Writing]] (based on verbal/visual input)  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Article - Report Writing|Article - Report Writing]](descriptive & analytical based on verbal inputs)  
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Classified Advertisements|Classified Advertisements]] 
+- [[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Poster Design|Poster Design]]
+- **[[05 - ACADEMICS/0501 - PGT/PGT EMRS/EMRS Paper 2/Unit II – Creative Writing Skills/Speech Writing|Speech Writing]]** (120–150 words) based on verbal/visual inputs  
 - **[[Debate]]** on current issues (based on visual/verbal cues)
 
 ---
