@@ -3,7 +3,7 @@
 ### Arch Linux + Hyprland | Dual-Mode Gaming | Intelligent Power Management
 
 **Hardware**: AMD Ryzen 5 6600H | NVIDIA RTX 3050 Mobile | AMD Radeon 660M | 16GB RAM  
-**Host OS**: Arch Linux (CachyOS 6.16.8) + Hyprland (Wayland)  
+**Host OS**: Arch Linux (Linux 6.17.4-zen2-1-zen) + Hyprland (Wayland)  
 **Guest OS**: Windows 10 with GPU Passthrough  
 **Features**: Dynamic GPU switching | Auto power management | Looking Glass | Wine/Lutris support
 
