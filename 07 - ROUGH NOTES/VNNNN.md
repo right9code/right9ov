@@ -155,7 +155,7 @@ sudo chown -R $USER:$USER /vm-images
 sudo blkid | grep btrfs
 
 # Edit fstab
-sudo nvim /etc/fstab
+sudo nano /etc/fstab
 ```
 
 **Add** (replace UUID):
@@ -230,7 +230,7 @@ IOMMU Group X 01:00.1 Audio [0403]: NVIDIA [10de:2291]
 ## 4.1 Edit GRUB Configuration
 
 ```bash
-sudo nvim /etc/default/grub
+sudo nano /etc/default/grub
 ```
 
 **Modify `GRUB_CMDLINE_LINUX_DEFAULT`** (NO vfio-pci.ids here for dynamic binding):
@@ -247,7 +247,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ## 4.2 VFIO Module Configuration
 
 ```bash
-sudo nvim /etc/modprobe.d/vfio.conf
+sudo nano /etc/modprobe.d/vfio.conf
 ```
 
 **Add** (no static IDs):
@@ -263,7 +263,7 @@ softdep nvidia pre: vfio-pci
 ## 4.3 Mkinitcpio Configuration
 
 ```bash
-sudo nvim /etc/mkinitcpio.conf
+sudo nano /etc/mkinitcpio.conf
 ```
 
 **Modify MODULES**:
@@ -365,7 +365,7 @@ sudo virsh net-autostart default
 ## 6.5 Configure Libvirt
 
 ```bash
-sudo nvim /etc/libvirt/qemu.conf
+sudo nano /etc/libvirt/qemu.conf
 ```
 
 **Modify** (replace `your_username`):
@@ -391,7 +391,7 @@ sudo systemctl restart libvirtd
 ## 7.1 Hugepages
 
 ```bash
-sudo nvim /etc/sysctl.d/90-hugepages.conf
+sudo nano /etc/sysctl.d/90-hugepages.conf
 ```
 
 **Add**:
@@ -412,7 +412,7 @@ sudo sysctl -p /etc/sysctl.d/90-hugepages.conf
 ## 7.2 Disable THP Defragmentation
 
 ```bash
-sudo nvim /etc/tmpfiles.d/thp.conf
+sudo nano /etc/tmpfiles.d/thp.conf
 ```
 
 **Add**:
@@ -424,7 +424,7 @@ w /sys/kernel/mm/transparent_hugepage/khugepaged/defrag - - - - never
 ## 7.3 I/O Scheduler
 
 ```bash
-sudo nvim /etc/udev/rules.d/60-ioschedulers.rules
+sudo nano /etc/udev/rules.d/60-ioschedulers.rules
 ```
 
 **Add**:
@@ -435,7 +435,7 @@ ACTION=="add|change", KERNEL=="nvme[0-9]n[0-9]", ATTR{queue/scheduler}="none"
 ## 7.4 IRQ Affinity Script
 
 ```bash
-sudo nvim /usr/local/bin/set-irq-affinity.sh
+sudo nano /usr/local/bin/set-irq-affinity.sh
 ```
 
 **Add**:
@@ -455,7 +455,7 @@ sudo chmod +x /usr/local/bin/set-irq-affinity.sh
 ## 7.5 IRQ Affinity Service
 
 ```bash
-sudo nvim /etc/systemd/system/irq-affinity.service
+sudo nano /etc/systemd/system/irq-affinity.service
 ```
 
 **Add**:
@@ -493,7 +493,7 @@ yay -S auto-cpufreq
 ## 8.2 Configure auto-cpufreq
 
 ```bash
-sudo nvim /etc/auto-cpufreq.conf
+sudo nano /etc/auto-cpufreq.conf
 ```
 
 **Add**:
@@ -544,7 +544,7 @@ sudo chmod 660 /dev/shm/looking-glass
 
 **Make persistent**:
 ```bash
-sudo nvim /etc/tmpfiles.d/looking-glass.conf
+sudo nano /etc/tmpfiles.d/looking-glass.conf
 ```
 
 **Add** (replace `your_username`):
@@ -554,7 +554,7 @@ f /dev/shm/looking-glass 0660 your_username kvm - -
 
 **Update fstab**:
 ```bash
-sudo nvim /etc/fstab
+sudo nano /etc/fstab
 ```
 
 **Add**:
@@ -597,7 +597,7 @@ sudo make install
 
 ```bash
 mkdir -p ~/.config/looking-glass
-nvim ~/.config/looking-glass/client.ini
+nano ~/.config/looking-glass/client.ini
 ```
 
 **Add**:
@@ -949,7 +949,7 @@ virt-manager
 ## 11.1 GPU to VFIO (VM Mode)
 
 ```bash
-sudo nvim /usr/local/bin/gpu-bind-vfio.sh
+sudo nano /usr/local/bin/gpu-bind-vfio.sh
 ```
 
 **Add**:
@@ -999,7 +999,7 @@ sudo chmod +x /usr/local/bin/gpu-bind-vfio.sh
 ## 11.2 GPU to NVIDIA (Host Mode)
 
 ```bash
-sudo nvim /usr/local/bin/gpu-bind-nvidia.sh
+sudo nano /usr/local/bin/gpu-bind-nvidia.sh
 ```
 
 **Add**:
@@ -1057,7 +1057,7 @@ sudo chmod +x /usr/local/bin/gpu-bind-nvidia.sh
 ## 11.3 GPU Status Check
 
 ```bash
-sudo nvim /usr/local/bin/gpu-status.sh
+sudo nano /usr/local/bin/gpu-status.sh
 ```
 
 **Add**:
@@ -1104,7 +1104,7 @@ sudo chmod +x /usr/local/bin/gpu-status.sh
 ## 12.1 PowerSaver Mode (GPU Off)
 
 ```bash
-sudo nvim /usr/local/bin/gpu-powersaver.sh
+sudo nano /usr/local/bin/gpu-powersaver.sh
 ```
 
 **Add**:
@@ -1149,7 +1149,7 @@ sudo chmod +x /usr/local/bin/gpu-powersaver.sh
 ## 12.2 Hybrid Mode (On-Demand)
 
 ```bash
-sudo nvim /usr/local/bin/gpu-hybrid.sh
+sudo nano /usr/local/bin/gpu-hybrid.sh
 ```
 
 **Add**:
@@ -1195,7 +1195,7 @@ sudo chmod +x /usr/local/bin/gpu-hybrid.sh
 ## 12.3 Performance Mode (Always On)
 
 ```bash
-sudo nvim /usr/local/bin/gpu-performance.sh
+sudo nano /usr/local/bin/gpu-performance.sh
 ```
 
 **Add**:
@@ -1252,7 +1252,7 @@ sudo pacman -S wine-staging winetricks lutris \
 ## 13.2 Browser Launcher (PowerSaver)
 
 ```bash
-nvim ~/.local/bin/browser
+nano ~/.local/bin/browser
 ```
 
 **Add**:
@@ -1271,7 +1271,7 @@ chmod +x ~/.local/bin/browser
 ## 13.3 Obsidian Launcher (PowerSaver)
 
 ```bash
-nvim ~/.local/bin/obsidian-powersaver
+nano ~/.local/bin/obsidian-powersaver
 ```
 
 **Add**:
@@ -1290,7 +1290,7 @@ chmod +x ~/.local/bin/obsidian-powersaver
 ## 13.4 Lutris Launcher (NVIDIA)
 
 ```bash
-nvim ~/.local/bin/lutris-nvidia
+nano ~/.local/bin/lutris-nvidia
 ```
 
 **Add**:
@@ -1310,7 +1310,7 @@ chmod +x ~/.local/bin/lutris-nvidia
 ## 13.5 Steam Launcher (NVIDIA)
 
 ```bash
-nvim ~/.local/bin/steam-nvidia
+nano ~/.local/bin/steam-nvidia
 ```
 
 **Add**:
@@ -1332,7 +1332,7 @@ chmod +x ~/.local/bin/steam-nvidia
 ### vm-prepare.sh
 
 ```bash
-sudo nvim /usr/local/bin/vm-prepare.sh
+sudo nano /usr/local/bin/vm-prepare.sh
 ```
 
 **Add**:
@@ -1391,7 +1391,7 @@ sudo chmod +x /usr/local/bin/vm-prepare.sh
 ### vm-launch.sh
 
 ```bash
-sudo nvim /usr/local/bin/vm-launch.sh
+sudo nano /usr/local/bin/vm-launch.sh
 ```
 
 **Add**:
@@ -1424,7 +1424,7 @@ sudo chmod +x /usr/local/bin/vm-launch.sh
 ### vm-shutdown.sh
 
 ```bash
-sudo nvim /usr/local/bin/vm-shutdown.sh
+sudo nano /usr/local/bin/vm-shutdown.sh
 ```
 
 **Add**:
@@ -1467,7 +1467,7 @@ sudo chmod +x /usr/local/bin/vm-shutdown.sh
 ### vm-cleanup.sh
 
 ```bash
-sudo nvim /usr/local/bin/vm-cleanup.sh
+sudo nano /usr/local/bin/vm-cleanup.sh
 ```
 
 **Add**:
@@ -1492,7 +1492,7 @@ sudo chmod +x /usr/local/bin/vm-cleanup.sh
 ### Libvirt Hook
 
 ```bash
-sudo nvim /etc/libvirt/hooks/qemu
+sudo nano /etc/libvirt/hooks/qemu
 ```
 
 **Add**:
@@ -1523,7 +1523,7 @@ sudo systemctl restart libvirtd
 ## 14.1 Add to hyprland.conf
 
 ```bash
-nvim ~/.config/hypr/hyprland.conf
+nano ~/.config/hypr/hyprland.conf
 ```
 
 **Add at end**:
