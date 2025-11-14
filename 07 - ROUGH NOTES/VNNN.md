@@ -903,7 +903,7 @@ uuidgen
 
 **After first boot**:
 
-1. Open VirtIO CD (D:$$
+1. Open VirtIO CD (D:$)
 2. Run **virtio-win-gt-x64.exe**
 3. Install all drivers
 4. Reboot VM
@@ -1162,10 +1162,12 @@ log "Clearing cache..."
 sync && echo 3 | sudo tee /proc/sys/vm/drop_caches > /dev/null
 
 # CPU governor
+
 log "Setting CPU to performance mode..."
 echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor > /dev/null
 
 # Verify hugepages
+
 HUGE_FREE=$(grep HugePages_Free /proc/meminfo | awk '{print $2}')
 log "Hugepages free: $HUGE_FREE"
 if [ "$HUGE_FREE" -lt 5000 ]; then
