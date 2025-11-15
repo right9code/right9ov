@@ -581,7 +581,24 @@ umount -R /mnt
 ```bash
 reboot
 ```
-4. Set Up `ssh
+4. Set Up `ssh` for root login
+```nano
+# Edit SSH configuration
+sudo nano /etc/ssh/sshd_config
+
+# Find and change this line:
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+
+# Save and exit
+
+# Restart SSH service
+sudo systemctl restart sshd.service
+
+# Set root password (if not already set)
+sudo passwd root
+
+```
 **Crucially, remember to remove the installation USB drive as soon as the computer reboots.**
 
 ---
