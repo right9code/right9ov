@@ -675,7 +675,7 @@ grep -q 'set default="${saved_entry}"' /boot/grub/grub.cfg && echo OK || echo MI
 
 
 ```bash
-sudo pacman -S btop wget curl eza yazi fzf iwd wireless_tools tldr ncdu zoxide nethogs noto-fonts-emoji fastfetch --needed
+sudo pacman -S btop wget curl eza yazi fzf iwd wireless_tools tldr ncdu zoxide nethogs noto-fonts-emoji fastfetch libnotify --needed
 ```
 `25 MiB`
 
@@ -905,7 +905,7 @@ git clone https://github.com/MichaelAquilina/zsh-auto-notify.git ${ZSH_CUSTOM:-~
 
 4. **Install helper applications**
 ```bash
-yay -S bat thefuck nitch zsh-theme-powerlevel10k zsh-completions auto-notify libnotify --needed
+yay -S bat thefuck nitch zsh-theme-powerlevel10k zsh-completions auto-notify --needed
 ```
 
 5. **Configure `.zshrc`**
