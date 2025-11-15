@@ -274,6 +274,8 @@ Zen Kernel:
 ```bash
 pacstrap -K /mnt base base-devel linux-firmware linux-zen linux-zen-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh
 ```
+`808 MiB`
+
 
 
 ## 13. Generate fstab
