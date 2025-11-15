@@ -730,7 +730,7 @@ sudo btrfs subvolume create --parents ~/.abdm
 sudo btrfs subvolume create --parents ~/.local/share/AyuGramDesktop
 sudo btrfs subvolume create --parents ~/.ssh
 sudo btrfs subvolume create --parents ~/python-env
-sudo btrfs subvolume create --parents ~/sudo btrfs subvolume create --parents ~/.var/app
+sudo btrfs subvolume create --parents ~/.var/app
 ```
 
 3. **Change ownership to `$USER`**
