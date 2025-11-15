@@ -443,8 +443,11 @@ right9zzz:x:1000:1000:mrBRIGHTSID3:/home/right9zzz:/bin/bash
 
 ---
 
-## 25. Generate the Initramfs
-
+## 25. Fix vconsolefonts and Generate the Initramfs
+Set the Console Font
+Edit /etc/vconsole.conf:
+nano /etc/vconsole.confAdd the following lines:KEYMAP=us
+FONT=ter-132nKEYMAP=us sets the keyboard layout to US.FONT=ter-132n sets the console font to ter-132n.Save and exit.
 The `mkinitcpio` command creates the initial RAM filesystem images for all the kernels you installed. The `-P` preset flag makes it do this for every kernel automatically (standard, lts, and zen).
 ```bash
 mkinitcpio -P
