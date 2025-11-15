@@ -454,7 +454,7 @@ nano /etc/vconsole.conf
 Add the following lines:
 ```nano
 KEYMAP=us
-FONT=ter-132nKEYMAP=us
+FONT=ter-120b
 ```
 
 
@@ -606,7 +606,7 @@ rm -rf cachyos-repo
 rm -rf cachyos-repo.tar.xz
 ```
 - This script auto-detects your CPU, configures the best CachyOS repositories, and backs up your existing pacman configuration.
-
+4. Setup
 ## 35. Setup Optimized cachyos Kernels
 
 ```bash
