@@ -269,6 +269,7 @@ sudo pacman -Sy
 pacstrap -K /mnt base base-devel linux-firmware linux linux-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh
 ```
 `786 MiB`
+Zen Kernel
 
 ---
 
