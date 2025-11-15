@@ -174,8 +174,8 @@ cfdisk /dev/nvme0n1
 ## 8. Format Filesystems  
 
 ```bash
-mkfs.fat -F32 /dev/nvme0n1p5
-mkfs.btrfs -f /dev/nvme0n1p6
+mkfs.fat -F32 /dev/nvme0n1p1
+mkfs.btrfs -f /dev/nvme0n1p2
 ```
 
 ---
@@ -183,7 +183,7 @@ mkfs.btrfs -f /dev/nvme0n1p6
 ## 9.  Mount Btrfs Partition Temporarily and Create Subvolumes
 
 ```bash
-mount /dev/nvme0n1p6 /mnt
+mount /dev/nvme0n1p2 /mnt
 cd /mnt
 btrfs subvolume create @
 btrfs subvolume create @home
@@ -208,22 +208,22 @@ umount /mnt
 
 Create mount points and mount with optimal options:
 ```bash
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@ /dev/nvme0n1p6 /mnt
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@ /dev/nvme0n1p2 /mnt
 mkdir -p /mnt/{efi,home,opt,srv,tmp,var,var/log,var/spool,var/tmp,var/lib/libvirt,,var/lib/waydroid,var/cache/pacman/pkg}
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@home /dev/nvme0n1p6 /mnt/home
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@opt /dev/nvme0n1p6 /mnt/opt
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@srv /dev/nvme0n1p6 /mnt/srv
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@tmp /dev/nvme0n1p6 /mnt/tmp
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@log /dev/nvme0n1p6 /mnt/var/log
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@spool /dev/nvme0n1p6 /mnt/var/spool
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@var_tmp /dev/nvme0n1p6 /mnt/var/tmp
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@lv /dev/nvme0n1p6 /mnt/var/lib/libvirt
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@wd /dev/nvme0n1p6 /mnt/var/lib/waydroid
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@pkg /dev/nvme0n1p6 /mnt/var/cache/pacman/pkg
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@home /dev/nvme0n1p2 /mnt/home
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@opt /dev/nvme0n1p2 /mnt/opt
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@srv /dev/nvme0n1p2 /mnt/srv
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@tmp /dev/nvme0n1p2 /mnt/tmp
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@log /dev/nvme0n1p2 /mnt/var/log
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@spool /dev/nvme0n1p2 /mnt/var/spool
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@var_tmp /dev/nvme0n1p2 /mnt/var/tmp
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@lv /dev/nvme0n1p2 /mnt/var/lib/libvirt
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@wd /dev/nvme0n1p2 /mnt/var/lib/waydroid
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@pkg /dev/nvme0n1p2 /mnt/var/cache/pacman/pkg
 mkdir -p /mnt/{var/lib/libvirt/images,var/lib/waydroid/images}
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@lv_images /dev/nvme0n1p6 /mnt/var/lib/libvirt/images
-mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@wd_images /dev/nvme0n1p6 /mnt/var/lib/waydroid/images
-mount /dev/nvme0n1p5 /mnt/efi
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@lv_images /dev/nvme0n1p2 /mnt/var/lib/libvirt/images
+mount -o rw,relatime,compress=zstd:3,ssd,discard=async,space_cache=v2,subvol=@wd_images /dev/nvme0n1p2 /mnt/var/lib/waydroid/images
+mount /dev/nvme0n1p1 /mnt/efi
 ```
 
 ---
@@ -274,7 +274,7 @@ pacstrap -K /mnt base base-devel linux-firmware linux linux-headers dkms amd-uco
 
 ## 13. Generate fstab
 
-This command generates the `fstab` (file systems table) file, which tells your system how to mount all the partitions and subvolumes you so carefully configured. We use the `-U` flag to identify drives by their UUIDs, which is more reliable than device names like `/dev/nvme0n1p6`.
+This command generates the `fstab` (file systems table) file, which tells your system how to mount all the partitions and subvolumes you so carefully configured. We use the `-U` flag to identify drives by their UUIDs, which is more reliable than device names like `/dev/nvme0n1p2`.
 ```bash
 genfstab -U /mnt >> /mnt/etc/fstab
 ```
@@ -520,7 +520,7 @@ This command will scan your system for kernels and other operating systems and w
 
 - **Optional**: Repair FAT32 errors on esp partition
 ```bash
-sudo fsck.fat -v -a /dev/nvme0n1p5 
+sudo fsck.fat -v -a /dev/nvme0n1p1 
 ```
 
 ---
