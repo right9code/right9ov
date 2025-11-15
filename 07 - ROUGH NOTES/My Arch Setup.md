@@ -1202,7 +1202,7 @@ sudo snapper -c home create --description "Base System+Graphics+Audio+KDE basic"
 ## 48. Install Basic Utilities
 
 ```bash
-sudo pacman -S udiskie 7zip fastfetch pandoc grim slurp satty wl-clipboard network-manager-applet pandoc
+sudo pacman -S pandoc grim slurp satty wl-clipboard network-manager-applet 
 ```
 
 ```bash
