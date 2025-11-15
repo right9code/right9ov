@@ -266,13 +266,13 @@ sudo pacman -Sy
 ## 12. Initial `pacstrap`
 
 ```bash
-pacstrap -K /mnt base base-devel linux-firmware linux linux-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh terminus-font
+pacstrap -K /mnt base base-devel linux-firmware linux linux-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh tmux terminus-font
 ```
 `786 MiB`
 
 Zen Kernel:
 ```bash
-pacstrap -K /mnt base base-devel linux-firmware linux-zen linux-zen-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh
+pacstrap -K /mnt base base-devel linux-firmware linux-zen linux-zen-headers dkms amd-ucode btrfs-progs git nano bash-completion openssh tmux terminus-font
 ```
 `808 MiB`
 
@@ -599,6 +599,7 @@ sudo systemctl restart sshd.service
 sudo passwd root
 
 ```
+
 **Crucially, remember to remove the installation USB drive as soon as the computer reboots.**
 
 ---
