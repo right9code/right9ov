@@ -621,6 +621,9 @@ sudo systemctl restart sshd.service
 
 # Set root password (if not already set)
 sudo passwd root
+
+
+
 ## 35. Setup Optimized cachyos Kernels
 
 ```bash
