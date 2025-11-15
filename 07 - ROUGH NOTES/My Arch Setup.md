@@ -675,7 +675,7 @@ grep -q 'set default="${saved_entry}"' /boot/grub/grub.cfg && echo OK || echo MI
 
 
 ```bash
-sudo pacman -S btop wget curl eza yazi fzf iwd wireless_tools tldr ncdu zoxide nethogs noto-fonts-emoji fastfetch libnotify android-tools ripgrep 7zip zip unzip fastfetch --needed
+sudo pacman -S btop wget curl eza yazi fzf iwd wireless_tools tldr ncdu zoxide nethogs noto-fonts-emoji fastfetch libnotify android-tools ripgrep 7zip zip unzip fastfetch rsync --needed
 ```
 `25 MiB`
 
