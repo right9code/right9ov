@@ -679,6 +679,8 @@ sudo pacman -S btop wget curl eza yazi fzf iwd wireless_tools tldr ncdu zoxide n
 ```
 `25 MiB`
 
+sudo systemctl enable --now auto
+
 - `openssh` is the premier suite of tools for secure remote login and file transfer over an insecure network, like the internet. 
 - `btop` is a modern, fast, and visually appealing resource monitor for the terminal. It provides a comprehensive and real-time overview of your system's performance.
 - `wget` and `curl` Both are command-line tools used to transfer data from or to a server. They are essential for downloading files, testing APIs, and automating web-related tasks.
