@@ -913,6 +913,7 @@ nano ~/.zshrc
 ```
 
 6. **Delete all existing content and paste the following**
+
 ```ini
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
