@@ -1014,8 +1014,8 @@ reboot
 ## 44. Take Inital `Base System` Snapshot
 
 ```bash
-sudo snapper -c root create --description "Base System" --cleanup-algorithm empty
-sudo snapper -c home create --description "Base System" --cleanup-algorithm empty
+sudo snapper -c root create --description "Base Linux" --cleanup-algorithm empty
+sudo snapper -c home create --description "Base Linux" --cleanup-algorithm empty
 
 ```
 
