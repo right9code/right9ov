@@ -716,7 +716,7 @@ sudo btrfs subvolume create --parents ~/.zen
 sudo btrfs subvolume create --parents ~/.mozilla
 sudo btrfs subvolume create --parents ~/.config/BraveSoftware
 sudo btrfs subvolume create --parents ~/.config/chromium
-sudo btrfs subvolume create --parents ~/.config/google-chrome
+sudo btrfs subvolume create --parents ~/.config/Vivaldi 
 sudo btrfs subvolume create --parents ~/.config/VSCodium
 sudo btrfs subvolume create --parents ~/.vscode-oss
 sudo btrfs subvolume create --parents ~/.vscode
