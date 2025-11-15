@@ -607,7 +607,20 @@ rm -rf cachyos-repo.tar.xz
 ```
 - This script auto-detects your CPU, configures the best CachyOS repositories, and backs up your existing pacman configuration.
 4. Setup root login in sshd.service
-# Edit SSH configuration
+# # Edit SSH configuration
+sudo nano /etc/ssh/sshd_config
+
+# Find and change this line:
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+
+# Save and exit
+
+# Restart SSH service
+sudo systemctl restart sshd.service
+
+# Set root password (if not already set)
+sudo passwd rootEdit SSH configuration
 sudo nano /etc/ssh/sshd_config
 
 # Find and change this line:
