@@ -963,6 +963,7 @@ export QT_QPA_PLATFORMTHEME=qt6ct
 alias i="yay -S"
 alias s="yay"
 alias r="yay -Rsu"
+alias c="clear"
 alias hyprc="hyprctl clients"
 alias gc="git clone"
 alias codehypr="code $HOME/.config/hypr/"
