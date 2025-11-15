@@ -817,7 +817,7 @@ sudo pacman -Syy
 
 1. **Install Required Packages**
 ```bash
-sudo pacman -S snapper grub-btrfs inotify-tools plocate smartmontools dialog --needed 
+sudo pacman -S snapper grub-btrfs inotify-tools plocate smartmontools dialog btrfs-assistant --needed 
 ```
 
 2. **Now Setup Snapper for `root` and `home` sub volumes**
