@@ -735,7 +735,7 @@ sudo btrfs subvolume create --parents ~/.var/app
 
 3. **Change ownership to `$USER`**
 ```bash
-sudo chown -Rv $USER:  ~/.zen ~/.mozilla ~/.config/BraveSoftware ~/.config/chromium ~/.config/vivaldi ~/.config/VSCodium ~/.vscode-oss ~/.vscode ~/.config/qBittorrent ~/.local/share/qBittorrent ~/Downloads ~/.local ~/.local/share/fonts ~/.config/vesktop ~/.cache/yay ~/.abdm ~/.local/share/AyuGramDesktop ~/.ssh ~/Z ~/.var/app ~/
+sudo chown -Rv $USER:  ~/.zen ~/.mozilla ~/.config/BraveSoftware ~/.config/chromium ~/.config/vivaldi ~/.config/VSCodium ~/.vscode-oss ~/.vscode ~/.config/qBittorrent ~/.local/share/qBittorrent ~/Downloads ~/.local ~/.local/share/fonts ~/.config/vesktop ~/.cache/yay ~/.abdm ~/.local/share/AyuGramDesktop ~/.ssh ~/Z ~/.var/app ~/ /var/lib/libvirt/
 
 ```
 
