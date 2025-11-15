@@ -905,7 +905,7 @@ git clone https://github.com/MichaelAquilina/zsh-auto-notify.git ${ZSH_CUSTOM:-~
 
 4. **Install helper applications**
 ```bash
-yay -S bat thefuck nitch zsh-theme-powerlevel10k zsh-completions auto-notify --needed
+yay -S bat thefuck nitch zsh-theme-powerlevel10k zsh-completions auto-notify libnotify --needed
 ```
 
 5. **Configure `.zshrc`**
