@@ -62,17 +62,17 @@ Here's a comprehensive IPA phonetics table with examples to help you learn the I
 
 ## Fricatives
 
-|IPA Symbol|Example Words|Description|
-|---|---|---|
-|/f/|full﻿, fish﻿, Friday﻿, knife|Voiceless f|
-|/v/|vest﻿, view﻿, village﻿, cave|Voiced v|
-|/θ/|thought﻿, think﻿, bath﻿, thing|Voiceless th|
-|/ð/|there﻿, those﻿, the﻿, brothers|Voiced th|
-|/s/|say﻿, sit﻿, glass﻿, nice|Voiceless s|
-|/z/|zoo﻿, crazy﻿, lazy﻿, nose|Voiced z|
-|/ʃ/|shirt﻿, shop﻿, rush﻿, cash|Voiceless sh|
-|/ʒ/|television﻿, delusion﻿, casual﻿, measure|Voiced zh|
-|/h/|high﻿, help﻿, hello﻿, house|Voiceless h|
+| IPA Symbol | Example Words                            | Description  | Hini |
+| ---------- | ---------------------------------------- | ------------ | ---- |
+| /f/        | full﻿, fish﻿, Friday﻿, knife             | Voiceless f  |      |
+| /v/        | vest﻿, view﻿, village﻿, cave             | Voiced v     |      |
+| /θ/        | thought﻿, think﻿, bath﻿, thing           | Voiceless th |      |
+| /ð/        | there﻿, those﻿, the﻿, brothers           | Voiced th    |      |
+| /s/        | say﻿, sit﻿, glass﻿, nice                 | Voiceless s  |      |
+| /z/        | zoo﻿, crazy﻿, lazy﻿, nose                | Voiced z     |      |
+| /ʃ/        | shirt﻿, shop﻿, rush﻿, cash               | Voiceless sh |      |
+| /ʒ/        | television﻿, delusion﻿, casual﻿, measure | Voiced zh    |      |
+| /h/        | high﻿, help﻿, hello﻿, house              | Voiceless h  |      |
 
 ## Affricates
 
