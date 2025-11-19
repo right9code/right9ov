@@ -16,9 +16,9 @@ Here's a comprehensive IPA phonetics table with examples to help you learn the I
 
 | IPA Symbol | Example Words                  | Description             | Hindi |
 | ---------- | ------------------------------ | ----------------------- | ----- |
-| /ɪ/        | pit﻿, sit﻿, bit﻿, gym          | Short i sound           | इ     |
-| /e/ or /ɛ/ | pet﻿, ten﻿, said﻿, bread       | Short e sound           | ए     |
-| /æ/        | cat﻿, hand﻿, mad﻿, flat        | Short a sound           | ऐ     |
+| /ɪ/        | pit﻿, sit﻿, bit﻿, gym          | Short i sound           |       |
+| /e/ or /ɛ/ | pet﻿, ten﻿, said﻿, bread       | Short e sound           |       |
+| /æ/        | cat﻿, hand﻿, mad﻿, flat        | Short a sound           |       |
 | /ʌ/        | but﻿, cut﻿, love﻿, money       | Short u sound           |       |
 | /ʊ/        | put﻿, look﻿, foot﻿, book       | Short oo sound          |       |
 | /ɒ/        | rob﻿, top﻿, watch﻿, sausage    | Short o sound (British) |       |
