@@ -52,9 +52,7 @@ The story explores the theme of **unquestioning faith**. It highlights the innoc
 # **Nelson Mandela: Long Walk to Freedom**
 
 **Author:** Nelson Mandela
-
 **Book:** First Flight
-
 **Type:** Prose (Autobiography)
 
 ---
