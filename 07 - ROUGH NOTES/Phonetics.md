@@ -100,3 +100,4 @@ Here's a comprehensive IPA phonetics table with examples to help you learn the I
 |/w/|wall﻿, walk﻿, wine﻿, world|Approximant w|
 
 The IPA consists of 44 phonemes in English—20 vowel sounds and 24 consonant sounds. The symbols represent actual pronunciation rather than spelling, which is especially useful since English has many pronunciation exceptions.[englishwithlucy+2](https://englishwithlucy.com/phonemic-chart/)​
+hi
