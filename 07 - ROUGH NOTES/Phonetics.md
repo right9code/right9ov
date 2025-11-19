@@ -26,13 +26,13 @@ Here's a comprehensive IPA phonetics table with examples to help you learn the I
 
 ## Long Vowels
 
-|IPA Symbol|Example Words|Description|
-|---|---|---|
-|/i:/|feet﻿, need﻿, seat﻿, me|Long ee sound|
-|/ɑ:/|hard﻿, car﻿, fast﻿, father|Long ah sound|
-|/ɔ:/|talk﻿, fork﻿, law﻿, caught|Long aw sound|
-|/ɜ:/|bird﻿, nurse﻿, hurt﻿, work|Long er sound|
-|/u:/|boot﻿, goose﻿, fruit﻿, rude|Long oo sound|
+| IPA Symbol | Example Words               | Description   |
+| ---------- | --------------------------- | ------------- |
+| /i:/       | feet﻿, need﻿, seat﻿, me     | Long ee sound |
+| /ɑ:/       | hard﻿, car﻿, fast﻿, father  | Long ah sound |
+| /ɔ:/       | talk﻿, fork﻿, law﻿, caught  | Long aw sound |
+| /ɜ:/       | bird﻿, nurse﻿, hurt﻿, work  | Long er sound |
+| /u:/       | boot﻿, goose﻿, fruit﻿, rude | Long oo sound |
 
 ## Diphthongs
 
