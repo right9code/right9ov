@@ -1,3 +1,3 @@
 hɒl.ə.ɡræm
 
-kaun ho
+kaun hon honek ko to
