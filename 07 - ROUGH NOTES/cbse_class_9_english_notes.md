@@ -35,7 +35,7 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ***
 
-######## Characters
+#### Characters
 
 **Margie Jones:**
 - An 11-year-old girl who is curious, imaginative, and dislikes the mechanical, impersonal nature of her education.
@@ -61,16 +61,17 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story explores the future of education and the impact of technology on social socialization. Asimov warns that while technology can personalize learning (like the mechanical teacher), it cannot replace the human connection, fun, and social skills developed in a shared classroom. The central message is that school is not just about absorbing facts but about the shared experience of growing up, helping one another, and the joy of human interaction—the "fun" that is missing in Margie's highly advanced but lonely world.
 
 ---
-#### **The Sound of Music^**
+
+### **The Sound of Music^**
 
 ---
 
-#### **The Little Girl**
+### **The Little Girl**
 
 **Author:** Katherine Mansfield
 
@@ -103,7 +104,7 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ***
 
-######## Characters
+#### Characters
 
 **Kezia:**
 - A sensitive and timid little girl who craves her father's affection but is scared of him.
@@ -122,13 +123,13 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story explores the **bond between parents and children**. It highlights that children often misunderstand their parents' strictness. It teaches that fathers may not always be expressive or playful like Mr. Macdonald, but they possess a deep, protective love. The message is about **empathy and understanding**—Kezia grows up when she understands her father's struggles and sees the "big heart" behind his stern exterior.
 
 ---
 
-#### **A Truly Beautiful Mind**
+### **A Truly Beautiful Mind**
 
 **Author:** (Biographical Feature)
 
@@ -161,7 +162,7 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ***
 
-######## Characters
+#### Characters
 
 **Albert Einstein:**
 - A scientific genius who revolutionized physics with his theories of relativity.
@@ -179,13 +180,13 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The chapter highlights that **true genius is not just about intellect but also about concern for humanity**. A "beautiful mind" is one that thinks creatively to solve scientific problems and also thinks compassionately to solve world problems like war and violence. It encourages using one's talents for the betterment of society and world peace.
 
 ---
 
-#### **My Childhood**
+### **My Childhood**
 
 **Author:** A.P.J. Abdul Kalam
 
@@ -218,7 +219,7 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ***
 
-######## Characters
+#### Characters
 
 **A.P.J. Abdul Kalam:**
 - A curious and hardworking boy who inherited honesty and self-discipline from his parents.
@@ -237,15 +238,16 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The chapter emphasizes **communal harmony** and the **power of upbringing**. It shows how a child's character is shaped by their parents, teachers, and friends. It advocates for religious tolerance and the breaking of social barriers (caste and religion). It also highlights the importance of allowing children to pursue their dreams, even if it means leaving home.
 
 ---
-#### **The Snake and the Mirror^**
+
+### **The Snake and the Mirror^**
 ---
 
-#### **Reach for the Top**
+### **Reach for the Top**
 
 **Author:** (Biographical Feature)
 
@@ -290,7 +292,7 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ***
 
-######## Characters
+#### Characters
 
 **Santosh Yadav:**
 - A rebel who refused to follow irrational traditions.
@@ -304,13 +306,13 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The chapter conveys that **success comes to those who dare to dream and work hard**. Both Santosh and Maria defied odds—Santosh against gender bias and Maria against separation and isolation. The message is that **determination, sacrifice, and mental toughness** are the keys to reaching the "top" in any field.
 
 ---
 
-#### **Kathmandu**
+### **Kathmandu**
 
 **Author:** Vikram Seth
 
@@ -343,7 +345,7 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ***
 
-######## Characters
+#### Characters
 
 **Vikram Seth:**
 - An observant and sensitive traveler.
@@ -356,13 +358,13 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The chapter highlights **cultural diversity and coexistence**. It contrasts the chaotic devotion of Hinduism with the serene meditation of Buddhism, showing how both exist side by side in Kathmandu. It also emphasizes the **power of music** to touch the human soul, as seen in Seth's fascination with the flute seller.
 
 ---
 
-#### **If I Were You**
+### **If I Were You**
 
 **Author:** Douglas James
 
@@ -395,7 +397,7 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ***
 
-######## Characters
+#### Characters
 
 **Gerrard:**
 - A cool, calm, and witty playwright.
@@ -409,15 +411,15 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The play highlights the importance of **presence of mind and quick wit**. It shows that panic leads to failure, while staying calm can help one survive even the most dangerous situations. It also touches on the theme of **identity**, as the intruder tries to steal someone else's life but fails due to his own lack of intelligence.
 
 ---
 
-######## PART 2: BEEHIVE – POETRY
+## PART 2: BEEHIVE – POETRY
 
-#### **The Road Not Taken**
+### **The Road Not Taken**
 
 **Poet:** Robert Frost
 
@@ -427,13 +429,13 @@ The play highlights the importance of **presence of mind and quick wit**. It sho
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem explores the theme of **choices and decision-making**. It highlights how the choices we make in life (symbolized by the two roads) shape our future. The poet emphasizes that once a choice is made, it is often impossible to go back and correct it. Therefore, decisions should be made wisely. It also touches on the human tendency to wonder "what if" about the path not chosen.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet stands at a point where a road diverges into two in a yellow forest (autumn). He feels sorry that he cannot travel both paths at the same time. He stands there for a long time, looking down one path as far as he can until it bends into the undergrowth.
@@ -449,7 +451,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Metaphor:** "Road" is a metaphor for the choices we make in life. "Yellow wood" refers to the autumn of life or a time of decision.
 - **Symbolism:** The two roads symbolize the choices available to us. The "undergrowth" represents the unknown future.
@@ -459,14 +461,14 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAAB (wood, both, stood, could, growth).
 **Form:** The poem consists of four stanzas of five lines each (quintains). The steady rhythm reflects the speaker's contemplative mood as he weighs his options.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** A traveler (likely the poet himself) standing at a crossroads.
 **Tone:** Reflective, contemplative, and slightly melancholic.
@@ -474,7 +476,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Two Roads:** Choices in life → The dilemma of decision-making.
 - **Yellow Wood:** Autumn forest → A stage in life where one is mature enough to make decisions.
@@ -482,7 +484,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "Two roads diverged in a yellow wood,"**
 - **Meaning:** The speaker is facing a major life decision where he has to choose between two alternatives.
@@ -495,7 +497,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ---
 
-#### **Wind**
+### **Wind**
 
 **Poet:** Subramania Bharati (Translated by A.K. Ramanujan)
 
@@ -505,13 +507,13 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem uses the wind as a symbol of **adversity and challenges** in life. The central idea is that weak people break down in the face of hardships, while strong people emerge even stronger. The poet inspires us to be physically and mentally tough so that we can face the storms of life with courage and turn them into our friends.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet talks to the wind, asking it to come softly. He requests it not to break the shutters, scatter papers, or throw down books. However, the wind ignores him and causes destruction—tearing pages and bringing rain. The poet observes that the wind is clever at making fun of weaklings.
@@ -527,7 +529,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Personification:** The wind is addressed as "you" and "he," treating it as a person. "You are very clever at poking fun at weaklings."
 - **Anaphora:** Repetition of "Don't" at the start of lines 2, 3, 4 and "You" at the start of lines 6, 7, 8.
@@ -537,14 +539,14 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** The poem is written in a conversational style, directly addressing the wind.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet, observing the wind's power.
 **Tone:** Initially pleading, then accusatory, and finally inspiring/didactic.
@@ -552,7 +554,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Wind:** Hardships and obstacles in life.
 - **Crumbling houses/doors:** Weak minds and bodies that cannot withstand pressure.
@@ -560,7 +562,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "The wind god winnows and crushes them all."**
 - **Meaning:** Just as winnowing separates grain from chaff, difficulties separate the strong from the weak, destroying the weak.
@@ -573,7 +575,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ---
 
-#### **Rain on the Roof**
+### **Rain on the Roof**
 
 **Poet:** Coates Kinney
 
@@ -583,13 +585,13 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem explores the **healing power of nature** and the **comfort of memories**. The sound of rain falling on the roof evokes sweet memories of the poet's past, particularly of his mother. It highlights how nature can soothe a lonely heart and transport one back to the innocent days of childhood.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 When the dark clouds cover the stars and it starts raining gently, the poet feels it is a bliss to lie in his cozy bed. He presses his head against the pillow and listens to the soft patter of the rain on the roof, which relieves his sadness ("melancholy darkness").
@@ -602,7 +604,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Alliteration:** "Humid shadows hover" (h sound), "Starry spheres" (s sound), "Press the pillow" (p sound), "Lie listening" (l sound).
 - **Personification:** "Melancholy darkness" (darkness is given the human emotion of sadness). "Recollections weave their air-threads" (memories are treated like weavers).
@@ -611,14 +613,14 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABCBDEFE.
 **Form:** The poem has a lyrical quality, almost like a song or lullaby.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet (Coates Kinney), lying in bed.
 **Tone:** Nostalgic, affectionate, and soothing.
@@ -626,7 +628,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Rain:** A trigger for memories and a source of comfort.
 - **Darkness/Shadows:** Sadness or loneliness.
@@ -634,7 +636,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "What a bliss to press the pillow"**
 - **Meaning:** The poet finds immense joy and comfort in the simple act of lying in bed and listening to the rain.
@@ -647,7 +649,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ---
 
-#### **The Lake Isle of Innisfree**
+### **The Lake Isle of Innisfree**
 
 **Poet:** W.B. Yeats
 
@@ -657,13 +659,13 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem reflects the poet's intense longing for **peace and tranquility**. It contrasts the noise and stress of city life with the serene beauty of nature. The central idea is that nature provides a healing escape for the soul. The poet yearns to return to Innisfree, a place of his childhood, to live a simple, self-sufficient life.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet declares his intention to get up and go to Innisfree immediately. He plans to build a small cabin made of clay and sticks (wattles). He wants to lead a simple life there, growing nine rows of beans and keeping a hive for honeybees, living alone in the open space filled with the buzzing of bees.
@@ -676,7 +678,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Alliteration:** "Hive for the honey-bee" (h sound), "Lake water lapping with low sounds" (l sound).
 - **Repetition:** "I will arise and go now" is repeated in the first and last stanzas to emphasize determination.
@@ -686,14 +688,14 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAB.
 **Form:** A lyric poem with three quatrains (four-line stanzas).
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet (W.B. Yeats), who is currently in a city but longing for the countryside.
 **Tone:** Longing, nostalgic, and determined.
@@ -701,7 +703,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Innisfree:** A symbol of peace, nature, and an ideal escape from urban life.
 - **Grey Pavements:** Symbolize the dull, concrete, and lifeless city environment.
@@ -709,7 +711,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "I will arise and go now, and go to Innisfree"**
 - **Meaning:** The poet is determined to leave his current life immediately and find solace in nature.
@@ -722,7 +724,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ---
 
-#### **A Legend of the Northland**
+### **A Legend of the Northland**
 
 **Poet:** Phoebe Cary
 
@@ -732,13 +734,13 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem is a ballad that conveys a moral lesson about **generosity and the consequences of greed**. It tells the story of a selfish woman who is punished by Saint Peter for refusing to give him a single cake. The central theme is that human beings should be kind and charitable, especially to those in need. Greed and selfishness can lead to a miserable existence.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanzas 1-3:**
 The poem introduces the Northland, a cold place with long nights where people use reindeer sledges. The poet mentions a legend passed down through generations.
@@ -757,7 +759,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Ballad:** A narrative poem that tells a story, often with a moral.
 - **Alliteration:** "Funny, furry" (f sound), "Still, smaller" (s sound).
@@ -767,14 +769,14 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABCB.
 **Form:** Written in quatrains (four-line stanzas), typical of a ballad.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** A narrator telling a folktale.
 **Tone:** Moralistic and cautionary.
@@ -782,7 +784,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Saint Peter:** Symbol of divine judgment and test of character.
 - **Cakes:** Symbol of material possessions that the greedy hold onto.
@@ -790,20 +792,20 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "He asked her, from her store of cakes, To give him a single one."**
 - **Meaning:** A test of the woman's charity.
 
 **2. "My cakes that seem too small when I eat of them myself Are yet too large to give away."**
-- **Meaning:** Highlights the irrational nature of greed; we undervalue what we have until we have to share it.
+- **Meaning:** Highlights the irrational nature of greed; we under-value what we have until we have to share it.
 
 **3. "You are too selfish to dwell in a human form."**
 - **Meaning:** Humanity is defined by compassion; without it, one loses the right to be human.
 
 ---
 
-#### **No Men Are Foreign**
+### **No Men Are Foreign**
 
 **Poet:** James Kirkup
 
@@ -813,13 +815,13 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem promotes the concept of **universal brotherhood**. It emphasizes that all human beings are the same, regardless of their nationality, race, or religion. We all breathe the same air, walk on the same earth, and are fed by the same harvests. The poet warns that hating others is equivalent to hating ourselves, and war only pollutes the earth that belongs to everyone.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet asks us to remember that no man is a stranger and no country is foreign. Beneath different uniforms (soldiers/nationalities), every human body breathes the same way. The land we walk on is the same everywhere, and eventually, we will all be buried in the same earth.
@@ -838,7 +840,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Alliteration:** "Body breathes" (b sound), "War's long winter" (w sound).
 - **Metaphor:** "Uniforms" – represents different countries/armies. "War's long winter" – war is compared to a harsh winter (starvation/death).
@@ -848,14 +850,14 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** A didactic poem with a serious and persuasive tone.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet, addressing humanity.
 **Tone:** Serious, persuasive, and pacifist (anti-war).
@@ -863,7 +865,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Uniforms:** National identities/Military.
 - **Single body:** Shared humanity.
@@ -871,7 +873,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "Beneath all uniforms, a single body breathes"**
 - **Meaning:** Despite external differences (clothes, nationality), internally we are all the same human beings.
@@ -884,7 +886,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ---
 
-#### **On Killing a Tree**
+### **On Killing a Tree**
 
 **Poet:** Gieve Patel
 
@@ -894,13 +896,13 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem is a graphic description of the total destruction of a tree. It highlights the **resilience of nature** and the **cruelty of humans**. The poet explains that a simple cut is not enough to kill a tree because it has deep roots and strong regenerative powers. To kill it completely, one must uproot it from the earth. The poem can be seen as a criticism of deforestation and a metaphor for how deep-rooted habits or evils are hard to destroy.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet states that killing a tree takes a lot of time. A simple jab of a knife is not enough because the tree has grown slowly by consuming the earth, absorbing sunlight, air, and water for years. Even from its "leprous hide" (discolored bark), leaves sprout, showing its life force.
@@ -916,7 +918,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Personification:** "Bleeding bark" – giving the tree human qualities of feeling pain and bleeding.
 - **Metaphor:** "Leprous hide" – comparing the rough bark to the skin of a leper. "Anchoring earth" – earth is compared to an anchor holding the tree.
@@ -926,14 +928,14 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** A descriptive, almost instructional poem with a serious tone.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet, describing the process.
 **Tone:** Clinical, detached, and ironic.
@@ -941,7 +943,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Tree:** Nature / Life force.
 - **Root:** The source of strength / Deep-seated traditions or habits.
@@ -949,7 +951,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "It takes much time to kill a tree, Not a simple jab of the knife Will do it."**
 - **Meaning:** Destruction of something strong and deep-rooted requires immense effort; it's not an easy task.
@@ -962,7 +964,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ---
 
-#### **A Slumber Did My Spirit Seal**
+### **A Slumber Did My Spirit Seal**
 
 **Poet:** William Wordsworth
 
@@ -972,13 +974,13 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-######## Central Idea / Theme
+#### Central Idea / Theme
 
 The poem deals with the death of a loved one and the **realization of mortality**. It contrasts the poet's past ignorance (slumber) with his present understanding. The central idea is that death is inevitable, but it also brings a form of peace as the departed soul becomes an eternal part of nature.
 
 ***
 
-######## Stanza-Wise Explanation
+#### Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet says that a "slumber" (deep sleep or ignorance) had sealed his spirit, making him unaware of reality. He had no human fears (like the fear of death) because he believed his beloved (Lucy) was immortal. She seemed like a being who could not be touched by the passage of time or aging.
@@ -988,7 +990,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-######## Literary Devices / Figures of Speech
+#### Literary Devices / Figures of Speech
 
 - **Alliteration:** "Spirit seal" (s sound), "Rolled round" (r sound).
 - **Enjambment:** "She seemed a thing that could not feel / The touch of earthly years."
@@ -997,14 +999,14 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-######## Rhyme Scheme and Form
+#### Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAB CDCD.
 **Form:** Two quatrains (four-line stanzas). It is a short, elegy-like poem.
 
 ***
 
-######## Speaker, Tone and Mood
+#### Speaker, Tone and Mood
 
 **Speaker:** The poet (William Wordsworth), mourning a loss.
 **Tone:** Calm, accepting, and philosophical.
@@ -1012,7 +1014,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-######## Symbols and Imagery
+#### Symbols and Imagery
 
 - **Slumber:** Ignorance / Death.
 - **Earth's diurnal course:** The eternal cycle of nature.
@@ -1020,7 +1022,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-######## Important Lines & Their Meanings
+#### Important Lines & Their Meanings
 
 **1. "A slumber did my spirit seal"**
 - **Meaning:** The poet was in a state of unawareness, not realizing that death could touch his loved one.
@@ -1033,10 +1035,9 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ---
 
-#### PART 3: MOMENTS SUPPLEMENTARY
+## PART 3: MOMENTS SUPPLEMENTARY
 
-
-#### **The Lost Child**
+### **The Lost Child**
 
 **Author:** Mulk Raj Anand
 
@@ -1069,7 +1070,7 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ***
 
-######## Characters
+#### Characters
 
 - **The Child:** Innocent, curious, and easily distracted. He loves toys and sweets but loves his parents above all else.
 - **The Parents:** Protective but strict. They refuse the child's demands but keep a watch on him until he gets lost.
@@ -1077,13 +1078,13 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story highlights the **bond of love between a child and his parents**. It shows that for a child, security and parental love are far more valuable than material possessions. Things like toys and sweets only bring joy when there is a sense of safety provided by parents. Once that security is lost, the world becomes a frightening place, and nothing else matters.
 
 ---
 
-#### **The Adventures of Toto**
+### **The Adventures of Toto**
 
 **Author:** Ruskin Bond
 
@@ -1116,7 +1117,7 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ***
 
-######## Characters
+#### Characters
 
 - **Toto:** A red baby monkey with bright eyes and a long tail. He is intelligent but extremely mischievous and destructive.
 - **Grandfather:** An animal lover who has a private zoo. He is patient and fond of Toto but eventually realizes the monkey is too much to handle.
@@ -1124,13 +1125,13 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story is a humorous account that highlights the **unpredictability of wild animals**. While animals can be cute and entertaining, they require a specific environment and patience. Not all animals can be domesticated. It also touches on the theme of **attachment**, as Grandfather is fond of Toto despite the trouble he causes.
 
 ---
 
-#### **Iswaran the Storyteller**
+### **Iswaran the Storyteller**
 
 **Author:** R.K. Laxman
 
@@ -1138,7 +1139,7 @@ The story is a humorous account that highlights the **unpredictability of wild a
 
 **Type:** Prose (Short Story)
 
----
+***
 
 #### Summary
 
@@ -1163,20 +1164,20 @@ Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyte
 
 ***
 
-######## Characters
+#### Characters
 
 - **Iswaran:** A loyal cook and a master storyteller. He is imaginative and dramatic, often blurring the line between reality and fiction.
 - **Mahendra:** A rational supervisor who enjoys Iswaran's stories but eventually falls prey to fear and superstition.
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story highlights the **power of storytelling** and how it can influence the human mind. It shows that fear is often a creation of our own imagination. Even a rational person like Mahendra can be swayed by the power of suggestion and fear.
 
 ---
 
-#### **In the Kingdom of Fools**
+### **In the Kingdom of Fools**
 
 **Author:** A.K. Ramanujan (Folktale)
 
@@ -1184,7 +1185,7 @@ The story highlights the **power of storytelling** and how it can influence the 
 
 **Type:** Prose (Folktale)
 
----
+***
 
 #### Summary
 
@@ -1209,7 +1210,7 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ***
 
-######## Characters
+#### Characters
 
 - **The Guru:** Wise and foresighted. He saves his disciple using his wit.
 - **The Disciple:** Greedy and naive. He ignores wisdom for food and gets into trouble.
@@ -1217,13 +1218,13 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story is a satire on **foolish leadership**. It teaches that it is dangerous to live among fools and that **wisdom is superior to foolishness**. Problems created by fools can only be solved by the wise.
 
 ---
 
-#### **The Happy Prince**
+### **The Happy Prince**
 
 **Author:** Oscar Wilde
 
@@ -1231,7 +1232,7 @@ The story is a satire on **foolish leadership**. It teaches that it is dangerous
 
 **Type:** Prose (Short Story)
 
----
+***
 
 #### Summary
 
@@ -1256,7 +1257,7 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ***
 
-######## Characters
+#### Characters
 
 - **The Happy Prince:** Compassionate and selfless. He sacrifices his beauty and wealth to help the poor.
 - **The Swallow:** Loyal and kind-hearted. He sacrifices his life to help the Prince and the poor.
@@ -1264,13 +1265,13 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story highlights the themes of **love, sacrifice, and charity**. It teaches that true beauty lies in a compassionate heart and that selfless service to others is the highest form of worship. God rewards those who love their fellow beings.
 
 ---
 
-#### **The Last Leaf**
+### **The Last Leaf**
 
 **Author:** O. Henry
 
@@ -1278,7 +1279,7 @@ The story highlights the themes of **love, sacrifice, and charity**. It teaches 
 
 **Type:** Prose (Short Story)
 
----
+***
 
 #### Summary
 
@@ -1303,7 +1304,7 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ***
 
-######## Characters
+#### Characters
 
 - **Johnsy:** A young artist who is pessimistic and loses hope easily. She is superstitious about the ivy leaves.
 - **Sue:** A loyal and caring friend. She tries her best to support Johnsy emotionally and financially.
@@ -1311,13 +1312,13 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story highlights the **power of hope and belief**. It shows that the will to live is crucial for recovery. It also emphasizes the theme of **sacrifice and true art**, as Behrman's masterpiece is not a painting in a museum, but one that saves a life.
 
 ---
 
-#### **A House Is Not a Home**
+### **A House Is Not a Home**
 
 **Author:** Zan Gaudioso
 
@@ -1325,7 +1326,7 @@ The story highlights the **power of hope and belief**. It shows that the will to
 
 **Type:** Prose (Autobiographical Story)
 
----
+***
 
 #### Summary
 
@@ -1350,7 +1351,7 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ***
 
-######## Characters
+#### Characters
 
 - **Zan:** A sensitive teenager who feels insecure and lonely but learns to open up to others.
 - **Zan's Mother:** Brave and resilient. She risks her life to save important documents and photos of her late husband.
@@ -1358,13 +1359,13 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story distinguishes between a **house and a home**. A house is a building, but a home is a place of love and security. It also highlights the importance of **community support** and how sharing grief can lead to new friendships and healing.
 
 ---
 
-#### **The Beggar**
+### **The Beggar**
 
 **Author:** Anton Chekhov
 
@@ -1372,7 +1373,7 @@ The story distinguishes between a **house and a home**. A house is a building, b
 
 **Type:** Prose (Short Story)
 
----
+***
 
 #### Summary
 
@@ -1397,7 +1398,7 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ***
 
-######## Characters
+#### Characters
 
 - **Lushkoff:** A beggar and alcoholic who lies for money. He eventually reforms and becomes a respectable man.
 - **Sergei:** A kind but somewhat arrogant advocate who believes in the power of hard work. He thinks he reformed Lushkoff.
@@ -1405,8 +1406,6 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ***
 
-######## Theme / Message
+#### Theme / Message
 
 The story explores the themes of **compassion, transformation, and dignity of labor**. It teaches that true kindness (like Olga's) is more powerful than lectures (like Sergei's) in changing a person's life. It also highlights that anyone can change if given a chance and treated with empathy.
-
----
