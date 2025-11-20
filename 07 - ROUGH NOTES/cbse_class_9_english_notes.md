@@ -324,7 +324,52 @@ The chapter emphasizes **communal harmony** and the **power of upbringing**. It 
 
 ---
 
-### **The Snake and the Mirror^**
+### **The Snake and the Mirror**
+
+**Author:** Vaikom Muhammad Basheer
+
+**Book:** Beehive
+
+**Type:** Prose (Short Story with Humorous and Frightening Elements)
+
+***
+
+#### Summary
+
+The story is a narrative-within-a-narrative, recounted by a homoeopathic doctor to a group of listeners. The doctor describes a terrifying night in his small, rented room when he encountered a cobra. As a young, unmarried man with meager earnings, he was a great admirer of his own beauty and often spent time in front of the mirror. One night, a snake fell from the roof onto his shoulder, coiled around his arm, and its head was just inches from his face. Frozen with fear, the doctor sat like a stone statue, thinking of God. The snake, however, seemed captivated by its own reflection in the mirror on the table. It unwound itself from his arm and moved closer to the mirror, giving the doctor a chance to escape. He fled the house and returned the next morning with friends, only to find that a thief had stolen most of his belongings, leaving behind only his dirty vest.
+
+---
+
+#### Plot (Main Events)
+
+- **Exposition:** A homoeopathic doctor narrates a personal story about an encounter with a snake to an audience. He describes his life as a poor, young bachelor who was proud of his looks.
+- **Rising Action:** While admiring himself in the mirror one hot summer night, the doctor makes "two important decisions"—to shave daily and grow a thin moustache, and to keep an attractive smile on his face. Suddenly, a snake lands on his shoulder and coils around his arm.
+- **Climax:** The doctor sits paralyzed with fear, praying silently, as the snake’s head is inches from his face. The snake sees its reflection in the mirror, and, seemingly entranced by it, uncoils itself and moves towards the mirror to get a closer look.
+- **Falling Action:** Seizing the opportunity, the doctor silently gets up and bolts from the house, running until he reaches a friend's home, where he stays for the night.
+- **Resolution:** The next morning, he returns to his room with friends to find that a thief has stolen almost everything, except for his dirty vest. The snake is gone. The doctor ends the story with the humorous and ironic note that perhaps the snake was so insulted by the thief leaving the vest behind that it took it away.
+
+***
+
+#### Setting
+
+- **Time:** A hot summer night, sometime in the past when the narrator was a young doctor.
+- **Place:** A small, non-electrified rented room with a tiled roof, infested with rats. The atmosphere is solitary, dark, and tense.
+
+***
+
+#### Characters
+
+**The Homoeopathic Doctor (Narrator):**
+- A young, poor, and unmarried doctor who is proud of his appearance and profession.
+- He is imaginative and has a good sense of humor, which is evident in his narration.
+- He experiences a moment of profound terror and helplessness that forces him to confront his own mortality and foolish pride.
+- **Connection to theme:** His encounter with the snake serves as a humbling experience. His vanity and self-admiration vanish in the face of mortal danger, highlighting the themes of pride, fear, and the unpredictability of life.
+
+**The Snake:**
+- A full-blooded cobra that acts as the story's antagonist and a catalyst for the doctor's transformation.
+- It is personified as being "taken with its own beauty," just like the doctor, when it looks into the mirror.
+- **Connection to theme:** The snake symbolizes mortal danger and the forces of nature that can instantly shatter human pride and plans. Its fascination with the mirror creates the story's central irony—vanity saves the doctor's life.
+
 ---
 
 ### **Reach for the Top**
