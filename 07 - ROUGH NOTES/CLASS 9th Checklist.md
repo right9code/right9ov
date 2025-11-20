@@ -16,3 +16,4 @@
 - [ ] Descriptive Paragraph (a person / event / situation, based on visual or verbal cue/s)
 - [ ] Story Writing (on a given cue/title) / Diary Entry
 
+# **Language through Literature**
