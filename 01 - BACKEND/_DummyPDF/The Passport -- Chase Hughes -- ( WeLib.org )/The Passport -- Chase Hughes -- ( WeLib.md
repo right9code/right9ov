@@ -993,8 +993,6 @@ Don't- Look around the room while your friends are talking to you.
 
 Do- Make sure you pay attention to your friends. When you see people looking around the room, they are usually looking for something more entertaining that what's in front of them. You will kill your chances by doing this. Make sure that your conversation looks interesting and fun. No one in your group should be staring off into the bar looking for hotties.
 
----
-
 Don't - Walk up to girls from behind.
 
 Do - Make sure they can see you. Walking up from behind is a little creepy and weirds women out. Everything is casual. Over your shoulder is the best way to do this...it's the best way to do all of your approaches.
@@ -1009,11 +1007,7 @@ Do - Tell her you can't hear her and let her either stand up, or move closer to 
 
 Be the Life of the Party at Clubs
 
-Look across a room of people. There's usually one guy who seems to be the center of the party. This is a great technique that Bill
-
----
-
-Clinton used to do when he was running for governor; it's called "fusing a room."
+Look across a room of people. There's usually one guy who seems to be the center of the party. This is a great technique that Bill Clinton used to do when he was running for governor; it's called "fusing a room."
 
 When you are in a club, bar, or even a restaurant, you have the very unique ability to join two groups of people you've never met together. Once you meet a group of women, or men (yes, you should be talking to men as well to build your status), you can introduce them to a new group by way of a new approach question, or by finding a similarity between the two. Introduce everyone to everyone.
 
@@ -1025,11 +1019,7 @@ This should be used mostly in the daytime and in venues where it is quiet enough
 
 Simply use the same body language and intro you normally would: facing the direction in which you were already moving, and letting her know you have somewhere to be.
 
-As soon as you've done this, you can communicate your interest in her. This is especially useful when you actually have very little time and you want to grab her number
-
----
-
-quickly. This has been a tested and proven method to work for you consistently and return positive results.
+As soon as you've done this, you can communicate your interest in her. This is especially useful when you actually have very little time and you want to grab her number quickly. This has been a tested and proven method to work for you consistently and return positive results.
 
 As soon as you tell her you have to be somewhere, say, "I noticed you over here (doing whatever she's doing) and I'm not too sure what it is about you, but it really seems like you have a lot more going for you than just your looks, and I wanted to meet you." Make sure you still have your confident smile and easy-going body language.
 
@@ -1037,19 +1027,13 @@ Now, slowly turn your body toward her and use an opening line and very quick sto
 
 As soon as you are about two or three steps away, turn around while saying, "Hey," in a confident tone. As soon as she looks at you, have your cell phone in your hand and as you stick it out to give it to her, say, "I'm going to be late, but you have a cell phone, right?"
 
----
-
 Most of the time, she will take the phone from you and start to punch her number in there. But when she takes your phone and looks at it, just jokingly say, "You're not a stalker, are you?" Try to avoid the use of the word "phone" as it might invoke a response to the hundreds of other guys who tried to get her number and acted like morons. Tell her to type her cell in there, when she needs the prompting.
 
 You can alter or change this as much as you want to. The important thing is the structure of the interaction. You must be confident, funny, and authoritative. She needs to feel a sense of loss as you start to walk away so that she will respond more positively when you try to get her number.
 
 Of course, there are about a hundred variables here and no one can predict the outcome of a fluid human interaction, but you CAN decide how you will make her feel about you.
 
-I have a completely authoritative and dominant friend who insists on just walking up to women and handing them his cell phone, but I would recommend that you at least begin with the technique first. Once you reach a level where you are so confident that nothing
-
----
-
-matters and you have eliminated all of your approach fears, this might work for you, but stick to the material to begin with.
+I have a completely authoritative and dominant friend who insists on just walking up to women and handing them his cell phone, but I would recommend that you at least begin with the technique first. Once you reach a level where you are so confident that nothing matters and you have eliminated all of your approach fears, this might work for you, but stick to the material to begin with.
 
 Note: One good technique a friend uses when he is able to learn her name before he goes for the number is to get the number entry screen on his cell phone ready with her name on it before he hands her the phone. This is great when you are getting numbers of employees at restaurants, stores, etc., where they wear name tags.
 
@@ -1396,8 +1380,6 @@ As they look through your profile, women will screen keywords as they read to se
 6. "Please don't write me if you like dating ass-kissing, ap-proval-seeking men. I am mostly on here for friends due to the increasingly large volume of women who are boring on here. If you are fun, adventurous, mature, and describe yourself as a 'good friend,' send me a note. There are millions of boring-guy profiles on here who will buy you tons of stuff if that's what you are looking for. I want someone to have FUN with. We can talk about other stuff later. PLEASE DON'T WRITE ME IF YOU ARE LOOKING FOR A PUPPY DOG."
 7. "Nothing is more important to me right now than my life. I have fun no matter what I'm doing and I love being me. I'd like to eventually share that with someone and make them important too, but I'm just looking for friends on here right now. Lots of women on here are kinda creepy, so I am just looking for women who like to have fun and aren't a basket case. No, I won't giveyou my cell number unless I get to know you. I judge women by the quality of friends they have. I think this is a huge indicator of maturity and womanhood that most don't have today."
 8. "Things I like to do: Have FUN no matter what, play stupid games at bars that embarrass my friends, kayaking, rock climbing, giving high-fives to random people on the street, keeping my friends out of trouble, watching my dog stare at himself in the mirror, leaving my cell phone at home for a day, surfing, bonfires on the beach, staying in when it's raining (yeah, it's girly, but I love it), going to guitar stores and playing random guitars, messing with employees at drive-throughs, dog parks, mentoring friends, and making fun of girls who can dish it back out."
-
----
 
 # THE 17-DAY 
 
