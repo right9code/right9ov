@@ -1092,11 +1092,7 @@ Value is nothing like it seems. I define it as the amount of effort someone will
 Using body language is just as powerful as using words. You can change the way people react before you even speak to them. Here are a few tricks to help you build value and status nonverbally. You'll see some of these in the 55 Laws of the Alpha Male section as well.
 
 1. Slow down your body language! If nothing else, this is what you should do.
-2. Keep your shoulders back. When you do this, relax them. When your posture is very good and confident, you'll notice that your shoulders will naturally
-
----
-
-go back.
+2. Keep your shoulders back. When you do this, relax them. When your posture is very good and confident, you'll notice that your shoulders will naturally go back.
 3. Make very strong and deliberate eye contact. You should NOT make mean, threatening, or "tough" facial expressions. Smile! Have a facial expression that communicates confidence, and a love for other people.
 4. Neck should be aligned with the back. You can have very good posture and still be very comfortable. Remember that your spine ends at the back of your head.
 5. Lean back when you listen; others will lean in to you.
@@ -1109,11 +1105,7 @@ go back.
 12. Avoid hygienic gestures in public such as fixing hair, licking lips, adjusting clothing, looking down at your outfit, and looking into mirrors as you pass by them.
 13. Keep all of your arm movement while speaking even with or below your chest line.
 14. Remember that no matter how much you "fake" body language, your internal state of mind will leak through and be visible. Women are certifiable experts at reading body language. You must be internally sound for all of your body language to come through looking tight. This is why a man whose life is together and who "handles his business" has great body language because he knows that everything is going his way and he created that reality.
-15. Do not be afraid to physically move women in front of you so you can talk to them. Grab them
-
----
-
-and use a focus line immediately. Reach out confidently as she walks by and start talking immediately. Don't hold her arm longer than is necessary to get her in front of you. Use only minimal physical pressure, but don't come off as a pansy. Imagine a gorgeous woman walking by you as you are talking to your wingman. As she walks by, you reach out, grab her at her lower bicep and start talking as if you do this ALL the time. The only difference between guys who can do this and guys who can't is the belief that it is okay to do it. If it comes natural as a result of who you are, then it will be communicated in your body language.
+15. Do not be afraid to physically move women in front of you so you can talk to them. Grab them and use a focus line immediately. Reach out confidently as she walks by and start talking immediately. Don't hold her arm longer than is necessary to get her in front of you. Use only minimal physical pressure, but don't come off as a pansy. Imagine a gorgeous woman walking by you as you are talking to your wingman. As she walks by, you reach out, grab her at her lower bicep and start talking as if you do this ALL the time. The only difference between guys who can do this and guys who can't is the belief that it is okay to do it. If it comes natural as a result of who you are, then it will be communicated in your body language.
 16. When crossing/folding your arms, instead of folding them regularly, flatten your hands so that your palms are touching your chest and your thumbs are pointing directly upward. This is a huge confidence signal.
 
 # Women Conversation Tricks 
@@ -1126,11 +1118,7 @@ In the world of stand-up comedy and infomercials, they use a technique known as 
 
 When you tell a story, use vivid descriptions. Use your body to tell the story and don't be afraid to do something stupid. Again, Dane Cook is a perfect example of this.
 
-When you are talking to a group or a single girl, the most impor-
-
----
-
-tant thing to remember is that she will only be as attracted to you as you expect her to be. It must be totally natural for you that women swoon over you all day long, and the fact that she does it is no big deal.
+When you are talking to a group or a single girl, the most important thing to remember is that she will only be as attracted to you as you expect her to be. It must be totally natural for you that women swoon over you all day long, and the fact that she does it is no big deal.
 
 A story from your life should involve humor, adventure, and emotion. Use the samples until you can create your own or re-visit some of your own experiences to make them sharpened tools of mass seduction.
 
@@ -1151,11 +1139,7 @@ Once you develop the ability to get lots of numbers whenever and wherever you wa
 3. If you've already had contact and have spoken a few times over the phone and you get her voice mail, create a trap. Say, "Hey, Stacie, It's Chase. I was just eating one of those huge burritos with French fries in them and it made me think of you." She will be completely taken off guard and will want to know why you thought of her when you were eating a "huge" burrito.
 4. If you have called a few times and keep getting voice mail, consider it a loss and have fun with it. Call her voice mail andsay, "Stacie, it's Chase. I was just thinking about you and how much I can't live without you." (In a joking tone of voice) "I just wanted to sing you a quick song 'cause I miss you so much." Then bust out a love song on her voice mail. Not a whole one, but one you're sure she knows. Then say, "Straight up...call me back, G." Do this whole voice mail in a very joking tone, but sing like you are completely miserable that she won't call you back. If she doesn't, you will have had fun.
 5. When you get her on the phone and she answers, make sure you have a story ready to go, and a few observations about her. Don't call unless you know what you are going to say. When she answers the phone, start off with a quick story and ask her what she's up to. Keep the conversation short and tell her you have to get going somewhere. Always be the first one to say you have to go on the phone.
-6. While you are on the phone with her, the game doesn't stop. You should still be playing jokes, busting on her, and joking around. Make her say over and out, tell her you guys are going to use secret codenames for each
-
----
-
-other when you call her from now on, make her try to freestyle rap on the phone, ask her about interesting vacations she's been on. Just keep the sexual tension going and keep it playful.
+6. While you are on the phone with her, the game doesn't stop. You should still be playing jokes, busting on her, and joking around. Make her say over and out, tell her you guys are going to use secret codenames for each other when you call her from now on, make her try to freestyle rap on the phone, ask her about interesting vacations she's been on. Just keep the sexual tension going and keep it playful.
 
 7. When she wants to have a serious conversation about something, don't be too eager to make it into a game. Know when she needs a minute for you to LISTEN and be there for her. Being funny and cocky is cool, but you have to know when to be an adult with her when she needs it.
 
@@ -1186,11 +1170,7 @@ Women love playing games. There is a lot of power in making up a new game where 
 1. Code names (make up secret agent code names for each other).
 2. Cell phone puppet show (use both of your cell phones and do a puppet show of you and her where she is really annoying and bratty).
 3. Make up a secret handshake and make her promise to remember it for next time you see her. Practice it with her.
-4. Ask her about all the weird guys who approach her with lame-ass lines and have her demonstrate it. Make her walk like ten feet away and approach you as if you
-
----
-
-were a woman. Laugh at her performance.
+4. Ask her about all the weird guys who approach her with lame-ass lines and have her demonstrate it. Make her walk like ten feet away and approach you as if you were a woman. Laugh at her performance.
 5. Tell her to go up to a nerdy guy and ask him if he has any drugs.
 6. Have her act like she's an abusive girlfriend of yours and see if anyone steps in to see if you are okay.
 7. Pretend you are a news interviewer on a TV show and use a pen or straw for a mic. Interview her and keep it going for only a few minutes.
@@ -1241,9 +1221,6 @@ were a woman. Laugh at her performance.
 34. You must be the one who expends the least amount of nervous energy. You will then be in control. Let others get nervous, wondering if they are impressing you or not.
 35. Be talkative: Say whatever is on your mind and don't worry about the consequences. Just be a talkative person.
 36. Don't be afraid to make others feel bad. If you feel you need to say something, say it. Don't ever try to camouflage your intent. Be honest and direct. This will earn you all kinds of respect points.
-
----
-
 37. Resist the need to share the intensity of emotions you're feeling.
 38. Touch people when you talk to them. Know that it's okay to do.
 39. Don't pause too long when someone asks you a question. This indicates your deep thinking about the question and your need to give them the best possible answer...stop dong this!
@@ -1259,9 +1236,6 @@ were a woman. Laugh at her performance.
 49. Don't EVER put yourself down! Alpha males do not do this unless it is an OBVIOUS joke! It's okay to make a joke to convey the opposite of what you are saying in the joke.
 50. Don't ever put others down or talk badly about someone else!!! This is key. When you put others down, it reveals your own insecurities. If they are no threat, don't act like they are. Women will take up sides with anyone you decide to put down.
 51. Live a life of DISCIPLINE AND FUN: the two secret ingredients in the alpha male's life.
-
----
-
 52. If you treat people like they are cooler than you are, you are a beta male.
 53. You must always be more willing to accept not having sex than she is. It must be completely fine with you that you aren't having sex.
 54. Use clean language unless you really have to curse. Profanity is just like verbal violence: The people who use it are usually totally insecure and frightened by their lack of dominance.
