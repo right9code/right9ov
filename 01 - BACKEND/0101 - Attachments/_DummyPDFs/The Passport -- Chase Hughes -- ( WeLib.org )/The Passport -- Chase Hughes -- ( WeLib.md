@@ -1,6 +1,6 @@
 # THE PASSPORT 
 
-![img-0.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-0.jpeg)
+![img-0.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-0.jpeg)
 
 CHASE HUGHES
 
@@ -24,10 +24,10 @@ There were secret techniques to get any woman you wanted? You're holding all of 
 
 ## WELCOME TO THE PASSPORT PREPARE FOR LAUNCH...
 
-![img-1.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-1.jpeg)
+![img-1.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-1.jpeg)
 
 Chase Hughes has been teaching and researching the art of attraction for six years. He resides in Honolulu, Hawaii, where he is stationed in the US Navy.
-![img-2.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-2.jpeg)
+![img-2.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-2.jpeg)
 
 ---
 
@@ -145,7 +145,7 @@ Other Resources for Good Training ..... 189
 
 ---
 
-![img-3.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-3.jpeg)
+![img-3.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-3.jpeg)
 
 This is the visual representation of the 5-2-6 universal model of seduction. Your understanding of the model will evolve continuously as you read...refer to it often.
 
@@ -346,7 +346,7 @@ The AMG sets an example for other men to follow in humility. He is never one to 
 There's no need to rush anything. One of the defining characteristics of the AMG, besides good posture, is slow and fluid body movement. Whether you are grabbing your drink, walking, shopping in a mall, talking to someone, or approaching women, you must keep your cool at all times. Rapid movements are a way that primates communicate fear and aggression. This is not you. Think double-o-seven. The movement of your body is the quickest and most accurate way a woman can judge you from across the room. Fast movements, jerky motion, and fidgeting can KILL your game and demolish attraction. Have you ever looked across a room and seen a group of people and instantly, somehow, you could tell who the leader of that group was? He's not wearing a sign on his head, so body language plays a very crucial role in meeting women. You'll notice now that the way the AMG stands will dictate and change the way the peo-ple around him stand. We'll cover this in the toolkit.
 
 One trait you'll always notice is that the AMG NEVER puts down or makes fun of other men. The leader of a pack never puts down lesser males. His job as the leader is to take care of them and make sure they don't get killed. The same concept applies to the AMG. You must be kind, but retain your personal boundaries. Here's a perfected list of the traits, behaviors, laws, and qualities of the AMG.
-![img-4.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-4.jpeg)
+![img-4.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-4.jpeg)
 
 Why It All Works
 A scientist and psychologist named Abraham Maslow made an incredible observation in 1943. Maslow theorized that all humans must meet a set of basic or funda-mental needs in order to pursue and fulfill greater ones. His model for this was named "Maslow's Hierarchy of Needs." The image here begins with the bottom of the pyramid, wherein the basic physiological needs of life must be met to reach the higher set of needs. These needs are food, water, digestion, breathing, and shelter. While each level has very broad definitions of what needs are to be met, I will concentrate on the needs on the hierarchy pertaining to seduction, interaction, and attraction.
@@ -363,7 +363,7 @@ Maslow's pyramid is not a method or a technique, but a reference to be understoo
 
 ## TRAINING
 
-![img-5.jpeg](01%20-%20BACKEND/_DummyPDF/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-5.jpeg)
+![img-5.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)/assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-5.jpeg)
 
 The "FIVE-TWO-SIX" model of seduction:
 F-ocus: Hijacking her attention span-hyper focus
