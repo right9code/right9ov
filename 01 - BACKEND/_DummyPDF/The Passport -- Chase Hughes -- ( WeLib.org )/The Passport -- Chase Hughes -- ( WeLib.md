@@ -663,13 +663,7 @@ This phase begins after you've made yourself known and you are being listened to
 
 Look at the dark blue line on the model. It represents her attraction to you. Notice a HUGE spike as soon as you reach this phase.
 
-A woman's interest level is dictated and controlled by reactions to stimulus. Here, you will grab her emotional steering wheel and begin the process of making her chase you. The examples are designed to communicate and demonstrate indifference and disinterest. Why do this? She hasn't earned your interest yet and will need to do a little work to get it. You will immediately see a reaction when you use these tactics, and you
-
----
-
-THE PASSPORT
-
-will be tempted to pause and let her react to them. Don't. Just use them and continue with another story. You are deliberately creating a social void in the interaction.
+A woman's interest level is dictated and controlled by reactions to stimulus. Here, you will grab her emotional steering wheel and begin the process of making her chase you. The examples are designed to communicate and demonstrate indifference and disinterest. Why do this? She hasn't earned your interest yet and will need to do a little work to get it. You will immediately see a reaction when you use these tactics, and youwill be tempted to pause and let her react to them. Don't. Just use them and continue with another story. You are deliberately creating a social void in the interaction.
 
 One thing about voids is that we all want to fill them. When you create a gap in the interest level, a woman will naturally want to fill the void. When you tell a girl she's not your type, she feels the need to prove otherwise. A void in attraction is more powerful than any tool in this kit.
 
@@ -681,11 +675,7 @@ Imagine if you saw a piece of paper blowing on the sidewalk. What would you thin
 
 Don't overuse these. A couple will do the job. Pick your favorite ones, find out which ones work for you, and keep them in your pocket. When you deliver these, they should just be a part of the conversation initially. Simply say it and keep talking.
 
-In this step, you will begin the touch progression. It starts with the slightest and most nonsexual of
-
----
-
-physical contact. A handshake is a perfect example of this. When you shake her hand, launch into thumb wrestling.
+In this step, you will begin the touch progression. It starts with the slightest and most nonsexual of physical contact. A handshake is a perfect example of this. When you shake her hand, launch into thumb wrestling.
 
 Talk to her friends, too. Don't neglect the group or they will keep her there and you will lose the ability to take her away from her friends in the future steps of the 5-2-6.
 
@@ -708,9 +698,6 @@ Talk to her friends, too. Don't neglect the group or they will keep her there an
 
 1. Fake palm reading: You can use this as a touch-building technique. Take her hand in yours and pretend to read her palm, but tell her that her palm says she will be a dork for eternity.
 2. Body language demonstrations: Use her in your stories to illustrate a point, show how your "friend" was standing with some girl, or to demonstrate a girl's body language in one of your stories. Gently grab her and move her into the demonstrative position.
-
----
-
 3. The elongated hand-hold: When you make contact with her hand through fake palm reading, etc., hold her hand just a little longer than usual. As you're holding her hand, let your arm relax and lower naturally as you continue talking. This will distract her while she unknowingly becomes used to your touch. Be sure to break contact first.
 4. Reaching up and pulling a few hairs back behind her ear. (Do this nonchalantly while telling a story or anytime when she won't interrupt to say anything about it.)
 
@@ -722,13 +709,7 @@ Value is defined as the ability to boost someone's social status or beliefs abou
 
 In this phase of the system, you will demonstrate your ability to withstand any kind of test or trial they decide to throw your way. It's designed to get you up the steep incline of the value line in the initial phase of the interaction. Take a look at the diagram and notice how quickly your value makes a climb in this phase.
 
-When you deliberately make fun of something unique and you also say that it's something you like at the same time, she quickly realizes she's not dealing with a guy who gets nervous around women. She also realizes that you understand how to build sexual tension, your weapon of mass attraction. Being playful and fun demonstrates that you aren't fixated on making her like you. This is a refreshing feeling for women when a man has no sense of neediness. Showing your freedom from social conditioning and a lack of insecurity is instantly magnetic
-
----
-
-THE PASSPORT
-
-and attractive. Before you start screening her to be with you, make sure you throw in a story and at least one game or role-playing technique from the story section.
+When you deliberately make fun of something unique and you also say that it's something you like at the same time, she quickly realizes she's not dealing with a guy who gets nervous around women. She also realizes that you understand how to build sexual tension, your weapon of mass attraction. Being playful and fun demonstrates that you aren't fixated on making her like you. This is a refreshing feeling for women when a man has no sense of neediness. Showing your freedom from social conditioning and a lack of insecurity is instantly magnetic and attractive. Before you start screening her to be with you, make sure you throw in a story and at least one game or role-playing technique from the story section.
 
 Toward the end of this phase, and into the beginning of the next, she will most likely throw a few standard questions at you that she throws at every guy. When she asks you what you do, where you work, what your name is, or where you are from, don't answer the question. Be fun about it, but don't answer it right away. Either tell her you will let her know in a minute, make her test her psychic powers, or make up an obviously joking answer and if they ask again, go ahead and give it to her.
 
@@ -747,9 +728,6 @@ energy story)
 3. Are you a pretty organized person, or does your house have piles of laundry everywhere?
 4. You're not one of those live-in-the-club types of girls, are you?
 5. Are you a writer or something? I don't know...the way you talk sounds like you'd be a pretty good writer.
-
----
-
 6. I bet you have stacks of laundry and stuff all over the house.
 7. I bet your bathroom countertop is completely covered in a girl stuff like hairbrushes and makeup and stuff.
 8. Do you have plants in your house? (If not) Why, do you think you would kill them? (If she says yes, tell her that's an awesome sign that a girl is emotionally mature. It's important to you that she is, so she impresses you now.)
@@ -773,8 +751,6 @@ Once her attraction levels start to climb, it opens her vault doors and reveals 
 She's feeling all kinds of emotions right now: She's attracted, nervous, scared, and worried about what her friends are thinking of her. Here, you may want to get a number and bail, or continue themethod in a different location. If you are in a loud bar or club, go outside or find a table so you can actually talk to her. If you are in a daytime place where it's relatively quiet, just move her a few feet. Here, you will move her to another location in the club, bar, or store you are in. Not to a different one yet. If you tell her friends you are going to take her on a walk for a second, they won't have any problems with it because you have not told her or communicated publicly that you are attracted to her. She probably doesn't even know yet either. Just take the lead, tell her to come with you, and stick your hand out. She has already touched you based on the touch hierarchy, so it won't be a big deal.
 
 When you find yourself involved in conversation, resist every urge to agree with her about all of her likes and dislikes. If she says she loves eating jelly doughnuts, don't be afraid to say you hate them. It's okay because there WILL eventually be something you genuinely both agree on. Resist the urge to kiss her ass and tell her you like everything that she likes. She knows that guys who say "me too" to everything she likes are wussies.
-
----
 
 EMOTIONAL HIJACK TOOLS
 
