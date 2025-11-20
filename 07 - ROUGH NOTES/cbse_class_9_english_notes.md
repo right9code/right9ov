@@ -2,7 +2,7 @@
 
 ## PART 1: BEEHIVE – PROSE
 
-# **The Fun They Had**
+#### **The Fun They Had**
 
 **Author:** Isaac Asimov
 
@@ -12,13 +12,13 @@
 
 ***
 
-## Summary
+######## Summary
 
 Set in the future year 2157, the story opens with Margie Jones writing in her diary about a real book that her friend Tommy found. This old, yellowing book describes schools from centuries ago, which fascinates the children because they only know "telebooks" on screens. In their world, schools are not separate buildings but individual rooms in their homes where a mechanical teacher (a robot) gives lessons tailored to each child. Margie hates her school, especially the geography sector which has been giving her trouble. When the County Inspector fixes her mechanical teacher, she learns about the old kind of schools where children went to a special building, learned the same things together, and had human teachers. Margie begins to daydream about how much fun those children must have had, learning and playing together.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Margie and Tommy find a "real" printed book from the past, which is a strange object in their digitized world of 2157.
 - **Rising Action:** Tommy explains to a curious Margie how schools used to be—with human teachers and shared classrooms—while Margie struggles with her mechanical teacher's geography lessons.
@@ -28,14 +28,14 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** May 17, 2157 (Future)
 - **Place:** Margie's house, specifically her schoolroom right next to her bedroom. The atmosphere is sterile, isolated, and highly technological.
 
 ***
 
-## Characters
+######## Characters
 
 **Margie Jones:**
 - An 11-year-old girl who is curious, imaginative, and dislikes the mechanical, impersonal nature of her education.
@@ -61,16 +61,16 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story explores the future of education and the impact of technology on social socialization. Asimov warns that while technology can personalize learning (like the mechanical teacher), it cannot replace the human connection, fun, and social skills developed in a shared classroom. The central message is that school is not just about absorbing facts but about the shared experience of growing up, helping one another, and the joy of human interaction—the "fun" that is missing in Margie's highly advanced but lonely world.
 
 ---
-# **The Sound of Music^**
+#### **The Sound of Music^**
 
 ---
 
-# **The Little Girl**
+#### **The Little Girl**
 
 **Author:** Katherine Mansfield
 
@@ -80,13 +80,13 @@ The story explores the future of education and the impact of technology on socia
 
 ***
 
-## Summary
+######## Summary
 
 The story is about Kezia, a little girl who is terrified of her strict father. She views him as a giant and stutters in his presence out of fear. Her grandmother encourages her to bond with him, suggesting she make a pincushion for his birthday. While making it, Kezia unknowingly tears up her father's important speech papers to stuff the cushion. This leads to a severe punishment, deepening her fear. However, one night when her mother is hospitalized and her grandmother is away, Kezia has a nightmare. Her father comforts her, tucks her in, and lets her sleep beside him. She realizes that beneath his tough exterior lies a tired but loving heart, and her fear turns into understanding and affection.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Kezia is introduced as a girl afraid of her father, relieved when he leaves for work and terrified when he returns.
 - **Rising Action:** Kezia tries to make a birthday gift (pincushion) for her father but accidentally destroys his important speech papers to fill it.
@@ -96,14 +96,14 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Early 20th century (implied).
 - **Place:** Kezia's home and garden. The atmosphere shifts from tense and fearful to warm and secure.
 
 ***
 
-## Characters
+######## Characters
 
 **Kezia:**
 - A sensitive and timid little girl who craves her father's affection but is scared of him.
@@ -122,13 +122,13 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story explores the **bond between parents and children**. It highlights that children often misunderstand their parents' strictness. It teaches that fathers may not always be expressive or playful like Mr. Macdonald, but they possess a deep, protective love. The message is about **empathy and understanding**—Kezia grows up when she understands her father's struggles and sees the "big heart" behind his stern exterior.
 
 ---
 
-# **A Truly Beautiful Mind**
+#### **A Truly Beautiful Mind**
 
 **Author:** (Biographical Feature)
 
@@ -138,13 +138,13 @@ The story explores the **bond between parents and children**. It highlights that
 
 ***
 
-## Summary
+######## Summary
 
 This chapter outlines the life of Albert Einstein, not just as a scientific genius but as a humanitarian. Born in Germany in 1879, he was considered a "freak" by his mother because of his large head and was a late talker. He hated the strict discipline of his school in Munich and left it. He continued his education in Switzerland, where he met his first wife, Mileva Maric. While working as a patent clerk, he secretly developed his theories, eventually publishing the Special Theory of Relativity (E=mc²) in 1905 and the General Theory of Relativity in 1915, which made him world-famous. Later, he emigrated to the USA to escape the Nazis. He was deeply shaken by the atomic bombings of Hiroshima and Nagasaki and spent the rest of his life campaigning for peace, democracy, and a world government.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Einstein is introduced as an unusual child who spoke late and was called "Brother Boring" by playmates.
 - **Rising Action:** He clashes with strict teachers in Munich, moves to Switzerland, falls in love with Mileva, and secures a job at a patent office.
@@ -154,14 +154,14 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Late 19th to mid-20th century (1879–1955).
 - **Place:** Ulm and Munich (Germany), Zurich and Bern (Switzerland), and Princeton (USA).
 
 ***
 
-## Characters
+######## Characters
 
 **Albert Einstein:**
 - A scientific genius who revolutionized physics with his theories of relativity.
@@ -179,13 +179,13 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The chapter highlights that **true genius is not just about intellect but also about concern for humanity**. A "beautiful mind" is one that thinks creatively to solve scientific problems and also thinks compassionately to solve world problems like war and violence. It encourages using one's talents for the betterment of society and world peace.
 
 ---
 
-# **My Childhood**
+#### **My Childhood**
 
 **Author:** A.P.J. Abdul Kalam
 
@@ -195,13 +195,13 @@ The chapter highlights that **true genius is not just about intellect but also a
 
 ***
 
-## Summary
+######## Summary
 
 This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describing his childhood in Rameswaram. Born into a middle-class Tamil Muslim family, he was greatly influenced by his father's wisdom and his mother's kindness. He grew up in a secular environment, having close friends from orthodox Hindu families. The story recounts incidents of social discrimination he faced, such as a teacher separating him from his Brahmin friend, and how his science teacher, Sivasubramania Iyer, broke social barriers by inviting him to dine in his kitchen. The chapter concludes with Kalam leaving Rameswaram to pursue higher studies, with his father's blessing to "fly" and grow.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Kalam introduces his parents, his secure childhood in Rameswaram, and his first earnings selling tamarind seeds during WWII.
 - **Rising Action:** He faces discrimination when a new teacher makes him sit in the back row, away from his Hindu friend Ramanadha Sastry.
@@ -211,14 +211,14 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** 1930s and 1940s (Pre-independence India).
 - **Place:** Rameswaram, a small island town in Tamil Nadu, known for its Shiva temple and communal harmony.
 
 ***
 
-## Characters
+######## Characters
 
 **A.P.J. Abdul Kalam:**
 - A curious and hardworking boy who inherited honesty and self-discipline from his parents.
@@ -237,15 +237,15 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The chapter emphasizes **communal harmony** and the **power of upbringing**. It shows how a child's character is shaped by their parents, teachers, and friends. It advocates for religious tolerance and the breaking of social barriers (caste and religion). It also highlights the importance of allowing children to pursue their dreams, even if it means leaving home.
 
 ---
-# **The Snake and the Mirror^**
+#### **The Snake and the Mirror^**
 ---
 
-# **Reach for the Top**
+#### **Reach for the Top**
 
 **Author:** (Biographical Feature)
 
@@ -255,7 +255,7 @@ The chapter emphasizes **communal harmony** and the **power of upbringing**. It 
 
 ***
 
-## Summary
+######## Summary
 
 **Part I: Santosh Yadav**
 Santosh Yadav, born in a conservative village in Haryana, defied societal norms to pursue education and mountaineering. She refused early marriage, studied in Delhi and Jaipur, and secretly joined a mountaineering course. Her iron will, physical endurance, and mental toughness helped her become the first woman to scale Mt. Everest twice. She is also known for her humanitarian spirit (saving a fellow climber) and environmental concern (bringing down garbage from the Himalayas).
@@ -265,7 +265,7 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 **Part I: Santosh Yadav**
 - **Exposition:** Santosh is born in a society that values sons; she rebels against traditional clothing and lack of education.
@@ -283,14 +283,14 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ***
 
-## Setting
+######## Setting
 
 - **Part I:** Haryana (India), Jaipur, Uttarkashi, and Mt. Everest.
 - **Part II:** Siberia (Russia) and Florida (USA).
 
 ***
 
-## Characters
+######## Characters
 
 **Santosh Yadav:**
 - A rebel who refused to follow irrational traditions.
@@ -304,13 +304,13 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The chapter conveys that **success comes to those who dare to dream and work hard**. Both Santosh and Maria defied odds—Santosh against gender bias and Maria against separation and isolation. The message is that **determination, sacrifice, and mental toughness** are the keys to reaching the "top" in any field.
 
 ---
 
-# **Kathmandu**
+#### **Kathmandu**
 
 **Author:** Vikram Seth
 
@@ -320,13 +320,13 @@ The chapter conveys that **success comes to those who dare to dream and work har
 
 ***
 
-## Summary
+######## Summary
 
 Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts the two major shrines: the Pashupatinath Temple (Hindu) and the Boudhanath Stupa (Buddhist). At Pashupatinath, he finds chaos, noise, and a crowd of devotees, priests, and animals fighting for space. In contrast, the Boudhanath Stupa is a haven of peace and stillness with no crowds. He also describes the busy streets of Kathmandu, filled with fruit sellers, flute sellers, and hawkers. He is particularly mesmerized by a flute seller who plays meditative melodies, standing out amidst the traffic and noise. The chapter is a vivid sensory description of the city's atmosphere.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Seth arrives in Kathmandu and visits the two most famous temples.
 - **Rising Action:** He visits Pashupatinath Temple and observes the "febrile confusion"—monkeys fighting, people pushing, and the polluted Bagmati river.
@@ -336,14 +336,14 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Not specified (during his travel from China to India).
 - **Place:** Kathmandu, Nepal (Pashupatinath Temple, Boudhanath Stupa, and the city streets).
 
 ***
 
-## Characters
+######## Characters
 
 **Vikram Seth:**
 - An observant and sensitive traveler.
@@ -356,13 +356,13 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The chapter highlights **cultural diversity and coexistence**. It contrasts the chaotic devotion of Hinduism with the serene meditation of Buddhism, showing how both exist side by side in Kathmandu. It also emphasizes the **power of music** to touch the human soul, as seen in Seth's fascination with the flute seller.
 
 ---
 
-# **If I Were You**
+#### **If I Were You**
 
 **Author:** Douglas James
 
@@ -372,13 +372,13 @@ The chapter highlights **cultural diversity and coexistence**. It contrasts the 
 
 ***
 
-## Summary
+######## Summary
 
 This one-act play is a suspenseful comedy about a playwright named Gerrard who outwits an intruder. The intruder, a criminal who has killed a policeman, breaks into Gerrard's cottage with the intention of killing him and taking on his identity to escape the police. Gerrard, instead of panicking, stays calm and concocts a false story. He convinces the intruder that he himself is a criminal on the run and that the police are about to arrive. He tricks the intruder into hiding in a cupboard (which is actually a door to nowhere/garage) and locks him inside, eventually handing him over to the police.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Gerrard is packing his bag in his cottage when an armed intruder enters.
 - **Rising Action:** The intruder reveals his plan to kill Gerrard and steal his identity because they look alike.
@@ -388,14 +388,14 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Not specified.
 - **Place:** The interior of a small cottage in the wilds of Essex.
 
 ***
 
-## Characters
+######## Characters
 
 **Gerrard:**
 - A cool, calm, and witty playwright.
@@ -409,15 +409,15 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The play highlights the importance of **presence of mind and quick wit**. It shows that panic leads to failure, while staying calm can help one survive even the most dangerous situations. It also touches on the theme of **identity**, as the intruder tries to steal someone else's life but fails due to his own lack of intelligence.
 
 ---
 
-## PART 2: BEEHIVE – POETRY
+######## PART 2: BEEHIVE – POETRY
 
-# **The Road Not Taken**
+#### **The Road Not Taken**
 
 **Poet:** Robert Frost
 
@@ -427,13 +427,13 @@ The play highlights the importance of **presence of mind and quick wit**. It sho
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem explores the theme of **choices and decision-making**. It highlights how the choices we make in life (symbolized by the two roads) shape our future. The poet emphasizes that once a choice is made, it is often impossible to go back and correct it. Therefore, decisions should be made wisely. It also touches on the human tendency to wonder "what if" about the path not chosen.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet stands at a point where a road diverges into two in a yellow forest (autumn). He feels sorry that he cannot travel both paths at the same time. He stands there for a long time, looking down one path as far as he can until it bends into the undergrowth.
@@ -449,7 +449,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Metaphor:** "Road" is a metaphor for the choices we make in life. "Yellow wood" refers to the autumn of life or a time of decision.
 - **Symbolism:** The two roads symbolize the choices available to us. The "undergrowth" represents the unknown future.
@@ -459,14 +459,14 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAAB (wood, both, stood, could, growth).
 **Form:** The poem consists of four stanzas of five lines each (quintains). The steady rhythm reflects the speaker's contemplative mood as he weighs his options.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** A traveler (likely the poet himself) standing at a crossroads.
 **Tone:** Reflective, contemplative, and slightly melancholic.
@@ -474,7 +474,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Two Roads:** Choices in life → The dilemma of decision-making.
 - **Yellow Wood:** Autumn forest → A stage in life where one is mature enough to make decisions.
@@ -482,7 +482,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "Two roads diverged in a yellow wood,"**
 - **Meaning:** The speaker is facing a major life decision where he has to choose between two alternatives.
@@ -495,7 +495,7 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ---
 
-# **Wind**
+#### **Wind**
 
 **Poet:** Subramania Bharati (Translated by A.K. Ramanujan)
 
@@ -505,13 +505,13 @@ He predicts that in the future, he will be telling this story with a sigh. He wi
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem uses the wind as a symbol of **adversity and challenges** in life. The central idea is that weak people break down in the face of hardships, while strong people emerge even stronger. The poet inspires us to be physically and mentally tough so that we can face the storms of life with courage and turn them into our friends.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet talks to the wind, asking it to come softly. He requests it not to break the shutters, scatter papers, or throw down books. However, the wind ignores him and causes destruction—tearing pages and bringing rain. The poet observes that the wind is clever at making fun of weaklings.
@@ -527,7 +527,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Personification:** The wind is addressed as "you" and "he," treating it as a person. "You are very clever at poking fun at weaklings."
 - **Anaphora:** Repetition of "Don't" at the start of lines 2, 3, 4 and "You" at the start of lines 6, 7, 8.
@@ -537,14 +537,14 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** The poem is written in a conversational style, directly addressing the wind.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet, observing the wind's power.
 **Tone:** Initially pleading, then accusatory, and finally inspiring/didactic.
@@ -552,7 +552,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Wind:** Hardships and obstacles in life.
 - **Crumbling houses/doors:** Weak minds and bodies that cannot withstand pressure.
@@ -560,7 +560,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "The wind god winnows and crushes them all."**
 - **Meaning:** Just as winnowing separates grain from chaff, difficulties separate the strong from the weak, destroying the weak.
@@ -573,7 +573,7 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ---
 
-# **Rain on the Roof**
+#### **Rain on the Roof**
 
 **Poet:** Coates Kinney
 
@@ -583,13 +583,13 @@ If we do this, the wind will become our friend. The poet explains that the wind 
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem explores the **healing power of nature** and the **comfort of memories**. The sound of rain falling on the roof evokes sweet memories of the poet's past, particularly of his mother. It highlights how nature can soothe a lonely heart and transport one back to the innocent days of childhood.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 When the dark clouds cover the stars and it starts raining gently, the poet feels it is a bliss to lie in his cozy bed. He presses his head against the pillow and listens to the soft patter of the rain on the roof, which relieves his sadness ("melancholy darkness").
@@ -602,7 +602,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Alliteration:** "Humid shadows hover" (h sound), "Starry spheres" (s sound), "Press the pillow" (p sound), "Lie listening" (l sound).
 - **Personification:** "Melancholy darkness" (darkness is given the human emotion of sadness). "Recollections weave their air-threads" (memories are treated like weavers).
@@ -611,14 +611,14 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABCBDEFE.
 **Form:** The poem has a lyrical quality, almost like a song or lullaby.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet (Coates Kinney), lying in bed.
 **Tone:** Nostalgic, affectionate, and soothing.
@@ -626,7 +626,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Rain:** A trigger for memories and a source of comfort.
 - **Darkness/Shadows:** Sadness or loneliness.
@@ -634,7 +634,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "What a bliss to press the pillow"**
 - **Meaning:** The poet finds immense joy and comfort in the simple act of lying in bed and listening to the rain.
@@ -647,7 +647,7 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ---
 
-# **The Lake Isle of Innisfree**
+#### **The Lake Isle of Innisfree**
 
 **Poet:** W.B. Yeats
 
@@ -657,13 +657,13 @@ The most vivid memory that comes to his mind is of his mother. He recalls how sh
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem reflects the poet's intense longing for **peace and tranquility**. It contrasts the noise and stress of city life with the serene beauty of nature. The central idea is that nature provides a healing escape for the soul. The poet yearns to return to Innisfree, a place of his childhood, to live a simple, self-sufficient life.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet declares his intention to get up and go to Innisfree immediately. He plans to build a small cabin made of clay and sticks (wattles). He wants to lead a simple life there, growing nine rows of beans and keeping a hive for honeybees, living alone in the open space filled with the buzzing of bees.
@@ -676,7 +676,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Alliteration:** "Hive for the honey-bee" (h sound), "Lake water lapping with low sounds" (l sound).
 - **Repetition:** "I will arise and go now" is repeated in the first and last stanzas to emphasize determination.
@@ -686,14 +686,14 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAB.
 **Form:** A lyric poem with three quatrains (four-line stanzas).
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet (W.B. Yeats), who is currently in a city but longing for the countryside.
 **Tone:** Longing, nostalgic, and determined.
@@ -701,7 +701,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Innisfree:** A symbol of peace, nature, and an ideal escape from urban life.
 - **Grey Pavements:** Symbolize the dull, concrete, and lifeless city environment.
@@ -709,7 +709,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "I will arise and go now, and go to Innisfree"**
 - **Meaning:** The poet is determined to leave his current life immediately and find solace in nature.
@@ -722,7 +722,7 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ---
 
-# **A Legend of the Northland**
+#### **A Legend of the Northland**
 
 **Poet:** Phoebe Cary
 
@@ -732,13 +732,13 @@ He reiterates his resolve to go, because day and night he hears the sound of the
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem is a ballad that conveys a moral lesson about **generosity and the consequences of greed**. It tells the story of a selfish woman who is punished by Saint Peter for refusing to give him a single cake. The central theme is that human beings should be kind and charitable, especially to those in need. Greed and selfishness can lead to a miserable existence.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanzas 1-3:**
 The poem introduces the Northland, a cold place with long nights where people use reindeer sledges. The poet mentions a legend passed down through generations.
@@ -757,7 +757,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Ballad:** A narrative poem that tells a story, often with a moral.
 - **Alliteration:** "Funny, furry" (f sound), "Still, smaller" (s sound).
@@ -767,14 +767,14 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABCB.
 **Form:** Written in quatrains (four-line stanzas), typical of a ballad.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** A narrator telling a folktale.
 **Tone:** Moralistic and cautionary.
@@ -782,7 +782,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Saint Peter:** Symbol of divine judgment and test of character.
 - **Cakes:** Symbol of material possessions that the greedy hold onto.
@@ -790,7 +790,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "He asked her, from her store of cakes, To give him a single one."**
 - **Meaning:** A test of the woman's charity.
@@ -803,7 +803,7 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ---
 
-# **No Men Are Foreign**
+#### **No Men Are Foreign**
 
 **Poet:** James Kirkup
 
@@ -813,13 +813,13 @@ She is instantly transformed into a woodpecker and flies up the chimney. Her clo
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem promotes the concept of **universal brotherhood**. It emphasizes that all human beings are the same, regardless of their nationality, race, or religion. We all breathe the same air, walk on the same earth, and are fed by the same harvests. The poet warns that hating others is equivalent to hating ourselves, and war only pollutes the earth that belongs to everyone.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet asks us to remember that no man is a stranger and no country is foreign. Beneath different uniforms (soldiers/nationalities), every human body breathes the same way. The land we walk on is the same everywhere, and eventually, we will all be buried in the same earth.
@@ -838,7 +838,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Alliteration:** "Body breathes" (b sound), "War's long winter" (w sound).
 - **Metaphor:** "Uniforms" – represents different countries/armies. "War's long winter" – war is compared to a harsh winter (starvation/death).
@@ -848,14 +848,14 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** A didactic poem with a serious and persuasive tone.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet, addressing humanity.
 **Tone:** Serious, persuasive, and pacifist (anti-war).
@@ -863,7 +863,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Uniforms:** National identities/Military.
 - **Single body:** Shared humanity.
@@ -871,7 +871,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "Beneath all uniforms, a single body breathes"**
 - **Meaning:** Despite external differences (clothes, nationality), internally we are all the same human beings.
@@ -884,7 +884,7 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ---
 
-# **On Killing a Tree**
+#### **On Killing a Tree**
 
 **Poet:** Gieve Patel
 
@@ -894,13 +894,13 @@ When we fight, we defile the human earth. The fire and dust of war pollute the a
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem is a graphic description of the total destruction of a tree. It highlights the **resilience of nature** and the **cruelty of humans**. The poet explains that a simple cut is not enough to kill a tree because it has deep roots and strong regenerative powers. To kill it completely, one must uproot it from the earth. The poem can be seen as a criticism of deforestation and a metaphor for how deep-rooted habits or evils are hard to destroy.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet states that killing a tree takes a lot of time. A simple jab of a knife is not enough because the tree has grown slowly by consuming the earth, absorbing sunlight, air, and water for years. Even from its "leprous hide" (discolored bark), leaves sprout, showing its life force.
@@ -916,7 +916,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Personification:** "Bleeding bark" – giving the tree human qualities of feeling pain and bleeding.
 - **Metaphor:** "Leprous hide" – comparing the rough bark to the skin of a leper. "Anchoring earth" – earth is compared to an anchor holding the tree.
@@ -926,14 +926,14 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** Free Verse (No rhyme scheme).
 **Form:** A descriptive, almost instructional poem with a serious tone.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet, describing the process.
 **Tone:** Clinical, detached, and ironic.
@@ -941,7 +941,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Tree:** Nature / Life force.
 - **Root:** The source of strength / Deep-seated traditions or habits.
@@ -949,7 +949,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "It takes much time to kill a tree, Not a simple jab of the knife Will do it."**
 - **Meaning:** Destruction of something strong and deep-rooted requires immense effort; it's not an easy task.
@@ -962,7 +962,7 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ---
 
-# **A Slumber Did My Spirit Seal**
+#### **A Slumber Did My Spirit Seal**
 
 **Poet:** William Wordsworth
 
@@ -972,13 +972,13 @@ Once the root is exposed, the dying process begins. The tree is scorched and cho
 
 ***
 
-## Central Idea / Theme
+######## Central Idea / Theme
 
 The poem deals with the death of a loved one and the **realization of mortality**. It contrasts the poet's past ignorance (slumber) with his present understanding. The central idea is that death is inevitable, but it also brings a form of peace as the departed soul becomes an eternal part of nature.
 
 ***
 
-## Stanza-Wise Explanation
+######## Stanza-Wise Explanation
 
 **Stanza 1:**
 The poet says that a "slumber" (deep sleep or ignorance) had sealed his spirit, making him unaware of reality. He had no human fears (like the fear of death) because he believed his beloved (Lucy) was immortal. She seemed like a being who could not be touched by the passage of time or aging.
@@ -988,7 +988,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-## Literary Devices / Figures of Speech
+######## Literary Devices / Figures of Speech
 
 - **Alliteration:** "Spirit seal" (s sound), "Rolled round" (r sound).
 - **Enjambment:** "She seemed a thing that could not feel / The touch of earthly years."
@@ -997,14 +997,14 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-## Rhyme Scheme and Form
+######## Rhyme Scheme and Form
 
 **Rhyme Scheme:** ABAB CDCD.
 **Form:** Two quatrains (four-line stanzas). It is a short, elegy-like poem.
 
 ***
 
-## Speaker, Tone and Mood
+######## Speaker, Tone and Mood
 
 **Speaker:** The poet (William Wordsworth), mourning a loss.
 **Tone:** Calm, accepting, and philosophical.
@@ -1012,7 +1012,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-## Symbols and Imagery
+######## Symbols and Imagery
 
 - **Slumber:** Ignorance / Death.
 - **Earth's diurnal course:** The eternal cycle of nature.
@@ -1020,7 +1020,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ***
 
-## Important Lines & Their Meanings
+######## Important Lines & Their Meanings
 
 **1. "A slumber did my spirit seal"**
 - **Meaning:** The poet was in a state of unawareness, not realizing that death could touch his loved one.
@@ -1033,10 +1033,10 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ---
 
-# PART 3: MOMENTS SUPPLEMENTARY
+#### PART 3: MOMENTS SUPPLEMENTARY
 
 
-# **The Lost Child**
+#### **The Lost Child**
 
 **Author:** Mulk Raj Anand
 
@@ -1046,13 +1046,13 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ---
 
-## Summary
+######## Summary
 
 A young boy goes to a spring fair with his parents, filled with excitement. On the way, he is fascinated by nature (mustard fields, dragonflies) and various stalls selling toys, sweets, and garlands. He wants everything but knows his parents will refuse, so he moves on. However, while watching a roundabout swing, he gets separated from his parents. Panic strikes, and he runs around crying for them. A kind man finds him and tries to console him by offering the same things he earlier wanted (sweets, balloons, snake charmer's music), but the child refuses everything, only sobbing, "I want my mother, I want my father!"
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** The child and his parents head to the village fair during the festival of spring. The child is happy and curious.
 - **Rising Action:** The child is attracted to many things (toys, burfi, gulmohar garland, balloons, snake charmer) but his parents keep moving or refusing his requests.
@@ -1062,14 +1062,14 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** The festival of spring.
 - **Place:** A busy village fair in India, with crowded lanes, shops, and rides.
 
 ***
 
-## Characters
+######## Characters
 
 - **The Child:** Innocent, curious, and easily distracted. He loves toys and sweets but loves his parents above all else.
 - **The Parents:** Protective but strict. They refuse the child's demands but keep a watch on him until he gets lost.
@@ -1077,13 +1077,13 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story highlights the **bond of love between a child and his parents**. It shows that for a child, security and parental love are far more valuable than material possessions. Things like toys and sweets only bring joy when there is a sense of safety provided by parents. Once that security is lost, the world becomes a frightening place, and nothing else matters.
 
 ---
 
-# **The Adventures of Toto**
+#### **The Adventures of Toto**
 
 **Author:** Ruskin Bond
 
@@ -1093,13 +1093,13 @@ The story highlights the **bond of love between a child and his parents**. It sh
 
 ---
 
-## Summary
+######## Summary
 
 The narrator's grandfather, an animal lover, buys a baby monkey named Toto from a tonga-driver for five rupees. Toto is mischievous and destructive. He tears clothes, breaks dishes, and troubles other pets. Grandfather tries to keep him, even taking him on a train journey to Saharanpur where he is mistaken for a dog. However, Toto's pranks become unbearable when he destroys a large dish of pulao. Realizing they cannot afford the frequent losses caused by Toto, Grandfather sells him back to the tonga-driver for three rupees.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Grandfather buys Toto, a pretty but mischievous monkey, and brings him home secretly.
 - **Rising Action:** Toto creates chaos: he peels off wallpaper, tears the narrator's blazer, and disturbs other animals in the private zoo.
@@ -1109,14 +1109,14 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Not specified (likely mid-20th century India).
 - **Place:** Dehra Dun (narrator's home) and a train journey to Saharanpur.
 
 ***
 
-## Characters
+######## Characters
 
 - **Toto:** A red baby monkey with bright eyes and a long tail. He is intelligent but extremely mischievous and destructive.
 - **Grandfather:** An animal lover who has a private zoo. He is patient and fond of Toto but eventually realizes the monkey is too much to handle.
@@ -1124,13 +1124,13 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story is a humorous account that highlights the **unpredictability of wild animals**. While animals can be cute and entertaining, they require a specific environment and patience. Not all animals can be domesticated. It also touches on the theme of **attachment**, as Grandfather is fond of Toto despite the trouble he causes.
 
 ---
 
-# **Iswaran the Storyteller**
+#### **Iswaran the Storyteller**
 
 **Author:** R.K. Laxman
 
@@ -1140,13 +1140,13 @@ The story is a humorous account that highlights the **unpredictability of wild a
 
 ---
 
-## Summary
+######## Summary
 
 Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyteller. Iswaran entertains Mahendra with vivid tales, often blending fact with fiction. He claims to have controlled a mad elephant and narrates suspenseful stories. One day, he tells Mahendra about a female ghost holding a foetus that haunts their area. Mahendra dismisses it but becomes fearful. One night, he sees a shadowy figure resembling the ghost and is terrified. The next morning, Iswaran casually mentions Mahendra's fear, leading Mahendra to resign and leave the haunted place immediately.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Mahendra's job involves moving to different construction sites. His cook, Iswaran, accompanies him everywhere and takes care of him.
 - **Rising Action:** Iswaran narrates dramatic stories to Mahendra, including one about how he tackled a mad elephant.
@@ -1156,27 +1156,27 @@ Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyte
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Not specified.
 - **Place:** Various construction sites where Mahendra is posted (remote areas).
 
 ***
 
-## Characters
+######## Characters
 
 - **Iswaran:** A loyal cook and a master storyteller. He is imaginative and dramatic, often blurring the line between reality and fiction.
 - **Mahendra:** A rational supervisor who enjoys Iswaran's stories but eventually falls prey to fear and superstition.
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story highlights the **power of storytelling** and how it can influence the human mind. It shows that fear is often a creation of our own imagination. Even a rational person like Mahendra can be swayed by the power of suggestion and fear.
 
 ---
 
-# **In the Kingdom of Fools**
+#### **In the Kingdom of Fools**
 
 **Author:** A.K. Ramanujan (Folktale)
 
@@ -1186,13 +1186,13 @@ The story highlights the **power of storytelling** and how it can influence the 
 
 ---
 
-## Summary
+######## Summary
 
 In a strange kingdom ruled by a foolish king and his minister, day is treated as night and night as day. Everything costs a single duddu (coin). A guru and his disciple visit the city. The guru leaves, sensing danger, but the disciple stays for the cheap food. One day, a thief dies when a wall collapses on him. The king tries to find the culprit, blaming everyone from the merchant to the dancing girl to the goldsmith. Finally, the disciple is arrested to fit the stake for execution simply because he is fat. The guru returns, tricks the king into believing that whoever is executed first will become a king in the next life. The foolish king and minister execute themselves, and the guru and disciple become the new rulers.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** The Kingdom of Fools has bizarre laws: people sleep by day and work by night; everything costs one duddu.
 - **Rising Action:** A guru and disciple arrive. The guru leaves, warning the disciple, who stays and gets fat. A thief dies during a burglary, leading to a chaotic trial.
@@ -1202,14 +1202,14 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Long ago.
 - **Place:** A fictional Kingdom of Fools.
 
 ***
 
-## Characters
+######## Characters
 
 - **The Guru:** Wise and foresighted. He saves his disciple using his wit.
 - **The Disciple:** Greedy and naive. He ignores wisdom for food and gets into trouble.
@@ -1217,13 +1217,13 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story is a satire on **foolish leadership**. It teaches that it is dangerous to live among fools and that **wisdom is superior to foolishness**. Problems created by fools can only be solved by the wise.
 
 ---
 
-# **The Happy Prince**
+#### **The Happy Prince**
 
 **Author:** Oscar Wilde
 
@@ -1233,13 +1233,13 @@ The story is a satire on **foolish leadership**. It teaches that it is dangerous
 
 ---
 
-## Summary
+######## Summary
 
 The story is about a statue of a Happy Prince and a little Swallow. The Prince, who lived a happy life, is now a statue who can see the misery of his city. He asks the Swallow to stay and help him distribute his jewels (ruby, sapphire eyes, and gold leaves) to the poor. The Swallow agrees and delays his migration to Egypt. Eventually, the Prince gives away everything and becomes blind and dull. The Swallow dies of cold at the Prince's feet. The Prince's lead heart breaks. The statue is melted down, but the broken heart and the dead bird are chosen by God as the two most precious things in the city.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** The statue of the Happy Prince stands tall over the city. A Swallow arrives and rests at his feet.
 - **Rising Action:** The Prince cries seeing the suffering of his people. He asks the Swallow to give his ruby to a seamstress, his sapphire eyes to a playwright and a match-girl, and his gold leaves to the poor.
@@ -1249,14 +1249,14 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Winter.
 - **Place:** A city in Northern Europe.
 
 ***
 
-## Characters
+######## Characters
 
 - **The Happy Prince:** Compassionate and selfless. He sacrifices his beauty and wealth to help the poor.
 - **The Swallow:** Loyal and kind-hearted. He sacrifices his life to help the Prince and the poor.
@@ -1264,13 +1264,13 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story highlights the themes of **love, sacrifice, and charity**. It teaches that true beauty lies in a compassionate heart and that selfless service to others is the highest form of worship. God rewards those who love their fellow beings.
 
 ---
 
-# **The Last Leaf**
+#### **The Last Leaf**
 
 **Author:** O. Henry
 
@@ -1280,13 +1280,13 @@ The story highlights the themes of **love, sacrifice, and charity**. It teaches 
 
 ---
 
-## Summary
+######## Summary
 
 Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill with pneumonia and loses the will to live. She believes she will die when the last leaf falls from the ivy creeper outside her window. Her friend Sue tries to cheer her up but fails. Sue tells their neighbor, an old painter named Behrman, about Johnsy's fancy. Behrman, who always wanted to paint a masterpiece, goes out in a storm and paints a leaf on the wall after the real last leaf falls. Johnsy sees the leaf still there the next morning and regains hope. She recovers, but Behrman dies of pneumonia contracted while painting the leaf in the rain. The painted leaf becomes his masterpiece.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Sue and Johnsy are artists sharing a flat. Johnsy falls ill with pneumonia.
 - **Rising Action:** Johnsy links her life to the falling ivy leaves. She decides she will die when the last leaf falls.
@@ -1296,14 +1296,14 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** November (Winter).
 - **Place:** Greenwich Village, New York.
 
 ***
 
-## Characters
+######## Characters
 
 - **Johnsy:** A young artist who is pessimistic and loses hope easily. She is superstitious about the ivy leaves.
 - **Sue:** A loyal and caring friend. She tries her best to support Johnsy emotionally and financially.
@@ -1311,13 +1311,13 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story highlights the **power of hope and belief**. It shows that the will to live is crucial for recovery. It also emphasizes the theme of **sacrifice and true art**, as Behrman's masterpiece is not a painting in a museum, but one that saves a life.
 
 ---
 
-# **A House Is Not a Home**
+#### **A House Is Not a Home**
 
 **Author:** Zan Gaudioso
 
@@ -1327,13 +1327,13 @@ The story highlights the **power of hope and belief**. It shows that the will to
 
 ---
 
-## Summary
+######## Summary
 
 The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoon, his house catches fire. He and his mother escape, but the house is destroyed. Zan is heartbroken because his pet cat is missing. He feels isolated and depressed, having lost his old friends, his house, and his cat. However, his new schoolmates show immense kindness by gifting him school supplies and clothes. This act of love changes Zan's perspective. Later, a kind woman returns his cat, which had run away due to fear. Zan realizes that a home is built on love and relationships, not just bricks and cement.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Zan feels lonely in his new high school and misses his old friends and teachers.
 - **Rising Action:** A fire breaks out in Zan's house. He and his mother escape, but the house is destroyed. Zan's cat goes missing.
@@ -1343,14 +1343,14 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Zan's teenage years.
 - **Place:** Zan's neighborhood and his new high school.
 
 ***
 
-## Characters
+######## Characters
 
 - **Zan:** A sensitive teenager who feels insecure and lonely but learns to open up to others.
 - **Zan's Mother:** Brave and resilient. She risks her life to save important documents and photos of her late husband.
@@ -1358,13 +1358,13 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story distinguishes between a **house and a home**. A house is a building, but a home is a place of love and security. It also highlights the importance of **community support** and how sharing grief can lead to new friendships and healing.
 
 ---
 
-# **The Beggar**
+#### **The Beggar**
 
 **Author:** Anton Chekhov
 
@@ -1374,13 +1374,13 @@ The story distinguishes between a **house and a home**. A house is a building, b
 
 ---
 
-## Summary
+######## Summary
 
 Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, who catches him lying and offers him work chopping wood instead of alms. Lushkoff accepts reluctantly. Sergei's cook, Olga, is harsh with Lushkoff but secretly chops the wood for him because she pities him. Her kindness transforms Lushkoff. He stops drinking and starts working hard. Years later, Sergei meets Lushkoff, who is now a successful notary. Lushkoff reveals that it was not Sergei's words but Olga's selfless deeds that changed his life.
 
 ---
 
-## Plot (Main Events)
+######## Plot (Main Events)
 
 - **Exposition:** Lushkoff, a beggar, asks Sergei for money by telling lies. Sergei recognizes him and exposes his lies.
 - **Rising Action:** Sergei offers Lushkoff work chopping wood. Lushkoff agrees but is too weak and drunk to do it.
@@ -1390,14 +1390,14 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ***
 
-## Setting
+######## Setting
 
 - **Time:** Late 19th Century.
 - **Place:** Russia (St. Petersburg).
 
 ***
 
-## Characters
+######## Characters
 
 - **Lushkoff:** A beggar and alcoholic who lies for money. He eventually reforms and becomes a respectable man.
 - **Sergei:** A kind but somewhat arrogant advocate who believes in the power of hard work. He thinks he reformed Lushkoff.
@@ -1405,7 +1405,7 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ***
 
-## Theme / Message
+######## Theme / Message
 
 The story explores the themes of **compassion, transformation, and dignity of labor**. It teaches that true kindness (like Olga's) is more powerful than lectures (like Sergei's) in changing a person's life. It also highlights that anyone can change if given a chance and treated with empathy.
 
