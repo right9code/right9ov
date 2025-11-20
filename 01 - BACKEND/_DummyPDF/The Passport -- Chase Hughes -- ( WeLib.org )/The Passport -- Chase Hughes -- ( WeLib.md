@@ -317,13 +317,7 @@ TRUTH: For all of those who think using this system will be manipulative, this i
 
 MYTH: Buying women drinks is the gentlemanly thing to do.
 
-TRUTH: Another way of seeking approval. Buying women drinks gives the impression that you aren't interesting enough to be around unless you buy stuff for them, communicating all the WRONG things about you to her. You are not interesting or important enough that a woman would just want to hang out with you otherwise, so you need to buy them drinks. No way, man. If anything, she should be buying you drinks to keep you interested in HER. While you should always physically be gentlemanly by opening doors, walking on the more danger-
-
----
-
-THE PASSPORT
-
-ous side of the street, and offering your hand while walking down stairs, you can still be verbally cocky and humorous. If you just have to buy drinks, tell her to buy the first round and you guys will rotate paying for them.
+TRUTH: Another way of seeking approval. Buying women drinks gives the impression that you aren't interesting enough to be around unless you buy stuff for them, communicating all the WRONG things about you to her. You are not interesting or important enough that a woman would just want to hang out with you otherwise, so you need to buy them drinks. No way, man. If anything, she should be buying you drinks to keep you interested in HER. While you should always physically be gentlemanly by opening doors, walking on the more danous side of the street, and offering your hand while walking down stairs, you can still be verbally cocky and humorous. If you just have to buy drinks, tell her to buy the first round and you guys will rotate paying for them.
 
 MYTH: Women like to take the lead in relationships.
 
@@ -339,13 +333,7 @@ TRUTH: Some of the best players in the world tell women all kinds of crazy thing
 
 MYTH: Dinner is the gentlemanly place to go on a first date.
 
-TRUTH: This used to be true. Fact is that women usually find something completely unique and adventurous more attractive and fun than any dinner you could possibly take
-
----
-
-THE PASSPORT
-
-her to. I have friends who take women to grocery stores as first dates. While I don’t specifically advocate this, it works for them and they like it. Later, I’ll go over tons of things to do as a first outing. Let’s not call it a date.
+TRUTH: This used to be true. Fact is that women usually find something completely unique and adventurous more attractive and fun than any dinner you could possibly take her to. I have friends who take women to grocery stores as first dates. While I don’t specifically advocate this, it works for them and they like it. Later, I’ll go over tons of things to do as a first outing. Let’s not call it a date.
 
 MYTH: Women know what they want in a guy.
 
@@ -353,11 +341,7 @@ TRUTH: Women know what qualities they want in a guy who already meets a hundred 
 
 MYTH: You should always follow the advice of the magazine dating articles.
 
-TRUTH: Most of the guys or girls writing these articles don’t do actual research to write them. If they do, they ask women directly what they like and what turns them on instead of finding out what ACTUALLY builds attraction and deep-seated lust. The latest thing women
-
----
-
-like guys to do or the newest guide to romantic restaurants are all articles designed for men who are in a long-term, seriously committed relationship. The techniques we will go over have been the gold standard for thousands of years, and while we may think our brains have evolved past the point of our stone-age brothers and sisters, they haven't. Society, technology, communication, and all things external to us have changed, but our brains and bodies are exactly the same.
+TRUTH: Most of the guys or girls writing these articles don’t do actual research to write them. If they do, they ask women directly what they like and what turns them on instead of finding out what ACTUALLY builds attraction and deep-seated lust. The latest thing women like guys to do or the newest guide to romantic restaurants are all articles designed for men who are in a long-term, seriously committed relationship. The techniques we will go over have been the gold standard for thousands of years, and while we may think our brains have evolved past the point of our stone-age brothers and sisters, they haven't. Society, technology, communication, and all things external to us have changed, but our brains and bodies are exactly the same.
 
 MYTH: Women are innocent, and they don't manipulate men.
 
@@ -383,11 +367,7 @@ Completely eliminating passivity is the one and ONLY path to being a "real man."
 
 The AMG has his life together, going to the gym regularly, having a schedule, taking care of his responsibilities, and making sure he's able to find time for himself. The difference between average Joe and the AMG is that while doing all of this, he is ENJOYING himself. You only live once, and he knows this. The AMG is always aware his life could end, and he lives it to the fullest. No one is going to bring him down or distort his view of the world. He loves his life, and he's okay with no women being in it.
 
-In order to be attractive to
-
----
-
-women, you need to be totally comfortable with the idea of not needing women in your life. You need to make sure that all neediness and jealousy are kept in check. If your life is enjoyable, then you are enjoyable to be around. When you have the belief that all in your life is well and nothing could be better, anyone who does anything with you is but a guest. They make a guest appearance on the only show that matters…yours.
+In order to be attractive to women, you need to be totally comfortable with the idea of not needing women in your life. You need to make sure that all neediness and jealousy are kept in check. If your life is enjoyable, then you are enjoyable to be around. When you have the belief that all in your life is well and nothing could be better, anyone who does anything with you is but a guest. They make a guest appearance on the only show that matters…yours.
 
 The guys who don’t know how to enjoy their life and still be responsible are a bore to be around. No one is going to have fun when someone is too boring or depressed to be interesting. This is a huge turn-off to women, and you must banish it from your life. When you look depressed, sad, or just plain pissed off about something, people will avoid you, especially women. Women want to latch on to someone’s already good mood because they know that their emotions are unpredictable and that a man who is always in a good mood will be able to stabilize them.
 
@@ -405,11 +385,7 @@ One trait you'll always notice is that the AMG NEVER puts down or makes fun of o
 Why It All Works
 A scientist and psychologist named Abraham Maslow made an incredible observation in 1943. Maslow theorized that all humans must meet a set of basic or funda-mental needs in order to pursue and fulfill greater ones. His model for this was named "Maslow's Hierarchy of Needs." The image here begins with the bottom of the pyramid, wherein the basic physiological needs of life must be met to reach the higher set of needs. These needs are food, water, digestion, breathing, and shelter. While each level has very broad definitions of what needs are to be met, I will concentrate on the needs on the hierarchy pertaining to seduction, interaction, and attraction.
 
-The next level up is safety. Just like the previous level, the needs are applicable to all animals. Safety indicates the need to feel protection from threats, freedom to be comfortable, and especially emotional safety. When you walk up to a group in a bar, the girls are pretty sure that a bomb will not go off, no one will attack them, and they are free to relax. The only element that an AMG is concerned with in regards to safety is the setting of boundaries and limitations. When you initially display the traits of the AMG, the boundaries and limitations are an implied part of the interaction. When a woman senses that she's in the presence of a man with boundaries and limitations, she knows he
-
----
-
-is stable and she has the SAFETY of knowing you are a man who won't blow up on her, hit her, or threaten her. Having boundaries lets others know that you have well-defined limits on what you will tolerate from yourself and other people. The environment alone almost always meets the first two levels of Maslow's Hierarchy before you even approach.
+The next level up is safety. Just like the previous level, the needs are applicable to all animals. Safety indicates the need to feel protection from threats, freedom to be comfortable, and especially emotional safety. When you walk up to a group in a bar, the girls are pretty sure that a bomb will not go off, no one will attack them, and they are free to relax. The only element that an AMG is concerned with in regards to safety is the setting of boundaries and limitations. When you initially display the traits of the AMG, the boundaries and limitations are an implied part of the interaction. When a woman senses that she's in the presence of a man with boundaries and limitations, she knows he is stable and she has the SAFETY of knowing you are a man who won't blow up on her, hit her, or threaten her. Having boundaries lets others know that you have well-defined limits on what you will tolerate from yourself and other people. The environment alone almost always meets the first two levels of Maslow's Hierarchy before you even approach.
 
 The next higher level are the needs of belonging and love—not the love that you see in Disney cartoons or chick flicks, but a need to feel needed, appreciated, and validated. When she realizes you are an AMG, she becomes attracted to you. She feels the need to be liked and appreciated by someone with higher status than her. This is the very essence of qualification. When you screen a girl with questions and validate her responses to them, she feels that there are very specific things about her that make her UNIQUE to you. This is the most crucial part of the seduction process.
 
@@ -441,11 +417,7 @@ The bottom of the model represents the 5-2-6 acronym and the ten steps of the at
 
 From the left of the model, moving downward, I'll go over what each line represents.
 
-The first line represents her social status. It represents the status she sees herself in contrast
-
----
-
-to you. It will go down significantly in the beginning of the approach because you are in the process of SHOWING her where she is on your social scale. She will see herself as almost socially equal to you as time progresses because you are having meaningful conversations and you are making her chase you.
+The first line represents her social status. It represents the status she sees herself in contrast to you. It will go down significantly in the beginning of the approach because you are in the process of SHOWING her where she is on your social scale. She will see herself as almost socially equal to you as time progresses because you are having meaningful conversations and you are making her chase you.
 
 The second line represents her resistance to you. The way she feels about you makes her decide whether to open her doors to you or shut you down. As you progress on the model within the first few minutes of the interaction, her resistance will plummet. As you near sex, her fears of male abandonment and pregnancy will cause a huge spike in her resistance and sexual arousal. It is inside of every woman you'll ever meet. The only thing that will vary is the intensity.
 
@@ -457,11 +429,7 @@ When you first meet, you should shake hands, thumb wrestle etc. to build her com
 
 My personal favorite line to look at is the last line. It makes a very sharp turn upward at the beginning of the interaction. This shows her attraction development throughout an interaction. As you approach, it's at rock bottom; she's thinking about getting rid of you until you open your mouth. As you do, the line begins a dramatic and obvious climb upward and continues to gradually rise throughout the interaction. The rapid drop represents her fears before sex.
 
-The capitalized letters on the model are representations of what milestones should roughly be taking place during the use of the 5-2-6 method. As you can see, holding a girl's hand when you meet her can
-
----
-
-take place as early as 40 seconds to a minute. The phone number can be obtained in under three minutes and is usually a good reference to shoot for. The "P" on the model is an indicator of what kind of performance to shoot for and is only in that time slot as a goal.
+The capitalized letters on the model are representations of what milestones should roughly be taking place during the use of the 5-2-6 method. As you can see, holding a girl's hand when you meet her can take place as early as 40 seconds to a minute. The phone number can be obtained in under three minutes and is usually a good reference to shoot for. The "P" on the model is an indicator of what kind of performance to shoot for and is only in that time slot as a goal.
 
 The embrace, initially very short in duration, can take place about ten minutes into the method. You still have to be the one to break the embrace before she can say anything, so make sure it's quick. There will be more on that later.
 
@@ -481,11 +449,7 @@ The techniques in the toolkit should be used interchangeably. Pick and choose th
 
 What you are about to read will change your view of the world.
 
-In the next few minutes, as you skim through the toolkit, you will have a few "holy crap" moments. Eventually, you will be able to create your own lines, stories, and
-
----
-
-techniques. These techniques are designed for use as much and as often as you'd like until you feel comfortable pushing your own material out into the world. When you first use these, you might get a few funny looks. This phenomenon happens because your words (the techniques) and your body language and voice tones may not match up to each other. The more you use them, the better everything will line up.
+In the next few minutes, as you skim through the toolkit, you will have a few "holy crap" moments. Eventually, you will be able to create your own lines, stories, and techniques. These techniques are designed for use as much and as often as you'd like until you feel comfortable pushing your own material out into the world. When you first use these, you might get a few funny looks. This phenomenon happens because your words (the techniques) and your body language and voice tones may not match up to each other. The more you use them, the better everything will line up.
 
 When you try to get yourself into a positive, dominant, or playful mind-set, keep in mind that the more you question whether you are "in the mood" or not, you will push yourself further and further from being in the moment and will force yourself to be too self-conscious. When you begin to question what kind of mood you are in, you overanalyze yourself and focus your energy inwardly instead of outwardly. Get into the mood or state of mind BEFORE you go into a place where you are going to meet women.
 
@@ -510,11 +474,7 @@ Bookstore: Bookstores offer the luxury of always having something to talk about.
 
 Mall: Women flock to malls. Every woman there will have different things going on in her day that will affect her responsiveness to you, but with the high-status qualities you will soon have, it won't matter. If you have a girl byherself, it's best to use a very direct approach and get her number fast. If her friends are there, you'll have to butter up the defensive line before you can get a good number. This only takes a couple of minutes if done correctly. It's all in the toolkit. In the malls, just concentrate on having the "greatest day of your life" mentality. When you approach in a store, make her try funny stuff on, dare her to say weird things to the employees, and make fun of how much of a "good girl" she is. Keep it light, involved, and fun. There's no substitute quality for fun. Even if you're rich, smart, good-looking, and famous...fun is the key.
 
-Street: On the street, women are thinking about errands, family, friends, and their own lives. When you approach on the street, always ask a relationship question. This usually ties into their already-inprogress thought process and makes it easier for a quick scribbling of the number or email. The street is a little harder because if you stop someone walking the opposite direction, they start to become concerned about their schedule. If the girls are walking in the same direction as you are, you either have to slow way down or run up to them,
-
----
-
-which automatically puts your status into the sewer. Just don't do it, or find a way to approach from a different angle.
+Street: On the street, women are thinking about errands, family, friends, and their own lives. When you approach on the street, always ask a relationship question. This usually ties into their already-inprogress thought process and makes it easier for a quick scribbling of the number or email. The street is a little harder because if you stop someone walking the opposite direction, they start to become concerned about their schedule. If the girls are walking in the same direction as you are, you either have to slow way down or run up to them, which automatically puts your status into the sewer. Just don't do it, or find a way to approach from a different angle.
 
 Bars and Clubs: Bars and clubs will almost never reward a guy using a directly interest-conveying approach. Bars and clubs are an extremely high-stimulus environment, so to approach here, you need to be more interesting, commanding, and fun than the environment (most girls are there to hang with their friends, get drunk, and let the music and flashing lights distract them from the problems in their daily lives) around you. The relationship and childhood questions are best suited for bars and clubs. You've got to be loud and project over the noise to be heard and understood. This is where most guys think they will get laid, get lucky, and find a decent girlfriend. Just because there is more to choose from and they are wearing slutty clothing does not mean that the women there are of good quality. The best reports I get from my students are from when they approached girls in the daytime: a store, mall, or even a fast-food joint. Don't get me wrong; there is a lot to be said about the nightlife, but the best girlfriendsyou'll get will be a result of a daytime non-club environment. All the techniques you'll ever need to meet and keep women are in here.
 
