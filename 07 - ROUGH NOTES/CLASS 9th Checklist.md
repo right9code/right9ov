@@ -12,3 +12,5 @@
 	- [ ] Commands and Requests
 	- [ ] Statements
 	- [ ] Questions
+## Writing Section
+- [ ] Descr
