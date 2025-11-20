@@ -1083,11 +1083,7 @@ Using the touch hierarchy is the most important thing you can do to be able to g
 Value is nothing like it seems. I define it as the amount of effort someone will go through to ensure your comfort levels are adequate. It's not the same as status, which is defined in a group of people. Value is something you carry inside WHEREVER you go. Here are a few ways to add value to your current game.
 
 1. Qualify people: Ask questions and get guys and girls to brag about themselves. It forces a situation where they are trying to impress you.
-2. Give value: Don't try to take it from someone. If you look at a photo of a guy and a hot girl in a bar, the guy will usually be leaning into the woman, boosting his value by being with her. You can be the one to give value to others, by building them up, reassuring them that they don't
-
----
-
-have to impress you, and that they are cool to hang around with.
+2. Give value: Don't try to take it from someone. If you look at a photo of a guy and a hot girl in a bar, the guy will usually be leaning into the woman, boosting his value by being with her. You can be the one to give value to others, by building them up, reassuring them that they don't have to impress you, and that they are cool to hang around with.
 3. When a girl is talking to you (no matter how hot she is), move your leg and body as if you were going to walk away, hold it there for a second, and then come back to her. Act almost as if you are trying to see something or someone who is far away and you need to take a step in that direction to get a little closer. You will be shocked at the reaction you get.
 4. Be loud and confident.
 
