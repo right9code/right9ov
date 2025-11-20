@@ -10,3 +10,5 @@
 - [ ] Subject-Verb Concord
 - [ ] Reported Speech
 	- [ ] Commands and Requests
+	- [ ] Statements
+	- [ ] Questions
