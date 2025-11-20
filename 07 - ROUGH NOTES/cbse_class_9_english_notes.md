@@ -2,7 +2,7 @@
 
 ## PART 1: BEEHIVE – PROSE
 
-#### **The Fun They Had**
+### **The Fun They Had**
 
 **Author:** Isaac Asimov
 
@@ -12,7 +12,7 @@
 
 ***
 
-######## Summary
+#### Summary
 
 Set in the future year 2157, the story opens with Margie Jones writing in her diary about a real book that her friend Tommy found. This old, yellowing book describes schools from centuries ago, which fascinates the children because they only know "telebooks" on screens. In their world, schools are not separate buildings but individual rooms in their homes where a mechanical teacher (a robot) gives lessons tailored to each child. Margie hates her school, especially the geography sector which has been giving her trouble. When the County Inspector fixes her mechanical teacher, she learns about the old kind of schools where children went to a special building, learned the same things together, and had human teachers. Margie begins to daydream about how much fun those children must have had, learning and playing together.
 
@@ -80,7 +80,7 @@ The story explores the future of education and the impact of technology on socia
 
 ***
 
-######## Summary
+#### Summary
 
 The story is about Kezia, a little girl who is terrified of her strict father. She views him as a giant and stutters in his presence out of fear. Her grandmother encourages her to bond with him, suggesting she make a pincushion for his birthday. While making it, Kezia unknowingly tears up her father's important speech papers to stuff the cushion. This leads to a severe punishment, deepening her fear. However, one night when her mother is hospitalized and her grandmother is away, Kezia has a nightmare. Her father comforts her, tucks her in, and lets her sleep beside him. She realizes that beneath his tough exterior lies a tired but loving heart, and her fear turns into understanding and affection.
 
@@ -138,7 +138,7 @@ The story explores the **bond between parents and children**. It highlights that
 
 ***
 
-######## Summary
+#### Summary
 
 This chapter outlines the life of Albert Einstein, not just as a scientific genius but as a humanitarian. Born in Germany in 1879, he was considered a "freak" by his mother because of his large head and was a late talker. He hated the strict discipline of his school in Munich and left it. He continued his education in Switzerland, where he met his first wife, Mileva Maric. While working as a patent clerk, he secretly developed his theories, eventually publishing the Special Theory of Relativity (E=mc²) in 1905 and the General Theory of Relativity in 1915, which made him world-famous. Later, he emigrated to the USA to escape the Nazis. He was deeply shaken by the atomic bombings of Hiroshima and Nagasaki and spent the rest of his life campaigning for peace, democracy, and a world government.
 
@@ -195,7 +195,7 @@ The chapter highlights that **true genius is not just about intellect but also a
 
 ***
 
-######## Summary
+#### Summary
 
 This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describing his childhood in Rameswaram. Born into a middle-class Tamil Muslim family, he was greatly influenced by his father's wisdom and his mother's kindness. He grew up in a secular environment, having close friends from orthodox Hindu families. The story recounts incidents of social discrimination he faced, such as a teacher separating him from his Brahmin friend, and how his science teacher, Sivasubramania Iyer, broke social barriers by inviting him to dine in his kitchen. The chapter concludes with Kalam leaving Rameswaram to pursue higher studies, with his father's blessing to "fly" and grow.
 
@@ -255,7 +255,7 @@ The chapter emphasizes **communal harmony** and the **power of upbringing**. It 
 
 ***
 
-######## Summary
+#### Summary
 
 **Part I: Santosh Yadav**
 Santosh Yadav, born in a conservative village in Haryana, defied societal norms to pursue education and mountaineering. She refused early marriage, studied in Delhi and Jaipur, and secretly joined a mountaineering course. Her iron will, physical endurance, and mental toughness helped her become the first woman to scale Mt. Everest twice. She is also known for her humanitarian spirit (saving a fellow climber) and environmental concern (bringing down garbage from the Himalayas).
@@ -320,7 +320,7 @@ The chapter conveys that **success comes to those who dare to dream and work har
 
 ***
 
-######## Summary
+#### Summary
 
 Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts the two major shrines: the Pashupatinath Temple (Hindu) and the Boudhanath Stupa (Buddhist). At Pashupatinath, he finds chaos, noise, and a crowd of devotees, priests, and animals fighting for space. In contrast, the Boudhanath Stupa is a haven of peace and stillness with no crowds. He also describes the busy streets of Kathmandu, filled with fruit sellers, flute sellers, and hawkers. He is particularly mesmerized by a flute seller who plays meditative melodies, standing out amidst the traffic and noise. The chapter is a vivid sensory description of the city's atmosphere.
 
@@ -372,7 +372,7 @@ The chapter highlights **cultural diversity and coexistence**. It contrasts the 
 
 ***
 
-######## Summary
+#### Summary
 
 This one-act play is a suspenseful comedy about a playwright named Gerrard who outwits an intruder. The intruder, a criminal who has killed a policeman, breaks into Gerrard's cottage with the intention of killing him and taking on his identity to escape the police. Gerrard, instead of panicking, stays calm and concocts a false story. He convinces the intruder that he himself is a criminal on the run and that the police are about to arrive. He tricks the intruder into hiding in a cupboard (which is actually a door to nowhere/garage) and locks him inside, eventually handing him over to the police.
 
@@ -1046,7 +1046,7 @@ Now, the reality has struck. She is dead and has no motion or force. She can nei
 
 ---
 
-######## Summary
+#### Summary
 
 A young boy goes to a spring fair with his parents, filled with excitement. On the way, he is fascinated by nature (mustard fields, dragonflies) and various stalls selling toys, sweets, and garlands. He wants everything but knows his parents will refuse, so he moves on. However, while watching a roundabout swing, he gets separated from his parents. Panic strikes, and he runs around crying for them. A kind man finds him and tries to console him by offering the same things he earlier wanted (sweets, balloons, snake charmer's music), but the child refuses everything, only sobbing, "I want my mother, I want my father!"
 
@@ -1093,7 +1093,7 @@ The story highlights the **bond of love between a child and his parents**. It sh
 
 ---
 
-######## Summary
+#### Summary
 
 The narrator's grandfather, an animal lover, buys a baby monkey named Toto from a tonga-driver for five rupees. Toto is mischievous and destructive. He tears clothes, breaks dishes, and troubles other pets. Grandfather tries to keep him, even taking him on a train journey to Saharanpur where he is mistaken for a dog. However, Toto's pranks become unbearable when he destroys a large dish of pulao. Realizing they cannot afford the frequent losses caused by Toto, Grandfather sells him back to the tonga-driver for three rupees.
 
@@ -1140,7 +1140,7 @@ The story is a humorous account that highlights the **unpredictability of wild a
 
 ---
 
-######## Summary
+#### Summary
 
 Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyteller. Iswaran entertains Mahendra with vivid tales, often blending fact with fiction. He claims to have controlled a mad elephant and narrates suspenseful stories. One day, he tells Mahendra about a female ghost holding a foetus that haunts their area. Mahendra dismisses it but becomes fearful. One night, he sees a shadowy figure resembling the ghost and is terrified. The next morning, Iswaran casually mentions Mahendra's fear, leading Mahendra to resign and leave the haunted place immediately.
 
@@ -1186,7 +1186,7 @@ The story highlights the **power of storytelling** and how it can influence the 
 
 ---
 
-######## Summary
+#### Summary
 
 In a strange kingdom ruled by a foolish king and his minister, day is treated as night and night as day. Everything costs a single duddu (coin). A guru and his disciple visit the city. The guru leaves, sensing danger, but the disciple stays for the cheap food. One day, a thief dies when a wall collapses on him. The king tries to find the culprit, blaming everyone from the merchant to the dancing girl to the goldsmith. Finally, the disciple is arrested to fit the stake for execution simply because he is fat. The guru returns, tricks the king into believing that whoever is executed first will become a king in the next life. The foolish king and minister execute themselves, and the guru and disciple become the new rulers.
 
@@ -1233,7 +1233,7 @@ The story is a satire on **foolish leadership**. It teaches that it is dangerous
 
 ---
 
-######## Summary
+#### Summary
 
 The story is about a statue of a Happy Prince and a little Swallow. The Prince, who lived a happy life, is now a statue who can see the misery of his city. He asks the Swallow to stay and help him distribute his jewels (ruby, sapphire eyes, and gold leaves) to the poor. The Swallow agrees and delays his migration to Egypt. Eventually, the Prince gives away everything and becomes blind and dull. The Swallow dies of cold at the Prince's feet. The Prince's lead heart breaks. The statue is melted down, but the broken heart and the dead bird are chosen by God as the two most precious things in the city.
 
@@ -1280,7 +1280,7 @@ The story highlights the themes of **love, sacrifice, and charity**. It teaches 
 
 ---
 
-######## Summary
+#### Summary
 
 Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill with pneumonia and loses the will to live. She believes she will die when the last leaf falls from the ivy creeper outside her window. Her friend Sue tries to cheer her up but fails. Sue tells their neighbor, an old painter named Behrman, about Johnsy's fancy. Behrman, who always wanted to paint a masterpiece, goes out in a storm and paints a leaf on the wall after the real last leaf falls. Johnsy sees the leaf still there the next morning and regains hope. She recovers, but Behrman dies of pneumonia contracted while painting the leaf in the rain. The painted leaf becomes his masterpiece.
 
@@ -1327,7 +1327,7 @@ The story highlights the **power of hope and belief**. It shows that the will to
 
 ---
 
-######## Summary
+#### Summary
 
 The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoon, his house catches fire. He and his mother escape, but the house is destroyed. Zan is heartbroken because his pet cat is missing. He feels isolated and depressed, having lost his old friends, his house, and his cat. However, his new schoolmates show immense kindness by gifting him school supplies and clothes. This act of love changes Zan's perspective. Later, a kind woman returns his cat, which had run away due to fear. Zan realizes that a home is built on love and relationships, not just bricks and cement.
 
@@ -1374,7 +1374,7 @@ The story distinguishes between a **house and a home**. A house is a building, b
 
 ---
 
-######## Summary
+#### Summary
 
 Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, who catches him lying and offers him work chopping wood instead of alms. Lushkoff accepts reluctantly. Sergei's cook, Olga, is harsh with Lushkoff but secretly chops the wood for him because she pities him. Her kindness transforms Lushkoff. He stops drinking and starts working hard. Years later, Sergei meets Lushkoff, who is now a successful notary. Lushkoff reveals that it was not Sergei's words but Olga's selfless deeds that changed his life.
 
