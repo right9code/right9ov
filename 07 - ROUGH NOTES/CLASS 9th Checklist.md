@@ -13,4 +13,5 @@
 	- [ ] Statements
 	- [ ] Questions
 ## Writing Section
-- [ ] Descr
+- [ ] Descriptive Paragraph (a person / event / situation, based on visual or verbal cue/s)
+- [ ] Story 
