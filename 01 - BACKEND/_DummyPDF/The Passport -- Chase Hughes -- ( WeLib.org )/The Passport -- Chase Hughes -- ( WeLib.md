@@ -1565,15 +1565,10 @@ Girls do this for several reasons: Either she has a boyfriend and doesn't want t
 Simply put; everyone gets this and you will need to approach several women in all kinds of situations to get over it. The quickest ad fastest way to get over the anxiety of approaching is to use absolutely ridiculous lines with the intent for her to reject you and see how much you can get away with. Have your friends make up lame-ass lines for you to go and use designed for you to fail. It will be fun and make sure you take pictures to remember your times as an average guy. It won't be long before you are at the round table.
 4. Not getting called back after you leave a voice mail
 
-This goes along the same lines as getting fake numbers. Girls
-
----
-
-use men to boost their egos and usually never plan on getting back with them. When a woman gets a creepy voicemail, or even worse, when you call her seven hundred times because she doesn't answer, you wont get a call back.
+This goes along the same lines as getting fake numbers. Girls use men to boost their egos and usually never plan on getting back with them. When a woman gets a creepy voicemail, or even worse, when you call her seven hundred times because she doesn't answer, you wont get a call back.
 
 If you haven't successfully made it into the 'TWO' phase, then she will likely think you are only calling her for a one nighter or because of her physical appearance. You have not shown her that you are interested in her beyond that. Keep the sequence in your head when you go out.
 
----
 
 # THE 5-2-6 WORKBOOK 
 
@@ -1585,18 +1580,17 @@ Number of women I've approached:The three biggest fears I have with women are:
 3.
 
 The top ten things I want to change in my life to become an AMG:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
----
 
 Three reasons I need to become more of a man and reject passivity in my life:
 
@@ -1628,8 +1622,6 @@ W
 S
 I
 $\mathbf{X}$
-
----
 
 # NOTES 
 
