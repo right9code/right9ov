@@ -884,9 +884,6 @@ The English Renaissance (1500-1660) was a cultural rebirth inspired by the redis
 | Cleopatra | Antony and Cleopatra | Queen of Egypt, Antony's lover | Charismatic, passionate, politically shrewd |
 | Portia | Julius Caesar | Brutus' wife, symbol of loyalty | Devoted, intelligent, tragic |
 | Volumnia | Coriolanus | Coriolanus' mother, influences his fate | Proud, persuasive, strong-willed |
-
----
-
 | Rosalind | As You Like It | Heroine, disguises herself as a man | Clever, witty, resourceful |
 | :--: | :--: | :--: | :--: |
 | Beatrice | Much Ado About Nothing | Witty noblewoman, loves Benedick | Sharp-tongued, independent, humorous |
