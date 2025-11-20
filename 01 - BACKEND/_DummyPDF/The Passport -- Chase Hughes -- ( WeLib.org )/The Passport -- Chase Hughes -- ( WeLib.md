@@ -452,11 +452,7 @@ This system is an indirect system in that it does not communicate your desire to
 
 During the daytime, if a woman is alone, or with one friend in a store, let's say, you may elect to use a direct approach. I'll cover this in detail following the system.
 
-About Rejection: No professional
-
----
-
-athlete became that way overnight. They hit thousands upon thousands of practice balls, threw millions of passes, or beat the living crap out of hundreds of punching bags. For a few months, treat these women as your practice balls; they are there only to serve as a rung on your ladder to success. Some of the best players in the world have been rejected and ridiculed more times than anyone you've probably ever met before. Becoming the AMG is a PROCESS, not an overnight metamorphosis. Remember that you will be approaching men and all kinds of women you happen to see. This is the best and most effective way to build your skills as quickly as possible. If you don't do this, it's only going to take longer. I promise.
+About Rejection: No professional athlete became that way overnight. They hit thousands upon thousands of practice balls, threw millions of passes, or beat the living crap out of hundreds of punching bags. For a few months, treat these women as your practice balls; they are there only to serve as a rung on your ladder to success. Some of the best players in the world have been rejected and ridiculed more times than anyone you've probably ever met before. Becoming the AMG is a PROCESS, not an overnight metamorphosis. Remember that you will be approaching men and all kinds of women you happen to see. This is the best and most effective way to build your skills as quickly as possible. If you don't do this, it's only going to take longer. I promise.
 
 Here's the full and complete guide to the 5-2-6 system. Examples are listed after the description of each phase of the system and should be used, mixed around, and changed however you want. They are a guide and not an oracle. Each man's personality is different and might better be reflected by the use of varying the timing, tonality, and word choice of each example.
 
@@ -1307,7 +1303,6 @@ Carry something completely ridiculous around to the bar/club tonight. (A roll of
 
 Go to Starbucks or a coffee shop near your house and read a romance novel in front of everyone.
 
----
 
 # RELATIONSHIPS 
 
@@ -1641,7 +1636,7 @@ www. seduction.com
 
 # BELFACTUALIZATION 
 
-## BELF ESTIEM NEEDS
+## SELF ESTEEM NEEDS
 
 ## SOCIAL AND BELONGING NEEDS
 
