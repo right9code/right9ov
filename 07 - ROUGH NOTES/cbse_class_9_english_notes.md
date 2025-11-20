@@ -101,7 +101,7 @@ This part of the chapter tells the inspiring story of Evelyn Glennie, a profound
 
 ***
 
-#### Characters
+##### Characters
 
 **Evelyn Glennie:**
 - A determined, hardworking, and talented musician who refuses to let her deafness define her.
@@ -124,7 +124,7 @@ This section chronicles the life of the legendary shehnai maestro, Ustad Bismill
 
 ---
 
-#### Plot (Main Events)
+##### Plot (Main Events)
 
 - **Exposition:** The story introduces the shehnai, an instrument elevated to classical status almost single-handedly by Bismillah Khan. It mentions his playing of the shehnai on the eve of India's independence in 1947 at the Red Fort.
 - **Rising Action:** The narrative goes back to his childhood, his musical lineage, and his early training under his uncle Ali Bux in Varanasi. His long hours of practice by the holy Ganga are highlighted as a source of his musical innovation.
@@ -134,14 +134,14 @@ This section chronicles the life of the legendary shehnai maestro, Ustad Bismill
 
 ***
 
-#### Setting
+##### Setting
 
 - **Time:** From Bismillah Khan's birth in 1916 to his later years after receiving the Bharat Ratna in 2001.
 - **Place:** Primarily Dumraon (Bihar), Varanasi (Benaras) on the banks of the River Ganga, and various concert venues across India and the world.
 
 ***
 
-#### Characters
+##### Characters
 
 **Ustad Bismillah Khan:**
 - A legendary shehnai player, deeply devoted to his music and his country.
