@@ -885,7 +885,6 @@ The English Renaissance (1500-1660) was a cultural rebirth inspired by the redis
 | Portia | Julius Caesar | Brutus' wife, symbol of loyalty | Devoted, intelligent, tragic |
 | Volumnia | Coriolanus | Coriolanus' mother, influences his fate | Proud, persuasive, strong-willed |
 | Rosalind | As You Like It | Heroine, disguises herself as a man | Clever, witty, resourceful |
-| :--: | :--: | :--: | :--: |
 | Beatrice | Much Ado About Nothing | Witty noblewoman, loves Benedick | Sharp-tongued, independent, humorous |
 | Hero | Much Ado About Nothing | Claudio's love interest | Gentle, innocent, wrongly accused |
 | Portia | The Merchant of Venice | Brilliant lawyer, disguised as a man | Intelligent, eloquent, just |
@@ -2911,11 +2910,7 @@ $\checkmark$ Challenged Victorian morality \& gender roles.
 | Author | Notable Works | Genre | Contributions |
 | :-- | :-- | :-- | :-- |
 | James Payn | Lost Sir Massingberd <br> (1864) | Sensation Fiction | Rivaled Wilkie <br> Collins in mystery <br> novels. |
-
----
-
 | Joseph <br> Sheridan Le <br> Fanu | Carmilla (1872), <br> Uncle Silas (1864) | Gothic Horror | Pioneered the <br> lesbian vampire <br> trope. |
-| :-- | :-- | :-- | :-- |
 | Edward <br> Bulwer- <br> Lytton | The Coming Race <br> (1871), Zanoni (1842) | Science Fiction | Coined "It was a <br> dark and stormy <br> night..." |
 | Margaret <br> Oliphant | Miss Marjoribanks <br> (1866), The <br> Beleaguered City <br> (1879) | Supernatural \& <br> Domestic Fiction | Blended ghost <br> stories with social <br> realism. |
 | Charles <br> Reade | It is Never Too Late to <br> Mend (1856) | Social Novel | Addressed prison <br> reform \& injustice. |
@@ -3176,9 +3171,6 @@ Total Works: Over 40 novels, poetry collections, and essays
 
 - Sons and Lovers (1913)
 - The Rainbow (1915)
-
----
-
 - Women in Love (1920)
 
 Contributions \& Theories:
