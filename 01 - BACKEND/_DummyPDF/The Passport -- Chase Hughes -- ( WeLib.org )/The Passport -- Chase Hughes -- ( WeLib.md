@@ -116,9 +116,6 @@ The 5-2-6 Method Explained ..... 51
 - X-Sex ..... 95
 - Direct Approaching ..... 95
 - Wingman 101 ..... 97
-
----
-
 - Dos and Don'ts ..... 99
 - Be the Life of the Party at Clubs ..... 105
 - The Three-minute Phone Number Technique ..... 106
@@ -152,7 +149,6 @@ Other Resources for Good Training ..... 189
 
 This is the visual representation of the 5-2-6 universal model of seduction. Your understanding of the model will evolve continuously as you read...refer to it often.
 
----
 
 # INTRODUCTION 
 
@@ -162,11 +158,7 @@ My six promises to you:
 
 1. You will understand women better than most women know themselves.
 2. You will be able to quickly build and maintain sexual attraction.
-3. You will be more dominant and in
-
----
-
-control in your personal and professional life.
+3. You will be more dominant and in control in your personal and professional life.
 4. You will have more choice with women...from this day forward.
 5. Every time you read this book, it will mean something different because you will have learned more about women with each experience.
 6. This book contains zero fluff.
@@ -179,8 +171,6 @@ There are more women than men in this world...it's time to start acting like it.
 
 Prepare for launch...
 
----
-
 # INTELLIGENCE BRIEFING 
 
 Meet Bob. Bob likes women. He would eventually like to have an awesome relationship with a gorgeous, intelligent, mature, and caring woman. He sees women every day that he would like to date, but does nothing about it. He might stand near them, say "Hi," or compliment them on occasion, but nothing ever happens for him. When he went on dates in the past, he tried everything he read about in the dating books and men's magazine columns: buying flowers, gifts, dinners, lots of compliments, asking questions about her all night long to keep the conversation going. He tried to show them how successful and cool he is by talking about his life, his job, and his desires. Women walk all over him,tell him they would be better off as friends, and basically just don't feel that strong sense of attraction to him.
@@ -189,7 +179,7 @@ His friends and family tell him that the right one will come along soon. That he
 
 Now meet Dan. Dan considers himself a true ladies' man. He goes out to bars and clubs, grabs women's asses, buys lots of drinks for them, brags about his job and what kind of car he drives, and thinks he's god's gift to women. When none of them go home with him, he simply excuses it by telling himself they are "sluts" or they don't deserve him anyway. Dan gets "lucky" once in a while, but that's all it is...LUCK. Dan returns alone, 300 dollars later, to his apartment.
 
-Finally, here's Bruce: proud owner of The Passport. He wakes up every day with a sense of excitement to be alive. He has his life in order and he knows what he wants rom women. As Bruce goes to the gym, his office, the grocery store, and back to his house, he knows women are interested in him. Everywhere he goes, girls check him out, ask him how he is doing, and try to look sexy when he walks past them. It takes virtually NO effort for Bruce to get the response from women that most men dream of. He is NOT a good-looking guy...he just knows himself, and he knows women.
+Finally, here's Bruce: proud owner of The Passport. He wakes up every day with a sense of excitement to be alive. He has his life in order and he knows what he wants from women. As Bruce goes to the gym, his office, the grocery store, and back to his house, he knows women are interested in him. Everywhere he goes, girls check him out, ask him how he is doing, and try to look sexy when he walks past them. It takes virtually NO effort for Bruce to get the response from women that most men dream of. He is NOT a good-looking guy...he just knows himself, and he knows women.
 
 # MISSION GOALS 
 
