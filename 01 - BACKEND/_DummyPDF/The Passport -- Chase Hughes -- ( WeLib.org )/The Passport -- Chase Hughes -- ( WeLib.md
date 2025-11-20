@@ -189,11 +189,7 @@ His friends and family tell him that the right one will come along soon. That he
 
 Now meet Dan. Dan considers himself a true ladies' man. He goes out to bars and clubs, grabs women's asses, buys lots of drinks for them, brags about his job and what kind of car he drives, and thinks he's god's gift to women. When none of them go home with him, he simply excuses it by telling himself they are "sluts" or they don't deserve him anyway. Dan gets "lucky" once in a while, but that's all it is...LUCK. Dan returns alone, 300 dollars later, to his apartment.
 
-Finally, here's Bruce: proud owner of The Passport. He wakes up every day with a sense of excitement to be alive. He has his life in order and he knows what he wants
-
----
-
-from women. As Bruce goes to the gym, his office, the grocery store, and back to his house, he knows women are interested in him. Everywhere he goes, girls check him out, ask him how he is doing, and try to look sexy when he walks past them. It takes virtually NO effort for Bruce to get the response from women that most men dream of. He is NOT a good-looking guy...he just knows himself, and he knows women.
+Finally, here's Bruce: proud owner of The Passport. He wakes up every day with a sense of excitement to be alive. He has his life in order and he knows what he wants rom women. As Bruce goes to the gym, his office, the grocery store, and back to his house, he knows women are interested in him. Everywhere he goes, girls check him out, ask him how he is doing, and try to look sexy when he walks past them. It takes virtually NO effort for Bruce to get the response from women that most men dream of. He is NOT a good-looking guy...he just knows himself, and he knows women.
 
 # MISSION GOALS 
 
@@ -209,11 +205,7 @@ When you use the Passport, she will immediately realize she's dealing with a man
 
 Everything Mom told you is wrong...though I'm sure she meant well. Most women don't even know what I'm about to tell you.
 
-Women have the ability to feel other's emotions, read body language like an FBI interrogator, and keep a complete sense of awareness that would make most men green with envy. A woman can predict what their mate will say sometimes before their mate even begins to think about saying it. Even female infants can read facial expressions and hear emotions in their parents' voices better than male infants. The female brain is incredibly more
-
----
-
-socially advanced and emotionally sensitive than a man's, and it's been this way since the beginning of our time.
+Women have the ability to feel other's emotions, read body language like an FBI interrogator, and keep a complete sense of awareness that would make most men green with envy. A woman can predict what their mate will say sometimes before their mate even begins to think about saying it. Even female infants can read facial expressions and hear emotions in their parents' voices better than male infants. The female brain is incredibly more socially advanced and emotionally sensitive than a man's, and it's been this way since the beginning of our time.
 
 A beautiful woman, on average, will be approached, asked out, whistled at, stared at, asked stupid questions, offered lame pickup lines, winked at, grabbed, said hello to, and just plain asked for her number about four thousand times before you come along. She is also probably used to having lots of power when it comes to men. Women can get average guys to do all kinds of stupid, degrading, and ridiculous things for them. It's true. What the hell is going to make you any different from them? Unless you know women, she'll roll her eyes, and you will be forgotten before you even speak. Women do, however, want a good guy like Mom says, but they also want a "man." Weak, submissive, and passive behaviors are the least attractive thing to women. I DO mean all women.
 
@@ -238,21 +230,13 @@ What makes the same woman who says she wants a nice, funny, and loving guy dump 
 
 About a bajillion years ago, if a woman mated with the leader of any given society, her chances of survival and the survival of her offspring were drastically improved. Just because we drink three-dollar bottled water, drive SUVs, have wireless MP3 players and text messaging does not make us immune to biology. Mating with the group leader or the alpha male made it possible for her and her offspring to survive, be well fed, and for them to live longer by way ofprotection. It was not ever something they had to think about; it was programmed through thousands of years of evolution that predates our species. Any animal that mates with their pack leader has a better chance of being protected and having their offspring better provided for. Wolves, for instance, will only allow the pack leader to mate with the females of the group, thereby ensuring the genetic quality of future generations to come. Wolves did not sit down at a table and decide this; it is just how nature works. The females will always try to mate with the males who are leaders of their group. If they don't, they could face death, starvation, and the sacrifice of their offspring.
 
-In high school, the popular guys and the football players were always the ones dating all of the hot girls, weren't they? Most of them, I'm sure, didn't even have all the looks and money. This is called status response: a woman responding sexually or emotionally to a guy with high status. Rock stars and celebrities have the same effect of status response. Social status is a biological indicator of leadership, a primal attraction drive in women. The same principle is applied when the popular kid in school would say
-
----
-
-THE PASSPORT
-
-something and everyone would laugh, even if it was not funny at all.
+In high school, the popular guys and the football players were always the ones dating all of the hot girls, weren't they? Most of them, I'm sure, didn't even have all the looks and money. This is called status response: a woman responding sexually or emotionally to a guy with high status. Rock stars and celebrities have the same effect of status response. Social status is a biological indicator of leadership, a primal attraction drive in women. The same principle is applied when the popular kid in school would say something and everyone would laugh, even if it was not funny at all.
 
 When you buy a beer for a woman, give her flowers, gifts, and lots of compliments, and call her all the time, you are putting her in the lead, forcing her to take a dominant role, the man's role in the relationship. Letting her know she has more status than you do. This is bad, cowboy. Bad. Although women will take the lead if they have to in a relationship, very few are able to feel a gut level attraction to their mate if they are in charge of the relationship. In any sexually charged relationship, polarity must exist to create balance and attraction, a masculine and a feminine; a male and a female must have roles.
 
 Women will ignore their husbands if a celebrity comes over and starts talking to them. There is a gravitational pull of women toward status. Even a husband of ten years will be ignored if his wife feels like the celebrity in front of her has higher status than her husband does. A girl's sexual desires will always gravitate toward a greater being that possesses leadership, dominance, social status, charisma, humor, and confidence. They will always point, like a compass, toward status and leadership.When people say, "Women like jerks," what does that mean? When a woman meets a man who dis. plays very solid, unshakeable con. fidence, dominance, and rude behav. ior, she may still feel attraction because these qualities can be at. tributed to leadership and high. status behavior. Women stay in abusive relationships every day, but there's never any confusion as to who is in charge in the relation. ship. I am by no means saying that women need to be abused, and if you truly believe they do, please throw this book into the fireplace. I'm saying that women, even when in an abusive relationship, still feel the root level attraction we're talking about here. They still feel the presence of confidence, leadership (in a horrible way,) and the alignment with someone who believes he has higher status than she does. It's a man who takes charge, regardless of his
 
 Women will cheat on their husbands, leave great relationships, break off plans with their friends, ditch their boyfriends, and skip work to be with a truly authentic high-status guy who can turn all of her attraction knobs. It's emotions that take the wheel when this happens, and it's extremely difficult for women to ignore these feelings.
-
----
 
 It happens hundreds of times every day. It may have happened to you. It's your turn to be on the other side of the table.
 
@@ -261,8 +245,6 @@ Sexual attraction is only a response. It is not ever a decision a woman makes. R
 Did you know that romance novels account for nearly 50% of books sold in the United States. It's true. If you pick one off the shelf at random, they will mostly agree on one common theme: a woman surrendering to something she feels is "greater than herself"; she's the only woman who can calm down and tame the wild horse, the heroine surrendering to the masculine alpha male who will never be tamed...until he meets her. The number one fantasy during all of my candid interviews was confessed to be a strong, dominant, and aggressive male. One woman said it made her "he's having my baby" light come on immediately.
 
 Women feel attraction much differently than do men: Women feel attraction in the beginning as more of a need to be with a man ratherthan to have sex with him. It's not a choice, a decision, or a logical conclusion she makes. It just happens as a result of who YOU are. She feels the need to be with you regardless of her age, marital status, sexual preference, or even her own beliefs about men. It is something she cannot avoid. You will never be able to give her a speech about why she should like you, why you are cool, or how she should fall for you instead of the lead singer of that bar band from last Friday. When women get highly attracted to a man, emotions start to run the show, and they will do all kinds of seemingly crazy and wild things you never thought possible. Women will do all the things that average guys do when they are really into a girl. Buying gifts, calling a lot, doing favors etc. Once the attraction tables are turned, you have TAKEN the role of the hunted and she has naturally assumed the only position left: the chasing role. This is called "Status Transfer," and most of the seduction and dating process will revolve around this concept. No matter how much a woman is attracted to you, it will multiply exponentially if she has to prove herself to you before you accept her. This gives women validation.
-
----
 
 If she feels like she earned you, she will behave completely different than if she feels like she has more value than you do.
 
@@ -299,17 +281,11 @@ TRUTH: Nice is boring. Be what nature intended you to be: the leader. Take charg
 
 MYTH: You need a good job to be successful with women.
 
-TRUTH: Some of the scrubbiest guys have the hottest women as girl-
-
----
-
-friends. Why? They have personal status and leadership qualities that command attention and attraction. There's nothing complicated here. Nothing matters if you can convey the traits of the high-status leader (AMG). Now, some women are gold diggers, and you'll be able to spot them easily once you start doing this regularly. They will ask you about your job or your car immediately, or just outright ask you how much money you make. If this happens, leave. Don't be tempted to answer these questions unless she has answered a few of your fun ones first. It's okay to tell the truth, as long as you don't try to brag and dwell on the subject.
+TRUTH: Some of the scrubbiest guys have the hottest women as girlfriends. Why? They have personal status and leadership qualities that command attention and attraction. There's nothing complicated here. Nothing matters if you can convey the traits of the high-status leader (AMG). Now, some women are gold diggers, and you'll be able to spot them easily once you start doing this regularly. They will ask you about your job or your car immediately, or just outright ask you how much money you make. If this happens, leave. Don't be tempted to answer these questions unless she has answered a few of your fun ones first. It's okay to tell the truth, as long as you don't try to brag and dwell on the subject.
 
 MYTH: You have to be good-looking and rich to be successful with women.
 
 TRUTH: Again, nothing matters but your value and your attitude. If you work at a fast food place mopping floors and flipping burgers, but you know how to turn women's emotional control knobs, it doesn't compare to some guy who is a plastic surgeon in Hollywood who kisses up to women, trades his value and social status for a girl's approval, and acts like a big wussy. It's literally that simple.
-
----
 
 MYTH: Women like lots of compliments.
 
@@ -317,7 +293,7 @@ TRUTH: For all of those who think using this system will be manipulative, this i
 
 MYTH: Buying women drinks is the gentlemanly thing to do.
 
-TRUTH: Another way of seeking approval. Buying women drinks gives the impression that you aren't interesting enough to be around unless you buy stuff for them, communicating all the WRONG things about you to her. You are not interesting or important enough that a woman would just want to hang out with you otherwise, so you need to buy them drinks. No way, man. If anything, she should be buying you drinks to keep you interested in HER. While you should always physically be gentlemanly by opening doors, walking on the more danous side of the street, and offering your hand while walking down stairs, you can still be verbally cocky and humorous. If you just have to buy drinks, tell her to buy the first round and you guys will rotate paying for them.
+TRUTH: Another way of seeking approval. Buying women drinks gives the impression that you aren't interesting enough to be around unless you buy stuff for them, communicating all the WRONG things about you to her. You are not interesting or important enough that a woman would just want to hang out with you otherwise, so you need to buy them drinks. No way, man. If anything, she should be buying you drinks to keep you interested in HER. While you should always physically be gentlemanly by opening doors, walking on the more dangerous side of the street, and offering your hand while walking down stairs, you can still be verbally cocky and humorous. If you just have to buy drinks, tell her to buy the first round and you guys will rotate paying for them.
 
 MYTH: Women like to take the lead in relationships.
 
