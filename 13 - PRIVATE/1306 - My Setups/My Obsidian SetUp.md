@@ -68,7 +68,7 @@ mkdir -p "01 - BACKEND/0103 - Tags"
 mkdir -p "01 - BACKEND/0104 - Bases"
 mkdir -p "01 - BACKEND/0105 - Excalidraw"
 mkdir -p "01 - BACKEND/0106 - Canvas"
-mkdir -p ""
+mkdir -p "01 - BACKEND/0107 - Documents"
 
 # WIKI (note: you had a typo: "0105 - Cosmology" → should be "0305")
 mkdir -p "03 - WIKI/0301 - English"
