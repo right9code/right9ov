@@ -48,7 +48,7 @@ Several Germanic tribes invaded and settled in England after the Roman withdrawa
 
 ---
 
-![img-0.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/English%20lit%20final/assets/English%20lit%20final_img-0.jpeg)
+![img-0.jpeg](01%20-%20BACKEND/0107%20-%20Documents/English%20lit%20final/assets/English%20lit%20final_img-0.jpeg)
 
 # Key Authors and Works 
 
@@ -59,7 +59,7 @@ Several Germanic tribes invaded and settled in England after the Roman withdrawa
 
 - Cynewulf: One of the few Old English poets whose name we know (he signed his poems with runes). He wrote religious narratives like Elene (about the discovery of the True Cross) and Juliana (about a martyred saint).
 - King Alfred the Great: While not solely a writer, Alfred played a crucial role in promoting literacy and translating Latin texts into Old English. His efforts helped preserve knowledge and shape the development of English prose.
-![img-1.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/English%20lit%20final/assets/English%20lit%20final_img-1.jpeg)
+![img-1.jpeg](01%20-%20BACKEND/0107%20-%20Documents/English%20lit%20final/assets/English%20lit%20final_img-1.jpeg)
 
 ---
 
@@ -622,7 +622,7 @@ Popularized Terms:
 ---
 
 - "The York Mystery Plays" - One of the best-preserved medieval biblical play cycles.
-![img-2.jpeg](01%20-%20BACKEND/0101%20-%20Attachments/_DummyPDFs/English%20lit%20final/assets/English%20lit%20final_img-2.jpeg)
+![img-2.jpeg](01%20-%20BACKEND/0107%20-%20Documents/English%20lit%20final/assets/English%20lit%20final_img-2.jpeg)
 
 Conclusion: Lasting Impact of Middle English Literature
 
