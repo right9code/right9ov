@@ -7181,9 +7181,6 @@ $\checkmark$ Key Features:
 ## $\checkmark$ Major Poets:
 
 - Nissim Ezekiel (Night of the Scorpion)
-
----
-
 - Kamala Das (An Introduction)
 - A.K. Ramanujan (A River)
 - Jayanta Mahapatra (Indian Summer)
