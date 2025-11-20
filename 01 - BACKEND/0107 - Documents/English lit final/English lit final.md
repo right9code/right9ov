@@ -6621,20 +6621,20 @@ $\square$ Key Existentialist Writers:
 
 ## How Existentialism Influenced English Literature:
 
-1 Samuel Beckett (Waiting for Godot)
+1. Samuel Beckett (Waiting for Godot)
 
 - A landmark existentialist drama showing meaninglessness, absurdity, and repetition.
 - "Nothing to be done." The characters wait endlessly, symbolizing human futility.
 
-2 Harold Pinter (The Birthday Party, The Dumb Waiter)
+2. Harold Pinter (The Birthday Party, The Dumb Waiter)
 
 - Used "Pinteresque pauses" to show uncertainty and existential dread.
 
-3 Iris Murdoch (Under the Net)
+3. Iris Murdoch (Under the Net)
 
 - A novel questioning free will, authenticity, and self-deception.
 
-4 John Fowles (The Magus)
+4. John Fowles (The Magus)
 
 - Explores existential uncertainty and identity crises through shifting realities.
 $\checkmark$ Overall Impact: English writers used existentialist themes to question morality, meaning, and personal responsibility, making it a defining feature of Modernist and Postmodernist fiction.
@@ -7040,9 +7040,6 @@ $\checkmark$ Key Features:
 
 - William Wordsworth (Lyrical Ballads)
 - Samuel Taylor Coleridge (Kubla Khan)
-
----
-
 - Robert Southey (The Battle of Blenheim)
 
 
@@ -7087,9 +7084,6 @@ $\checkmark$ Key Features:
 ## $\checkmark$ Major Poets:
 
 - John Crowe Ransom (Poems About God)
-
----
-
 - Allen Tate (Ode to the Confederate Dead)
 - Robert Penn Warren (Promises: Poems)
 
