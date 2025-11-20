@@ -18,7 +18,7 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Margie and Tommy find a "real" printed book from the past, which is a strange object in their digitized world of 2157.
 - **Rising Action:** Tommy explains to a curious Margie how schools used to be—with human teachers and shared classrooms—while Margie struggles with her mechanical teacher's geography lessons.
@@ -28,7 +28,7 @@ Set in the future year 2157, the story opens with Margie Jones writing in her di
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** May 17, 2157 (Future)
 - **Place:** Margie's house, specifically her schoolroom right next to her bedroom. The atmosphere is sterile, isolated, and highly technological.
@@ -86,7 +86,7 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Kezia is introduced as a girl afraid of her father, relieved when he leaves for work and terrified when he returns.
 - **Rising Action:** Kezia tries to make a birthday gift (pincushion) for her father but accidentally destroys his important speech papers to fill it.
@@ -96,7 +96,7 @@ The story is about Kezia, a little girl who is terrified of her strict father. S
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Early 20th century (implied).
 - **Place:** Kezia's home and garden. The atmosphere shifts from tense and fearful to warm and secure.
@@ -144,7 +144,7 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Einstein is introduced as an unusual child who spoke late and was called "Brother Boring" by playmates.
 - **Rising Action:** He clashes with strict teachers in Munich, moves to Switzerland, falls in love with Mileva, and secures a job at a patent office.
@@ -154,7 +154,7 @@ This chapter outlines the life of Albert Einstein, not just as a scientific geni
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Late 19th to mid-20th century (1879–1955).
 - **Place:** Ulm and Munich (Germany), Zurich and Bern (Switzerland), and Princeton (USA).
@@ -201,7 +201,7 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Kalam introduces his parents, his secure childhood in Rameswaram, and his first earnings selling tamarind seeds during WWII.
 - **Rising Action:** He faces discrimination when a new teacher makes him sit in the back row, away from his Hindu friend Ramanadha Sastry.
@@ -211,7 +211,7 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** 1930s and 1940s (Pre-independence India).
 - **Place:** Rameswaram, a small island town in Tamil Nadu, known for its Shiva temple and communal harmony.
@@ -265,7 +265,7 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 **Part I: Santosh Yadav**
 - **Exposition:** Santosh is born in a society that values sons; she rebels against traditional clothing and lack of education.
@@ -283,7 +283,7 @@ Maria Sharapova, a Russian tennis sensation, reached the world number one positi
 
 ***
 
-######## Setting
+#### Setting
 
 - **Part I:** Haryana (India), Jaipur, Uttarkashi, and Mt. Everest.
 - **Part II:** Siberia (Russia) and Florida (USA).
@@ -326,7 +326,7 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Seth arrives in Kathmandu and visits the two most famous temples.
 - **Rising Action:** He visits Pashupatinath Temple and observes the "febrile confusion"—monkeys fighting, people pushing, and the polluted Bagmati river.
@@ -336,7 +336,7 @@ Vikram Seth describes his visit to Kathmandu, the capital of Nepal. He contrasts
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Not specified (during his travel from China to India).
 - **Place:** Kathmandu, Nepal (Pashupatinath Temple, Boudhanath Stupa, and the city streets).
@@ -378,7 +378,7 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Gerrard is packing his bag in his cottage when an armed intruder enters.
 - **Rising Action:** The intruder reveals his plan to kill Gerrard and steal his identity because they look alike.
@@ -388,7 +388,7 @@ This one-act play is a suspenseful comedy about a playwright named Gerrard who o
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Not specified.
 - **Place:** The interior of a small cottage in the wilds of Essex.
@@ -1052,7 +1052,7 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** The child and his parents head to the village fair during the festival of spring. The child is happy and curious.
 - **Rising Action:** The child is attracted to many things (toys, burfi, gulmohar garland, balloons, snake charmer) but his parents keep moving or refusing his requests.
@@ -1062,7 +1062,7 @@ A young boy goes to a spring fair with his parents, filled with excitement. On t
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** The festival of spring.
 - **Place:** A busy village fair in India, with crowded lanes, shops, and rides.
@@ -1099,7 +1099,7 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Grandfather buys Toto, a pretty but mischievous monkey, and brings him home secretly.
 - **Rising Action:** Toto creates chaos: he peels off wallpaper, tears the narrator's blazer, and disturbs other animals in the private zoo.
@@ -1109,7 +1109,7 @@ The narrator's grandfather, an animal lover, buys a baby monkey named Toto from 
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Not specified (likely mid-20th century India).
 - **Place:** Dehra Dun (narrator's home) and a train journey to Saharanpur.
@@ -1146,7 +1146,7 @@ Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyte
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Mahendra's job involves moving to different construction sites. His cook, Iswaran, accompanies him everywhere and takes care of him.
 - **Rising Action:** Iswaran narrates dramatic stories to Mahendra, including one about how he tackled a mad elephant.
@@ -1156,7 +1156,7 @@ Mahendra, a junior supervisor, has a cook named Iswaran who is an expert storyte
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Not specified.
 - **Place:** Various construction sites where Mahendra is posted (remote areas).
@@ -1192,7 +1192,7 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** The Kingdom of Fools has bizarre laws: people sleep by day and work by night; everything costs one duddu.
 - **Rising Action:** A guru and disciple arrive. The guru leaves, warning the disciple, who stays and gets fat. A thief dies during a burglary, leading to a chaotic trial.
@@ -1202,7 +1202,7 @@ In a strange kingdom ruled by a foolish king and his minister, day is treated as
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Long ago.
 - **Place:** A fictional Kingdom of Fools.
@@ -1239,7 +1239,7 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** The statue of the Happy Prince stands tall over the city. A Swallow arrives and rests at his feet.
 - **Rising Action:** The Prince cries seeing the suffering of his people. He asks the Swallow to give his ruby to a seamstress, his sapphire eyes to a playwright and a match-girl, and his gold leaves to the poor.
@@ -1249,7 +1249,7 @@ The story is about a statue of a Happy Prince and a little Swallow. The Prince, 
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Winter.
 - **Place:** A city in Northern Europe.
@@ -1286,7 +1286,7 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Sue and Johnsy are artists sharing a flat. Johnsy falls ill with pneumonia.
 - **Rising Action:** Johnsy links her life to the falling ivy leaves. She decides she will die when the last leaf falls.
@@ -1296,7 +1296,7 @@ Two young artists, Sue and Johnsy, live together in New York. Johnsy falls ill w
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** November (Winter).
 - **Place:** Greenwich Village, New York.
@@ -1333,7 +1333,7 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Zan feels lonely in his new high school and misses his old friends and teachers.
 - **Rising Action:** A fire breaks out in Zan's house. He and his mother escape, but the house is destroyed. Zan's cat goes missing.
@@ -1343,7 +1343,7 @@ The narrator, Zan, struggles to adjust to a new high school. One Sunday afternoo
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Zan's teenage years.
 - **Place:** Zan's neighborhood and his new high school.
@@ -1380,7 +1380,7 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ---
 
-######## Plot (Main Events)
+#### Plot (Main Events)
 
 - **Exposition:** Lushkoff, a beggar, asks Sergei for money by telling lies. Sergei recognizes him and exposes his lies.
 - **Rising Action:** Sergei offers Lushkoff work chopping wood. Lushkoff agrees but is too weak and drunk to do it.
@@ -1390,7 +1390,7 @@ Lushkoff, a beggar, lies to people to get money. He meets Sergei, an advocate, w
 
 ***
 
-######## Setting
+#### Setting
 
 - **Time:** Late 19th Century.
 - **Place:** Russia (St. Petersburg).
