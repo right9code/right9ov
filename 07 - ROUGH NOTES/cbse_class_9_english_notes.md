@@ -242,7 +242,7 @@ This chapter is an extract from Dr. A.P.J. Abdul Kalam's autobiography, describi
 The chapter emphasizes **communal harmony** and the **power of upbringing**. It shows how a child's character is shaped by their parents, teachers, and friends. It advocates for religious tolerance and the breaking of social barriers (caste and religion). It also highlights the importance of allowing children to pursue their dreams, even if it means leaving home.
 
 ---
-# The Snake and 
+# **The Snake and the Mirror^**
 ---
 
 # **Reach for the Top**
