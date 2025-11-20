@@ -799,11 +799,7 @@ Here, you'll find reasons why you'd never work together and make her argue with 
 
 People have an innate need to fill gaps in social space. Like we talked about earlier, she will take up the void or space you create. When you deliberately create a void in the conversation, it causes her to feel yet another sense of loss. She will naturally feel a need to get you back into the conversation by means of pulling you closer, talking louder, or making more overt passes at you.
 
-In this step, she already wants to be with you. Just by sheer presence alone, she is letting you know she wants you to stick around. When you ask her unique questions about
-
----
-
-herself, she will want to respond with enthusiasm. As soon as you respond with equal excitement about her answer, she will rejoice inside that you guys have something in common that both of you are excited about. As soon as you express excitement in her answer, you will execute a quick shot of frustration in the realization that you are starting to feel attracted to her. She will pursue you even harder now. The more she sees you acting confused and irritated that you feel attraction for her, the more she will try to bring it out of you.
+In this step, she already wants to be with you. Just by sheer presence alone, she is letting you know she wants you to stick around. When you ask her unique questions about herself, she will want to respond with enthusiasm. As soon as you respond with equal excitement about her answer, she will rejoice inside that you guys have something in common that both of you are excited about. As soon as you express excitement in her answer, you will execute a quick shot of frustration in the realization that you are starting to feel attracted to her. She will pursue you even harder now. The more she sees you acting confused and irritated that you feel attraction for her, the more she will try to bring it out of you.
 
 This is the beginning of the important personality-demonstration phase.
 
@@ -870,11 +866,7 @@ This is where the process of the real cat and mouse game begins. Women are extre
 
 Obviously, you aren't in the club anymore. By now, you should be in a living room or someplace where a bedroom is only a few steps away.
 
-The most important thing to remember is this: Do NOT let her be
-
----
-
-member is this: Do NOT let her be the one to resist you. You must be the one to kiss her, gently grab the back of her hair and pull a little bit, look her right in the eye and tell her, "We need to slow down. I'm loving this too much." Until today, women were always resisting you. Not anymore.
+The most important thing to remember is this: Do NOT let her be member is this: Do NOT let her be the one to resist you. You must be the one to kiss her, gently grab the back of her hair and pull a little bit, look her right in the eye and tell her, "We need to slow down. I'm loving this too much." Until today, women were always resisting you. Not anymore.
 
 You can laugh now. It feels good, doesn't it?
 
@@ -882,13 +874,7 @@ Once you both get back to your house, tell her she can only stay for a second, a
 
 Okay, back to business. When you get back to your house, her house, or wherever you go, make sure you keep backing off and resisting her every time you kiss her. You can initiate the kiss, but you MUST be the one to say, "Hold on."
 
-In this phase, you are basically doing everything that women usually do. The only difference is that you are beating them to the punch. Keep progressing with the touch hierarchy, but back off for a minute, then
-
----
-
-THE PASSPORT
-
-re-initiate and continue. Keep this process active all night to build anticipation: advance, advance, and back off.
+In this phase, you are basically doing everything that women usually do. The only difference is that you are beating them to the punch. Keep progressing with the touch hierarchy, but back off for a minute, then re-initiate and continue. Keep this process active all night to build anticipation: advance, advance, and back off.
 
 SEDUCTION TOUCH HIERARCHY
 
@@ -936,13 +922,8 @@ There are about six million ways to screw up an interaction with a wingman. Use 
 2. If you or your wingman starts talking, even if you're interrupting the girls, turn to your wingman and LISTEN TO HIM. Your wingman should have tons more value and status to you than the girls. Most idiots are so excitedthat they are talking to girls that they will ignore their wingman and keep talking to the girls. STOP IT! Your wing is more important than ANY woman in the bar, and if he wants to talk over the girls or interrupt them, you must behave as if he's the only one speaking.
 3. Brag about your wingman, but don't overdo it. As soon as he looks away or you have a second to speak to the girl he is going for, brag about him. "This guy is my best friend. He is the coolest guy in the world. Do you know who he is?" Building him up like a celebrity is something that will boost both of your status.
 4. When you and your wing are not engaged in conversation with women, keep a solid, funny, excited conversation. Do not look around the bar for more interesting things or hot women. Your wing should be your focus point and whoever is speaking between the two of you should hold the attention of the other. When you look around the club/bar while your wing is talking, it kills his status. It tells everyone that he's not important enough to hold your attention, and it lowers your own status level as well.
-
----
-
 5. Keep your wingman in the know. He should be informed of all of the lines you will use, the routines you have, and the methods you will use. The wingman will laugh at your jokes, assist you with games, and help you with stalls in the conversations.
-
 6. The wingman is your savior, attraction mentor, and friend. He holds all of your cards and you should hold all of his. When you go into a group or make an approach, the wingman should be there to critique your body language tonality and the women's reactions. He should be able to identify your problem areas, help you work them out, and vice versa.
-
 7. Have a signal when you want your wingman to help you or get you out of a group that you don't want to talk to anymore.
 
 Dos and Don'ts:
@@ -964,8 +945,6 @@ Don't- Use words like "yeah," "you know?" "right?" and "you see?"
 Do- End your sentences where they should end. These words convey that you need confirmation from the other person to validate what you are saying. When you are confident, no one else needs to verify anything you say. You will need no confirmation or validation from anyone.
 
 Don't- Fidget your hands or feet. Do- Keep still until you are ready to move. Fidgeting and fast movements indicate nervousness, anxiety, and worst of all, fear. Move your body in a fluid way, as if you were in a tub of jelly.
-
----
 
 Don't - Brag about yourself...EVER!
 Do- Talk up other people, and tell funny stories about yourself. Bragging only communicates one thing: You want people to think you are smart, cool, or whatever because you say so, not because you actually are. If you are all those things, they will show through.
