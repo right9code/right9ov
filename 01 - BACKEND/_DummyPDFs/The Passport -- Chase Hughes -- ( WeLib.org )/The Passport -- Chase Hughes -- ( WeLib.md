@@ -183,13 +183,7 @@ Prepare for launch...
 
 # INTELLIGENCE BRIEFING 
 
-Meet Bob. Bob likes women. He would eventually like to have an awesome relationship with a gorgeous, intelligent, mature, and caring woman. He sees women every day that he would like to date, but does nothing about it. He might stand near them, say "Hi," or compliment them on occasion, but nothing ever happens for him. When he went on dates in the past, he tried everything he read about in the dating books and men's magazine columns: buying flowers, gifts, dinners, lots of compliments, asking questions about her all night long to keep the conversation going. He tried to show them how successful and cool he is by talking about his life, his job, and his desires. Women walk all over him,
-
----
-
-# CHASE HUGHES 
-
-tell him they would be better off as friends, and basically just don't feel that strong sense of attraction to him.
+Meet Bob. Bob likes women. He would eventually like to have an awesome relationship with a gorgeous, intelligent, mature, and caring woman. He sees women every day that he would like to date, but does nothing about it. He might stand near them, say "Hi," or compliment them on occasion, but nothing ever happens for him. When he went on dates in the past, he tried everything he read about in the dating books and men's magazine columns: buying flowers, gifts, dinners, lots of compliments, asking questions about her all night long to keep the conversation going. He tried to show them how successful and cool he is by talking about his life, his job, and his desires. Women walk all over him,tell him they would be better off as friends, and basically just don't feel that strong sense of attraction to him.
 
 His friends and family tell him that the right one will come along soon. That he just has to be "himself" and it will happen naturally...but nothing happens. He sees ugly-looking guys with some of the most gorgeous women he's ever seen and he resents them for it. It's causing problems at work and it's making him start to wonder what the hell those guys have that he doesn't.
 
@@ -205,23 +199,11 @@ from women. As Bruce goes to the gym, his office, the grocery store, and back to
 
 Guys come to me and tell me they might never get a chance to be able to choose women rather than be chosen by women. Maybe because they think they are fat, bald, short, tall, ugly, too nice, have bad teeth, or whatever. Nothing could be further from the truth. When those guys are able to kiss the most beautiful and perfect woman they've ever seen after five minutes of conversation with them, they change their mind quickly. Looks, as you will soon find out, don't matter.
 
-Having power and choice with women begins and ends with you, not her. Most men, because they are visually aroused and attracted to women, think that women will natu-
-
----
-
-# CHASE HUGHES 
-
-rally be the same way. While this is mildly true for the first few seconds of interaction, emotions are what control women's behavior and attraction, not looks. That's why women buy romance novels, and men buy porn.
+Having power and choice with women begins and ends with you, not her. Most men, because they are visually aroused and attracted to women, think that women will naturally be the same way. While this is mildly true for the first few seconds of interaction, emotions are what control women's behavior and attraction, not looks. That's why women buy romance novels, and men buy porn.
 
 When a woman gets approached five times a day for so many years, there's an automatic "bitch" reaction that she puts up to deal with guys. Can you imagine if she dated every single guy who approached her? She would be pretty busy. What will you do to show her you're different? What makes you the exception?
 
-When you use the Passport, she will immediately realize she's dealing with a man on a whole different level than anyone she's ever encountered. You will be able to immediately establish attraction, build lust, and make her want to be with you. Think it can't be done? Think again. Anyone can do it as long as they are committed to the change. This book will not change you; it can only show you the door that you need to walk through. Simply reading the words will improve your success with women, but the exercises, techniques, and methods are here for you to use. Use them. That is what will make a drastic change in your success.
-
----
-
-# THE PASSPORT 
-
-To master women and dating, you need to commit to spending some time and effort on making yourself better. Use the transformation process; it has worked for many, many men, and it can work for you. The failures, successes, and triumphs of over a hundred men for six years are in these pages. This book was designed and written to be the end-all of seduction, dating, and relationship books. You won't ever need anything else. Let's start with a few very simple explanations of who women really are.
+When you use the Passport, she will immediately realize she's dealing with a man on a whole different level than anyone she's ever encountered. You will be able to immediately establish attraction, build lust, and make her want to be with you. Think it can't be done? Think again. Anyone can do it as long as they are committed to the change. This book will not change you; it can only show you the door that you need to walk through. Simply reading the words will improve your success with women, but the exercises, techniques, and methods are here for you to use. Use them. That is what will make a drastic change in your success.To master women and dating, you need to commit to spending some time and effort on making yourself better. Use the transformation process; it has worked for many, many men, and it can work for you. The failures, successes, and triumphs of over a hundred men for six years are in these pages. This book was designed and written to be the end-all of seduction, dating, and relationship books. You won't ever need anything else. Let's start with a few very simple explanations of who women really are.
 
 ## FEMALE PSYCHOLOGY (DEBUNKED)
 
@@ -237,48 +219,24 @@ A beautiful woman, on average, will be approached, asked out, whistled at, stare
 
 WE WILL MAKE HER YOUR GIRLFRIEND.
 
-It's funny how the same behaviors that most men think are the things they are doing right in a relationship are actually completely wrong: calling women all
-
----
-
-# THE PASSPORT 
-
-the time, buying lots of gifts, letting her take the lead, forcing her to take the lead, being her personal assistant, telling her how much you love her all the time, and letting her make the decisions on where to go and what to do. These are the most unattractive behaviors you can have, and they KILL attraction. Do I have your attention yet?
+It's funny how the same behaviors that most men think are the things they are doing right in a relationship are actually completely wrong: calling women allthe time, buying lots of gifts, letting her take the lead, forcing her to take the lead, being her personal assistant, telling her how much you love her all the time, and letting her make the decisions on where to go and what to do. These are the most unattractive behaviors you can have, and they KILL attraction. Do I have your attention yet?
 
 Women basically RESPOND to two things: social status and the reversal of traditional roles of pursuit, wherein the man chases the woman.
 
 The girls you think are totally innocent and virtuous, if put under the right emotional circumstances, might sleep with a man on the first night, leave their boyfriends for some guy in a bar, or even risk their marriage to spend one night with a guy. Is this some random guy? No. He knows women, and he knows himself. If these women wouldn't sleep with him, they would most definitely feel a strong sense of attraction and arousal in his presence. These men understand women's emotional states, and are able to control and dominate them.
 "But my girlfriend wouldn't do that!" Famous last words, my friend...
 
-This is a guy who can turn her on, make her emotional, make her
-
----
-
-# CHASE HUGHES 
-
-feel protected, threatened, excited, aroused, nervous, comfortable, and submissive at the same time. He's what you will be soon.
+This is a guy who can turn her on, make her emotional, make herfeel protected, threatened, excited, aroused, nervous, comfortable, and submissive at the same time. He's what you will be soon.
 
 Almost all women have felt it before. It's a feeling in their stomach, and they say it just keeps getting warmer and their body feels totally saturated with arousal hormones, culminating in an almost irresistible urge to "be with" the guy in front of them.
 
 Women are very emotional beings. Not only that, they have feelings about feelings about feelings. Confused yet? Not for long, I promise. Their thoughts, actions, beliefs, desires, passions, fantasies, and daydreams are driven by emotions. What if you had the power to GIVE a woman whatever emotions you wanted? You will. Go ahead and hug yourself now...
 
-Ask any woman what she looks for in a man, and you'll be offered a list of a hundred qualities that they like: being funny, smart, compassionate, romantic, great with kids, educated, wealthy, successful, and being a really good listener are a few. So most men try to have all of these qualities women like. The problem is this: What a woman likes is not the same thing she will respond to emotionally. Why do men who have all these great
-
----
-
-# THE PASSPORT 
-
-traits keep getting rejected, dumped, and walked on by women? Simple; most women don't fully understand what makes their own attraction and emotional doors open up. They will respond to something completely different than what they say that they like.
+Ask any woman what she looks for in a man, and you'll be offered a list of a hundred qualities that they like: being funny, smart, compassionate, romantic, great with kids, educated, wealthy, successful, and being a really good listener are a few. So most men try to have all of these qualities women like. The problem is this: What a woman likes is not the same thing she will respond to emotionally. Why do men who have all these greattraits keep getting rejected, dumped, and walked on by women? Simple; most women don't fully understand what makes their own attraction and emotional doors open up. They will respond to something completely different than what they say that they like.
 
 What makes the same woman who says she wants a nice, funny, and loving guy dump that same guy for a jerk who doesn't treat her well at all? She doesn't really know either. She simply responded to something that made her feel good. It's not her fault. It's nature and biology at work. Women respond emotionally and sexually to social status and leadership. These qualities together create a high-octane mixture of attraction and arousal hormones. Let me show you why.
 
-About a bajillion years ago, if a woman mated with the leader of any given society, her chances of survival and the survival of her offspring were drastically improved. Just because we drink three-dollar bottled water, drive SUVs, have wireless MP3 players and text messaging does not make us immune to biology. Mating with the group leader or the alpha male made it possible for her and her offspring to survive, be well fed, and for them to live longer by way of
-
----
-
-# CHASE HUGHES 
-
-protection. It was not ever something they had to think about; it was programmed through thousands of years of evolution that predates our species. Any animal that mates with their pack leader has a better chance of being protected and having their offspring better provided for. Wolves, for instance, will only allow the pack leader to mate with the females of the group, thereby ensuring the genetic quality of future generations to come. Wolves did not sit down at a table and decide this; it is just how nature works. The females will always try to mate with the males who are leaders of their group. If they don't, they could face death, starvation, and the sacrifice of their offspring.
+About a bajillion years ago, if a woman mated with the leader of any given society, her chances of survival and the survival of her offspring were drastically improved. Just because we drink three-dollar bottled water, drive SUVs, have wireless MP3 players and text messaging does not make us immune to biology. Mating with the group leader or the alpha male made it possible for her and her offspring to survive, be well fed, and for them to live longer by way ofprotection. It was not ever something they had to think about; it was programmed through thousands of years of evolution that predates our species. Any animal that mates with their pack leader has a better chance of being protected and having their offspring better provided for. Wolves, for instance, will only allow the pack leader to mate with the females of the group, thereby ensuring the genetic quality of future generations to come. Wolves did not sit down at a table and decide this; it is just how nature works. The females will always try to mate with the males who are leaders of their group. If they don't, they could face death, starvation, and the sacrifice of their offspring.
 
 In high school, the popular guys and the football players were always the ones dating all of the hot girls, weren't they? Most of them, I'm sure, didn't even have all the looks and money. This is called status response: a woman responding sexually or emotionally to a guy with high status. Rock stars and celebrities have the same effect of status response. Social status is a biological indicator of leadership, a primal attraction drive in women. The same principle is applied when the popular kid in school would say
 
@@ -290,13 +248,7 @@ something and everyone would laugh, even if it was not funny at all.
 
 When you buy a beer for a woman, give her flowers, gifts, and lots of compliments, and call her all the time, you are putting her in the lead, forcing her to take a dominant role, the man's role in the relationship. Letting her know she has more status than you do. This is bad, cowboy. Bad. Although women will take the lead if they have to in a relationship, very few are able to feel a gut level attraction to their mate if they are in charge of the relationship. In any sexually charged relationship, polarity must exist to create balance and attraction, a masculine and a feminine; a male and a female must have roles.
 
-Women will ignore their husbands if a celebrity comes over and starts talking to them. There is a gravitational pull of women toward status. Even a husband of ten years will be ignored if his wife feels like the celebrity in front of her has higher status than her husband does. A girl's sexual desires will always gravitate toward a greater being that possesses leadership, dominance, social status, charisma, humor, and confidence. They will always point, like a compass, toward status and leadership.
-
----
-
-# CHASE HUGHES 
-
-When people say, "Women like jerks," what does that mean? When a woman meets a man who dis. plays very solid, unshakeable con. fidence, dominance, and rude behav. ior, she may still feel attraction because these qualities can be at. tributed to leadership and high. status behavior. Women stay in abusive relationships every day, but there's never any confusion as to who is in charge in the relation. ship. I am by no means saying that women need to be abused, and if you truly believe they do, please throw this book into the fireplace. I'm saying that women, even when in an abusive relationship, still feel the root level attraction we're talking about here. They still feel the presence of confidence, leadership (in a horrible way,) and the alignment with someone who believes he has higher status than she does. It's a man who takes charge, regardless of his
+Women will ignore their husbands if a celebrity comes over and starts talking to them. There is a gravitational pull of women toward status. Even a husband of ten years will be ignored if his wife feels like the celebrity in front of her has higher status than her husband does. A girl's sexual desires will always gravitate toward a greater being that possesses leadership, dominance, social status, charisma, humor, and confidence. They will always point, like a compass, toward status and leadership.When people say, "Women like jerks," what does that mean? When a woman meets a man who dis. plays very solid, unshakeable con. fidence, dominance, and rude behav. ior, she may still feel attraction because these qualities can be at. tributed to leadership and high. status behavior. Women stay in abusive relationships every day, but there's never any confusion as to who is in charge in the relation. ship. I am by no means saying that women need to be abused, and if you truly believe they do, please throw this book into the fireplace. I'm saying that women, even when in an abusive relationship, still feel the root level attraction we're talking about here. They still feel the presence of confidence, leadership (in a horrible way,) and the alignment with someone who believes he has higher status than she does. It's a man who takes charge, regardless of his
 
 Women will cheat on their husbands, leave great relationships, break off plans with their friends, ditch their boyfriends, and skip work to be with a truly authentic high-status guy who can turn all of her attraction knobs. It's emotions that take the wheel when this happens, and it's extremely difficult for women to ignore these feelings.
 
@@ -308,13 +260,7 @@ Sexual attraction is only a response. It is not ever a decision a woman makes. R
 
 Did you know that romance novels account for nearly 50% of books sold in the United States. It's true. If you pick one off the shelf at random, they will mostly agree on one common theme: a woman surrendering to something she feels is "greater than herself"; she's the only woman who can calm down and tame the wild horse, the heroine surrendering to the masculine alpha male who will never be tamed...until he meets her. The number one fantasy during all of my candid interviews was confessed to be a strong, dominant, and aggressive male. One woman said it made her "he's having my baby" light come on immediately.
 
-Women feel attraction much differently than do men: Women feel attraction in the beginning as more of a need to be with a man rather
-
----
-
-# CHASE HUGHES 
-
-than to have sex with him. It's not a choice, a decision, or a logical conclusion she makes. It just happens as a result of who YOU are. She feels the need to be with you regardless of her age, marital status, sexual preference, or even her own beliefs about men. It is something she cannot avoid. You will never be able to give her a speech about why she should like you, why you are cool, or how she should fall for you instead of the lead singer of that bar band from last Friday. When women get highly attracted to a man, emotions start to run the show, and they will do all kinds of seemingly crazy and wild things you never thought possible. Women will do all the things that average guys do when they are really into a girl. Buying gifts, calling a lot, doing favors etc. Once the attraction tables are turned, you have TAKEN the role of the hunted and she has naturally assumed the only position left: the chasing role. This is called "Status Transfer," and most of the seduction and dating process will revolve around this concept. No matter how much a woman is attracted to you, it will multiply exponentially if she has to prove herself to you before you accept her. This gives women validation.
+Women feel attraction much differently than do men: Women feel attraction in the beginning as more of a need to be with a man ratherthan to have sex with him. It's not a choice, a decision, or a logical conclusion she makes. It just happens as a result of who YOU are. She feels the need to be with you regardless of her age, marital status, sexual preference, or even her own beliefs about men. It is something she cannot avoid. You will never be able to give her a speech about why she should like you, why you are cool, or how she should fall for you instead of the lead singer of that bar band from last Friday. When women get highly attracted to a man, emotions start to run the show, and they will do all kinds of seemingly crazy and wild things you never thought possible. Women will do all the things that average guys do when they are really into a girl. Buying gifts, calling a lot, doing favors etc. Once the attraction tables are turned, you have TAKEN the role of the hunted and she has naturally assumed the only position left: the chasing role. This is called "Status Transfer," and most of the seduction and dating process will revolve around this concept. No matter how much a woman is attracted to you, it will multiply exponentially if she has to prove herself to you before you accept her. This gives women validation.
 
 ---
 
@@ -324,13 +270,7 @@ When a girl is with her friends, she will behave differently than if she had ano
 
 Women have a unique sense of guy radar. They are able to tell almost instantly if a guy is the "real deal" or not. Before you even begin speaking, women are able to tell if you are confident or not. But sometimes, confidence can be faked and women don't want to waste time talking to a guy who is not authentic. This is why women unknowingly developed a series of trials for men.
 
-As soon as a man begins displaying alpha-male qualities, girls will start to feel a tinge of natural attraction. As soon as they feel this, their subconscious will begin to worry that you might not be the real deal. She needs to know you're not just a wussy who acts confident for a few seconds. There
-
----
-
-# CHASE HUGHES 
-
-are a few things she's looking for immediately - signs that you have your life together enough to be completely secure in whatever you say and do and are selective, picky, and discerning when it comes to women.
+As soon as a man begins displaying alpha-male qualities, girls will start to feel a tinge of natural attraction. As soon as they feel this, their subconscious will begin to worry that you might not be the real deal. She needs to know you're not just a wussy who acts confident for a few seconds. Thereare a few things she's looking for immediately - signs that you have your life together enough to be completely secure in whatever you say and do and are selective, picky, and discerning when it comes to women.
 
 Women need to be able to tell immediately if you are going to take the lead in the interaction, and they will make sure they know for sure within the first five minutes of meeting you. You'll spot this immediately when you start approaching women. Women will tease you, ask you to do crazy favors, make fun of your shirt, ask you what kind of job you have, and basically try to pull the confidence rug out from under you to see how you react. When a woman realizes that your beliefs in yourself are about a thousand times stronger than hers, she will feel embarrassed for having tried to analyze you. This is not something women do deliberately; in fact, most women don't even realize they do it.
 
@@ -338,13 +278,7 @@ Women need to be able to tell immediately if you are going to take the lead in t
 
 MYTH: These techniques are manipulative.
 
-TRUTH: What do you think buying
-
----
-
-# THE PASSPORT 
-
-gifts, flowers, paying for dinners, complimenting her all the time, and offering to do outrageous favors is? (And you might not even be the only guy she's doing this to.)
+TRUTH: What do you think buyinggifts, flowers, paying for dinners, complimenting her all the time, and offering to do outrageous favors is? (And you might not even be the only guy she's doing this to.)
 
 MYTH: Women today want an emotional and sensitive man.
 
@@ -354,13 +288,7 @@ MYTH: Women enjoy a lot of attention and affection.
 
 TRUTH: This is true if you are in a relationship and it is not overdone. Occasional gifts for special occasions and random times are allowed.
 
-MYTH: You should call her all the time.
-
----
-
-# CHASE HUGHES 
-
-TRUTH: WOMEN need a man who will be okay with not talking to her every second of the day. If you are independent, it shows that you have your own life to live and are able to continue it without needing to talk to her 24-7. If you are genuinely busy and focused on yourself and your life, this trait will come naturally.
+MYTH: You should call her all the time.TRUTH: WOMEN need a man who will be okay with not talking to her every second of the day. If you are independent, it shows that you have your own life to live and are able to continue it without needing to talk to her 24-7. If you are genuinely busy and focused on yourself and your life, this trait will come naturally.
 
 MYTH: Women don't like sex.
 TRUTH: Women like sex as much as men do, if not more. Women need to convey this attitude so only the real men who know women will be able to walk through the firewall. It is a game; she's not a bitch.
@@ -403,13 +331,7 @@ TRUTH: Feminism has played a nasty role in converting many men into soft males. 
 
 MYTH: My girlfriend loves to tell me what to do.
 
-TRUTH: She most certainly does not. When a man is too soft to take the lead, the other person must step up
-
----
-
-# CHASE HUGHES 
-
-and do it. It is not something she wanted to happen, but it did. Women do not like to tell a grown man what to do. You are her protector, provider and her refuge from her emotions. Some men will ask a woman where she would like to go, even after she's told them to make the decision five times. The
+TRUTH: She most certainly does not. When a man is too soft to take the lead, the other person must step upand do it. It is not something she wanted to happen, but it did. Women do not like to tell a grown man what to do. You are her protector, provider and her refuge from her emotions. Some men will ask a woman where she would like to go, even after she's told them to make the decision five times. The
 
 MYTH: She might not like me if I don't tell her what I do for a living.
 
@@ -439,47 +361,23 @@ like guys to do or the newest guide to romantic restaurants are all articles des
 
 MYTH: Women are innocent, and they don't manipulate men.
 
-TRUTH: Women spend more money on makeup, jewelry, shoes, outfits, and implants than you would EVER spend on clothes, cologne, or anything you might think you need to attract women. Every single woman I've ever interviewed told me they had special tricks and tactics they used to make men chase them and keep their interest level up. It's a cruel world, and unless you are dating a nun, I'd advise you to keep your cool and don't automatically put halos onto women until you get to know them first. The hottest woman you might ever see could be the worst and most psy-
-
----
-
-# THE PASSPORT 
-
-chotic, bitchy girlfriend you'll ever have. Just knowing this will help your game immensely.
+TRUTH: Women spend more money on makeup, jewelry, shoes, outfits, and implants than you would EVER spend on clothes, cologne, or anything you might think you need to attract women. Every single woman I've ever interviewed told me they had special tricks and tactics they used to make men chase them and keep their interest level up. It's a cruel world, and unless you are dating a nun, I'd advise you to keep your cool and don't automatically put halos onto women until you get to know them first. The hottest woman you might ever see could be the worst and most psy-chotic, bitchy girlfriend you'll ever have. Just knowing this will help your game immensely.
 
 ## THE ALPHA MALE GENTLEMAN (AMG)
 
 Society has changed the face of manhood. It's not automatic anymore, it must be achieved, and only some get there. With feminism, WWII, the American Revolution, deadbeat dads, and men's movement groups on the rise, real men have almost become extinct. Ask anyone you know what the definition of manhood is. No one knows today. The AMG is what people mean when they say the words "real man." How does one become a man? This chapter is about that very concept. The theories in here will all be on your transformation timeline to maximize the adaptation to your own lifestyle. Even your breakfast will taste better once you've embodied the AMG.
 
 Marcus Aurelius described the ultimate man when speaking about Maximus in The Emperor's Handbook:
-"Maximus set an example of self-mastery, steadiness of purpose, and good cheer that no circumstance, not even illness could extinguish. He combined in beautiful measure
-
----
-
-# CHASE HUGHES 
-
-gravity with charm, and he did whatever needed to be done without making a fuss. Everyone believed that what he said was what he thought and that he never acted with an intention to do harm or give of fense. Nothing surprised or frightened him, and he never seemed to be in a hurry or slow to accomplish a task. He was neither intimidated and embarrassed on the one hand, nor aggressive and suspicious on the other. So giving, forgiving, and loyal was he by nature that he appeared to be a man whose virtues were inborn rather than acquired. It is unimaginable that anyone ever felt inferior or superior around him, perhaps as a result of his pleasing sense of humor..."
+"Maximus set an example of self-mastery, steadiness of purpose, and good cheer that no circumstance, not even illness could extinguish. He combined in beautiful measuregravity with charm, and he did whatever needed to be done without making a fuss. Everyone believed that what he said was what he thought and that he never acted with an intention to do harm or give of fense. Nothing surprised or frightened him, and he never seemed to be in a hurry or slow to accomplish a task. He was neither intimidated and embarrassed on the one hand, nor aggressive and suspicious on the other. So giving, forgiving, and loyal was he by nature that he appeared to be a man whose virtues were inborn rather than acquired. It is unimaginable that anyone ever felt inferior or superior around him, perhaps as a result of his pleasing sense of humor..."
 The "Alpha Male Gentleman" is the title we will use to describe the man who is the ultimate attraction magnet for women. He's the man who women will ditch their friends, their plans, and even their relationships to be with. He's double-o-seven...on crack. He's who you will be when you master this book. Guaranteed.
 
-Women sit up straighter when he enters a room. When he looks away, they fix their hair, lick their
-
----
-
-# THE PASSPORT 
-
-lips, and posture themselves to reveal the sexier parts of their bodies. He's the freakin' man...and while he knows it, he doesn't ever make a big show of it.
+Women sit up straighter when he enters a room. When he looks away, they fix their hair, lick theirlips, and posture themselves to reveal the sexier parts of their bodies. He's the freakin' man...and while he knows it, he doesn't ever make a big show of it.
 
 We see it everywhere: women with ugly guys. The most gorgeous woman you've ever seen will be making out with some grungy-looking guy holding a skateboard. A French model that leaves the bar with a guy who has his bug exterminator truck parked outside. It happens every day, and there's a code to it all. This code is the 5-2-6 method. Each of these men have either been professionally trained, or they have a very natural set of skills that allow them to dominate a woman's experience of reality and turn all of her attraction control knobs to full volume.
 
 Looks don't matter if you know what you're doing. This took me years to realize. And I want you to learn from this mistake I made in thinking I needed to get the most expensive and perfectly formulated wardrobe, a chiseled body, and perfect teeth before a woman would notice me. It's not true. Read it out loud to yourself. It will save you lots of money and confusion.
 
-The concept of the AMG (Alpha Male Gentleman) can be broken down into two behavior qualities that
-
----
-
-# CHASE HUGHES 
-
-affect attraction at a fundamental level: the hunter and the leader. These will be the two mountains I will help you climb, but it's easy if you know the way.
+The concept of the AMG (Alpha Male Gentleman) can be broken down into two behavior qualities thataffect attraction at a fundamental level: the hunter and the leader. These will be the two mountains I will help you climb, but it's easy if you know the way.
 
 Completely eliminating passivity is the one and ONLY path to being a "real man." Passivity is simply allowing things to happen to you as they naturally would. Just allowing everything around you to operate with no influence from you. Basically, it means not taking charge of anything around you. An AMG controls his surroundings, makes all of his plans, and knows that he is causing his future to be rewritten every minute. When women select men, leaders, deciders, and choosers get picked first.
 
@@ -493,49 +391,19 @@ women, you need to be totally comfortable with the idea of not needing women in 
 
 The guys who don’t know how to enjoy their life and still be responsible are a bore to be around. No one is going to have fun when someone is too boring or depressed to be interesting. This is a huge turn-off to women, and you must banish it from your life. When you look depressed, sad, or just plain pissed off about something, people will avoid you, especially women. Women want to latch on to someone’s already good mood because they know that their emotions are unpredictable and that a man who is always in a good mood will be able to stabilize them.
 
-Independence is another indispensable trait of the AMG. Successful AMGs can function fully on their own, and do not need a woman or a babysitter to tell them what their responsibilities are in life. A man who is independent is guaran-
+Independence is another indispensable trait of the AMG. Successful AMGs can function fully on their own, and do not need a woman or a babysitter to tell them what their responsibilities are in life. A man who is independent is guaran-teed to bring success into his life. This is a huge bonus light for women. Once a woman knows you are completely in charge of yourself and you know how to operate your life in a way that brings you the most happiness and joy, without any help, it lets them know you won't be needing them for stability, emotional support, financial support, or companionship. Start doing things on your own. Make sure you are always one step ahead of whatever is going on and plan for it. Be the guy who always knows what everyone should do next. You must function on your own before you can allow a woman in your life, or she will either try to take charge or leave you, because she doesn't want to take care of a man. She should need support, not you.
 
----
+True AMGs are decisive in their lives. They are always in tune with their surroundings and themselves. Being in tune allows them to have confidence in themselves because they know what is coming next. They are able to predict what is coming up the road, and make decisions for the group. He navigates for his friends and always takes charge when everyone else is wondering what is going on. They are more aware of what is going on around them, and they don't need to brag about it.AMGs are typically unavailable when it comes to women. Their time is scarce because they are too busy taking care of themselves and spending time with friends. This is supply and demand at work here. If your time for women is scarce, the demand for your time and affection increases. Remember, addictions form when a drug is not present. No one gets addicted to a drug while they are using it. It is the desire to use it again once the effects have worn off that makes people come back. Live your life. Let her fight for time with you. She will appreciate the feeling that she has earned it when you decide you have time for her. Obviously, this CAN be overdone, so make sure to use this in moderation. This technique and how to use it is in the toolkit.
 
-# CHASE HUGHES 
+The AMG sets an example for other men to follow in humility. He is never one to brag about himself. Don't ever do this. The urge to brag when women talk to you will be almost uncontrollable at first, but you must resist. Women will ask you questions to try to get you to brag about yourself. This is a test. Don't do it. If they ask where you work, tell them you clean off beds at a tanning salon; tell them you are a lion tamer. Just don't give them the real job until you've gotten to know them better. If a womanstarts getting a little angry about it, this is also a test. Say, "I didn't think you were like that, but I guess I overestimated you guys. We can't have a conversation without discussing my employment?" If they insist on it, run away. You are either dealing with gold diggers or a psychopath.
 
-teed to bring success into his life. This is a huge bonus light for women. Once a woman knows you are completely in charge of yourself and you know how to operate your life in a way that brings you the most happiness and joy, without any help, it lets them know you won't be needing them for stability, emotional support, financial support, or companionship. Start doing things on your own. Make sure you are always one step ahead of whatever is going on and plan for it. Be the guy who always knows what everyone should do next. You must function on your own before you can allow a woman in your life, or she will either try to take charge or leave you, because she doesn't want to take care of a man. She should need support, not you.
-
-True AMGs are decisive in their lives. They are always in tune with their surroundings and themselves. Being in tune allows them to have confidence in themselves because they know what is coming next. They are able to predict what is coming up the road, and make decisions for the group. He navigates for his friends and always takes charge when everyone else is wondering what is going on. They are more aware of what is going on around them, and they don't need to brag about it.
-
----
-
-# THE PASSPORT 
-
-AMGs are typically unavailable when it comes to women. Their time is scarce because they are too busy taking care of themselves and spending time with friends. This is supply and demand at work here. If your time for women is scarce, the demand for your time and affection increases. Remember, addictions form when a drug is not present. No one gets addicted to a drug while they are using it. It is the desire to use it again once the effects have worn off that makes people come back. Live your life. Let her fight for time with you. She will appreciate the feeling that she has earned it when you decide you have time for her. Obviously, this CAN be overdone, so make sure to use this in moderation. This technique and how to use it is in the toolkit.
-
-The AMG sets an example for other men to follow in humility. He is never one to brag about himself. Don't ever do this. The urge to brag when women talk to you will be almost uncontrollable at first, but you must resist. Women will ask you questions to try to get you to brag about yourself. This is a test. Don't do it. If they ask where you work, tell them you clean off beds at a tanning salon; tell them you are a lion tamer. Just don't give them the real job until you've gotten to know them better. If a woman
-
----
-
-# CHASE HUGHES 
-
-starts getting a little angry about it, this is also a test. Say, "I didn't think you were like that, but I guess I overestimated you guys. We can't have a conversation without discussing my employment?" If they insist on it, run away. You are either dealing with gold diggers or a psychopath.
-
-There's no need to rush anything. One of the defining characteristics of the AMG, besides good posture, is slow and fluid body movement. Whether you are grabbing your drink, walking, shopping in a mall, talking to someone, or approaching women, you must keep your cool at all times. Rapid movements are a way that primates communicate fear and aggression. This is not you. Think double-o-seven. The movement of your body is the quickest and most accurate way a woman can judge you from across the room. Fast movements, jerky motion, and fidgeting can KILL your game and demolish attraction. Have you ever looked across a room and seen a group of people and instantly, somehow, you could tell who the leader of that group was? He's not wearing a sign on his head, so body language plays a very crucial role in meeting women. You'll notice now that the way the AMG stands will dictate and change the way the peo-
-
----
-
-# THE PASSPORT 
-
-ple around him stand. We'll cover this in the toolkit.
+There's no need to rush anything. One of the defining characteristics of the AMG, besides good posture, is slow and fluid body movement. Whether you are grabbing your drink, walking, shopping in a mall, talking to someone, or approaching women, you must keep your cool at all times. Rapid movements are a way that primates communicate fear and aggression. This is not you. Think double-o-seven. The movement of your body is the quickest and most accurate way a woman can judge you from across the room. Fast movements, jerky motion, and fidgeting can KILL your game and demolish attraction. Have you ever looked across a room and seen a group of people and instantly, somehow, you could tell who the leader of that group was? He's not wearing a sign on his head, so body language plays a very crucial role in meeting women. You'll notice now that the way the AMG stands will dictate and change the way the peo-ple around him stand. We'll cover this in the toolkit.
 
 One trait you'll always notice is that the AMG NEVER puts down or makes fun of other men. The leader of a pack never puts down lesser males. His job as the leader is to take care of them and make sure they don't get killed. The same concept applies to the AMG. You must be kind, but retain your personal boundaries. Here's a perfected list of the traits, behaviors, laws, and qualities of the AMG.
 ![img-4.jpeg](assets/The%20Passport%20--%20Chase%20Hughes%20--%20(%20WeLib.org%20)_img-4.jpeg)
 
 Why It All Works
-A scientist and psychologist named Abraham Maslow made an incredible observation in 1943. Maslow theorized that all humans must meet a set of basic or funda-
-
----
-
-# CHASE HUGHES 
-
-mental needs in order to pursue and fulfill greater ones. His model for this was named "Maslow's Hierarchy of Needs." The image here begins with the bottom of the pyramid, wherein the basic physiological needs of life must be met to reach the higher set of needs. These needs are food, water, digestion, breathing, and shelter. While each level has very broad definitions of what needs are to be met, I will concentrate on the needs on the hierarchy pertaining to seduction, interaction, and attraction.
+A scientist and psychologist named Abraham Maslow made an incredible observation in 1943. Maslow theorized that all humans must meet a set of basic or funda-mental needs in order to pursue and fulfill greater ones. His model for this was named "Maslow's Hierarchy of Needs." The image here begins with the bottom of the pyramid, wherein the basic physiological needs of life must be met to reach the higher set of needs. These needs are food, water, digestion, breathing, and shelter. While each level has very broad definitions of what needs are to be met, I will concentrate on the needs on the hierarchy pertaining to seduction, interaction, and attraction.
 
 The next level up is safety. Just like the previous level, the needs are applicable to all animals. Safety indicates the need to feel protection from threats, freedom to be comfortable, and especially emotional safety. When you walk up to a group in a bar, the girls are pretty sure that a bomb will not go off, no one will attack them, and they are free to relax. The only element that an AMG is concerned with in regards to safety is the setting of boundaries and limitations. When you initially display the traits of the AMG, the boundaries and limitations are an implied part of the interaction. When a woman senses that she's in the presence of a man with boundaries and limitations, she knows he
 
@@ -545,23 +413,11 @@ is stable and she has the SAFETY of knowing you are a man who won't blow up on h
 
 The next higher level are the needs of belonging and love—not the love that you see in Disney cartoons or chick flicks, but a need to feel needed, appreciated, and validated. When she realizes you are an AMG, she becomes attracted to you. She feels the need to be liked and appreciated by someone with higher status than her. This is the very essence of qualification. When you screen a girl with questions and validate her responses to them, she feels that there are very specific things about her that make her UNIQUE to you. This is the most crucial part of the seduction process.
 
-Esteem is next. Here, the process in the 5-2-6 method of validation takes place, and she feels a strong sense of achievement for making through all of your defenses. Once she knows you are really into her through validation
-
----
-
-# CHASE HUGHES 
-
-and qualification, she builds a little reputation to herself. She legitimizes that since she was able to win you over and make you like her that she is high status. This phase also includes a great deal of responsibility on her part. She develops, over the course of roughly about 45 minutes, a sense of responsibility and loyalty to you. It manifests itself when she feels a slightly stronger need to take care of you, nurture the ongoing conversation, and try to keep herself on point in order to win you over fully into a relationship.
+Esteem is next. Here, the process in the 5-2-6 method of validation takes place, and she feels a strong sense of achievement for making through all of your defenses. Once she knows you are really into her through validationand qualification, she builds a little reputation to herself. She legitimizes that since she was able to win you over and make you like her that she is high status. This phase also includes a great deal of responsibility on her part. She develops, over the course of roughly about 45 minutes, a sense of responsibility and loyalty to you. It manifests itself when she feels a slightly stronger need to take care of you, nurture the ongoing conversation, and try to keep herself on point in order to win you over fully into a relationship.
 
 Actualization is the full realization of the relationship. The beginning of sexual and emotional relationships makes women very nervous and excited in the face of being fulfilled sexually, emotionally, and physically by a man. When a woman sees a man's potential, she sizes up the potential of the relationship and sets mini goals for the relationship before anything has even happened. As she sets these expectations, she feels more and more validated and fulfilled as they are met or exceeded.
 
-Maslow's pyramid is not a method or a technique, but a reference to be understood prior to going out into the war zone of dating and women. It is the perfect example of
-
----
-
-# THE PASSPORT 
-
-what women go through to make decisions to start a relationship with a man. It can be applied to almost any interaction, and it is a severely underused tool in society today. Use it.
+Maslow's pyramid is not a method or a technique, but a reference to be understood prior to going out into the war zone of dating and women. It is the perfect example ofwhat women go through to make decisions to start a relationship with a man. It can be applied to almost any interaction, and it is a severely underused tool in society today. Use it.
 
 ## TRAINING
 
@@ -572,13 +428,7 @@ F-ocus: Hijacking her attention span-hyper focus
 I-nterest: Making her realize whom she's talking to
 V-alue: Giving her reasons to chase you
 E-motional hijacking: Taking control of her state
-T-akeaways: Expressing a little interest and finding flaws
-
----
-
-# CHASE HUGHES 
-
-W-illingness: Qualifying her
+T-akeaways: Expressing a little interest and finding flawsW-illingness: Qualifying her
 O-penness: Showing your "sensitive" side
 S-eduction: laying the groundwork for sex
 I-nteraction: demonstrating your interest beyond sex
@@ -599,23 +449,11 @@ to you. It will go down significantly in the beginning of the approach because y
 
 The second line represents her resistance to you. The way she feels about you makes her decide whether to open her doors to you or shut you down. As you progress on the model within the first few minutes of the interaction, her resistance will plummet. As you near sex, her fears of male abandonment and pregnancy will cause a huge spike in her resistance and sexual arousal. It is inside of every woman you'll ever meet. The only thing that will vary is the intensity.
 
-The third line on the model represents your social status in relation to hers. Notice as you approach that your value is significantly lower than hers. She's already put you into the chump basket just because you are approaching her. As you enforce your role as the pack leader, your value will continue to a point above hers and level off with hers during the connection-building phase of the 5-2-6 method.
-
----
-
-# CHASE HUGHES 
-
-The fourth line represents your openly displayed attraction to her. Even if she's gorgeous and her arouses you, she and her friends can never know until you've reached the W-illingness phase. You'll notice the line leveling off in the interaction phase, and then making a sharp drop before sex. This drop compensates and helps alleviate her fears and concerns that surround the act of sex. You'll learn to display nonsexual interest in her and show her that you are more comfortable than she is about not having sex at all. The line goes right back up and is in cooperation with the other lines on the model. As it climbs, her resistance goes back down and her attraction to you starts climbing with it.
+The third line on the model represents your social status in relation to hers. Notice as you approach that your value is significantly lower than hers. She's already put you into the chump basket just because you are approaching her. As you enforce your role as the pack leader, your value will continue to a point above hers and level off with hers during the connection-building phase of the 5-2-6 method.The fourth line represents your openly displayed attraction to her. Even if she's gorgeous and her arouses you, she and her friends can never know until you've reached the W-illingness phase. You'll notice the line leveling off in the interaction phase, and then making a sharp drop before sex. This drop compensates and helps alleviate her fears and concerns that surround the act of sex. You'll learn to display nonsexual interest in her and show her that you are more comfortable than she is about not having sex at all. The line goes right back up and is in cooperation with the other lines on the model. As it climbs, her resistance goes back down and her attraction to you starts climbing with it.
 
 The next line you'll notice is the steadily increasing line starting at the bottom. This represents the escalation of physical touch with a woman. If you've been talking to her for an hour and you haven't made physical contact yet, she will feel uncomfortable because she has not grown comfortable with the thought of openly and outwardly touching you and being relaxed while in contact with your body.
 
-When you first meet, you should shake hands, thumb wrestle etc. to build her comfort levels about be-
-
----
-
-# THE PASSPORT 
-
-ing touched by you. As the process progresses, the amount and intimacy of touch will gradually increase. Each step in the method is followed by examples of touching and physical contact that can and should be used within that step. Remember to keep talking while you hold her hand to distract her from objecting, and to ALWAYS break contact before she does. If you sense she might object, remove your hand immediately BEFORE she says anything. Just doing this simple thing can build a whole lot of trust with her.
+When you first meet, you should shake hands, thumb wrestle etc. to build her comfort levels about be-ing touched by you. As the process progresses, the amount and intimacy of touch will gradually increase. Each step in the method is followed by examples of touching and physical contact that can and should be used within that step. Remember to keep talking while you hold her hand to distract her from objecting, and to ALWAYS break contact before she does. If you sense she might object, remove your hand immediately BEFORE she says anything. Just doing this simple thing can build a whole lot of trust with her.
 
 My personal favorite line to look at is the last line. It makes a very sharp turn upward at the beginning of the interaction. This shows her attraction development throughout an interaction. As you approach, it's at rock bottom; she's thinking about getting rid of you until you open your mouth. As you do, the line begins a dramatic and obvious climb upward and continues to gradually rise throughout the interaction. The rapid drop represents her fears before sex.
 
@@ -633,13 +471,7 @@ Intimate touching involves embraces with elongated eye contact, caressing the sk
 
 Backing off is the hardest thing to do. It is a deliberate demonstration of disinterest, and it drives her crazy. Women THRIVE on anticipation and sexual tension.
 
-The model is meant to be the universal visual representation of the human mating process. It is possible to break and bend the rules of the method as long as its
-
----
-
-# THE PASSPORT 
-
-basic structure is followed. It's possible to have perfect skills and kiss a girl after 30 minutes instead of 15. I have seen guys blast through all of the steps in an hour and take a girl home almost immediately.
+The model is meant to be the universal visual representation of the human mating process. It is possible to break and bend the rules of the method as long as itsbasic structure is followed. It's possible to have perfect skills and kiss a girl after 30 minutes instead of 15. I have seen guys blast through all of the steps in an hour and take a girl home almost immediately.
 
 The entire 5-2-6 method cannot be fully completed in one place. It can be broken up over a few dates, or in one night. It is up to you. Don't try to have a deep conversation in an ear-shattering, noisy club. It's obviously time to go to a quieter place. On the same note, you aren't going to engage in a full-blown make-out session inside of a family restaurant. The final steps are for bedrooms and living rooms of someone's house.
 
@@ -662,13 +494,7 @@ When you assume the role of the attractive woman and begin treating her like mos
 Answer the following questions before you proceed:
 
 1. What do "perfect" and gorgeous women treat men like?
-2. What do incredibly hot women
-
----
-
-# THE PASSPORT 
-
-say to men who try to pursue them?
+2. What do incredibly hot womensay to men who try to pursue them?
 3. What things do hot women say and do to make men chase them?
 4. How does the average guy (you) feel when he is talking to a super-model-quality girl who seems almost flawless?
 
@@ -678,23 +504,11 @@ On the male side, where men look for thighs, breasts, beauty, and sexiness, wome
 
 There are more ways than I can count to meet women, and even more ways to screw it up. When you are in a bookstore, you cannot do the same things you would do in a bar or club. Here's a breakdown of locations and recommended styles to use. We'll go from the lowest environmental stimulus and work our way up.
 
-Coffee Shop: Coffee shops are great for meeting women. They have become the new clubs. When you are in a coffee shop, it's quiet, and women aren't in a club environment where their natural defenses are up against men. Here, you have two basic options: a direct approach,
-
----
-
-# CHASE HUGHES 
-
-wherein you will immediately tell her you like her and you want to get to know her but you have to go; and two, if she's with a friend, a more indirect approach like asking for a woman's opinion on something. Both will work to get you a number or email quickly. Another awesome approach question is to use a "relationship" question. We'll cover that in the approach guide.
+Coffee Shop: Coffee shops are great for meeting women. They have become the new clubs. When you are in a coffee shop, it's quiet, and women aren't in a club environment where their natural defenses are up against men. Here, you have two basic options: a direct approach,wherein you will immediately tell her you like her and you want to get to know her but you have to go; and two, if she's with a friend, a more indirect approach like asking for a woman's opinion on something. Both will work to get you a number or email quickly. Another awesome approach question is to use a "relationship" question. We'll cover that in the approach guide.
 
 Bookstore: Bookstores offer the luxury of always having something to talk about. You can grab a book on almost anything and use your imagination. Grab a book on dating, for instance, and use it to ask a question about your "friend," who just text-messaged you a question about his girlfriend. There's plenty of space to walk with her, and there's usually a coffee shop you can lead her to after about ten minutes of game. You will always, however, need to use the approach guide in the toolkit when you structure any kind of approach.
 
-Mall: Women flock to malls. Every woman there will have different things going on in her day that will affect her responsiveness to you, but with the high-status qualities you will soon have, it won't matter. If you have a girl by
-
----
-
-# THE PASSPORT 
-
-herself, it's best to use a very direct approach and get her number fast. If her friends are there, you'll have to butter up the defensive line before you can get a good number. This only takes a couple of minutes if done correctly. It's all in the toolkit. In the malls, just concentrate on having the "greatest day of your life" mentality. When you approach in a store, make her try funny stuff on, dare her to say weird things to the employees, and make fun of how much of a "good girl" she is. Keep it light, involved, and fun. There's no substitute quality for fun. Even if you're rich, smart, good-looking, and famous...fun is the key.
+Mall: Women flock to malls. Every woman there will have different things going on in her day that will affect her responsiveness to you, but with the high-status qualities you will soon have, it won't matter. If you have a girl byherself, it's best to use a very direct approach and get her number fast. If her friends are there, you'll have to butter up the defensive line before you can get a good number. This only takes a couple of minutes if done correctly. It's all in the toolkit. In the malls, just concentrate on having the "greatest day of your life" mentality. When you approach in a store, make her try funny stuff on, dare her to say weird things to the employees, and make fun of how much of a "good girl" she is. Keep it light, involved, and fun. There's no substitute quality for fun. Even if you're rich, smart, good-looking, and famous...fun is the key.
 
 Street: On the street, women are thinking about errands, family, friends, and their own lives. When you approach on the street, always ask a relationship question. This usually ties into their already-inprogress thought process and makes it easier for a quick scribbling of the number or email. The street is a little harder because if you stop someone walking the opposite direction, they start to become concerned about their schedule. If the girls are walking in the same direction as you are, you either have to slow way down or run up to them,
 
@@ -702,13 +516,7 @@ Street: On the street, women are thinking about errands, family, friends, and th
 
 which automatically puts your status into the sewer. Just don't do it, or find a way to approach from a different angle.
 
-Bars and Clubs: Bars and clubs will almost never reward a guy using a directly interest-conveying approach. Bars and clubs are an extremely high-stimulus environment, so to approach here, you need to be more interesting, commanding, and fun than the environment (most girls are there to hang with their friends, get drunk, and let the music and flashing lights distract them from the problems in their daily lives) around you. The relationship and childhood questions are best suited for bars and clubs. You've got to be loud and project over the noise to be heard and understood. This is where most guys think they will get laid, get lucky, and find a decent girlfriend. Just because there is more to choose from and they are wearing slutty clothing does not mean that the women there are of good quality. The best reports I get from my students are from when they approached girls in the daytime: a store, mall, or even a fast-food joint. Don't get me wrong; there is a lot to be said about the nightlife, but the best girlfriends
-
----
-
-# THE PASSPORT 
-
-you'll get will be a result of a daytime non-club environment. All the techniques you'll ever need to meet and keep women are in here.
+Bars and Clubs: Bars and clubs will almost never reward a guy using a directly interest-conveying approach. Bars and clubs are an extremely high-stimulus environment, so to approach here, you need to be more interesting, commanding, and fun than the environment (most girls are there to hang with their friends, get drunk, and let the music and flashing lights distract them from the problems in their daily lives) around you. The relationship and childhood questions are best suited for bars and clubs. You've got to be loud and project over the noise to be heard and understood. This is where most guys think they will get laid, get lucky, and find a decent girlfriend. Just because there is more to choose from and they are wearing slutty clothing does not mean that the women there are of good quality. The best reports I get from my students are from when they approached girls in the daytime: a store, mall, or even a fast-food joint. Don't get me wrong; there is a lot to be said about the nightlife, but the best girlfriendsyou'll get will be a result of a daytime non-club environment. All the techniques you'll ever need to meet and keep women are in here.
 
 ---
 
@@ -736,13 +544,7 @@ problems she might have, the disgusting guys she's been with, or worse. Just mak
 
 When a lot of my students started, they got in a huge rush to recite everything they memorized as fast as they could, hoping the words were the key to the girl's heart. It's not true. Remember to pause for effect, and speak as though you have all the time in the world. As soon as you begin using pauses in normal conversation and while meeting women, the attention-grabbing power will amaze you. People are somehow drawn to pauses when they are timed to precede a good part in a story, a point being made, or even the end of a question.
 
-The 5-2-6 is an art form that fluctuates and varies in its scientific precision. Keep it fun, throw funny stories in whenever you feel like the conversation is flatlining, excuse yourself in the middle of the model to go talk to other girls in the bar, and feel free to bail on any woman whenever you want to. Follow the guideline and the method, but don't get caught up in thinking you need to
-
----
-
-# CHASE HUGHES 
-
-deliver a specific line to her when your watch says it's been three minutes and 45 seconds. The method is designed to be a fluid human exchange instead of a hardened set of timelines, rules, and phrases. Follow the steps and the examples, and the method will work for you.
+The 5-2-6 is an art form that fluctuates and varies in its scientific precision. Keep it fun, throw funny stories in whenever you feel like the conversation is flatlining, excuse yourself in the middle of the model to go talk to other girls in the bar, and feel free to bail on any woman whenever you want to. Follow the guideline and the method, but don't get caught up in thinking you need todeliver a specific line to her when your watch says it's been three minutes and 45 seconds. The method is designed to be a fluid human exchange instead of a hardened set of timelines, rules, and phrases. Follow the steps and the examples, and the method will work for you.
 
 ## F-OCUS
 
@@ -754,44 +556,20 @@ Take a look at the black line on the model. At the beginning, it depicts the per
 
 level off just slightly above hers. This illustrates that you should never put her down out of anger, meanness, or fear. Simply keeping a moderate level of sexual tension and making her focus on you makes this line stay above hers. Also notice that when you walk up, her value is above yours.
 
-This is the number one place where men get fear and anxiety for no reason. Most guys will see a woman and immediately launch into the thought cycle of "What opener do I use?" and keep running it over in their heads until they have either made the woman freaked out from staring, or she has left the area. Don't let this happen to you. The only reason men have so much fear around this is because they think that this one woman will somehow either reject them and go tell every other woman on the planet, or if they aren't able to get her, there won't be another one like her in ten thousand years. When you approach and go into the FOCUS stage, you must understand that she is only one single woman and there are hundreds more within only miles of you that you will be able to get as soon as you are finished with her. There really is no possible way that anything bad can come of approaching a woman. You will still feel the fear
-
----
-
-# CHASE HUGHES 
-
-of approach, but you must keep going, because the only way to eradicate it is to get as many as you can over with.
+This is the number one place where men get fear and anxiety for no reason. Most guys will see a woman and immediately launch into the thought cycle of "What opener do I use?" and keep running it over in their heads until they have either made the woman freaked out from staring, or she has left the area. Don't let this happen to you. The only reason men have so much fear around this is because they think that this one woman will somehow either reject them and go tell every other woman on the planet, or if they aren't able to get her, there won't be another one like her in ten thousand years. When you approach and go into the FOCUS stage, you must understand that she is only one single woman and there are hundreds more within only miles of you that you will be able to get as soon as you are finished with her. There really is no possible way that anything bad can come of approaching a woman. You will still feel the fearof approach, but you must keep going, because the only way to eradicate it is to get as many as you can over with.
 
 When you approach a woman, you must be more important than anything else going on. Walk as if you are going to walk right by her, but stop as if something has just occurred to you and keep your body in the direction you were walking. Don't turn your body into hers just yet. She will earn that privilege. When you speak to her, speak in a resonating voice. A voice with lots of vibration and resonance is the one you're looking for. Don't concentrate too much on volume.
 
 Right now, put your hand on your chest and say "ninety- nine." You can make a good vibration without making your voice too deep. Keep it the same tone you normally use, but increase that vibration you feel in your chest. When you feel the vibration the strongest, this is your real voice. The one you would have if society didn't tell you to be quiet and submissive so you don't piss anybody off.
 
-Girls get approached, whistled at, stared at, complimented on ridiculous things, and asked lame questions all the time. The frequency with which most good-looking women get approached would shock
+Girls get approached, whistled at, stared at, complimented on ridiculous things, and asked lame questions all the time. The frequency with which most good-looking women get approached would shockyou. So, when you approach, you need to immediately distinguish yourself from the multitude of other boring, ass-kissing guys who have been hitting on her since she was probably 16. Here's the secret. The first thing in her head when a guy walks up is that you are going to be one of those other morons. So, to combat this, you'll use an old sales technique called limiting the product. Tell her you only have a second, 'cause you have to be somewhere soon, but you need a quick opinion on something. Remember not to say the words "ladies" or "girls," like some kind of weird player guy. Use "hey, guys" or just plain "hey." This combo has worked for my students for five years, and they've never gone out without this powerful tool.
 
----
-
-# THE PASSPORT 
-
-you. So, when you approach, you need to immediately distinguish yourself from the multitude of other boring, ass-kissing guys who have been hitting on her since she was probably 16. Here's the secret. The first thing in her head when a guy walks up is that you are going to be one of those other morons. So, to combat this, you'll use an old sales technique called limiting the product. Tell her you only have a second, 'cause you have to be somewhere soon, but you need a quick opinion on something. Remember not to say the words "ladies" or "girls," like some kind of weird player guy. Use "hey, guys" or just plain "hey." This combo has worked for my students for five years, and they've never gone out without this powerful tool.
-
-During this phase, you will approach the group and will encounter some resistant body language and maybe a little verbal resistance. As far as they are concerned, you are just one of the thousands of men who will hit on them this year alone. Before you speak, you will be judged. You will demonstrate AMG body language, and completely control the conversation for about one minute and cause them to realize who you actually are. As you start to do this, you'll notice their
-
----
-
-# CHASE HUGHES 
-
-body language starting to slowly face into you, their attention coming to focus on you, and the overall mood of the group will lighten and become more humorous. You will start to hear giggles and positive laughs, and you will see a change in the acceptance posture of the group. YOU did this. When you address the whole group, you can create a focal level that is astonishing as long as you keep volume and authority in your voice. Fun comes next. Do not go directly into a group of women and approach the one girl you want and talk only to her. This will ruin the interaction from the start. While this is a safe bet, it IS possible to just reach out, grab a girl out of a group of girls, and pull her to you so that all you have to do is talk to her, but this level of game will require a bit of practice.
+During this phase, you will approach the group and will encounter some resistant body language and maybe a little verbal resistance. As far as they are concerned, you are just one of the thousands of men who will hit on them this year alone. Before you speak, you will be judged. You will demonstrate AMG body language, and completely control the conversation for about one minute and cause them to realize who you actually are. As you start to do this, you'll notice theirbody language starting to slowly face into you, their attention coming to focus on you, and the overall mood of the group will lighten and become more humorous. You will start to hear giggles and positive laughs, and you will see a change in the acceptance posture of the group. YOU did this. When you address the whole group, you can create a focal level that is astonishing as long as you keep volume and authority in your voice. Fun comes next. Do not go directly into a group of women and approach the one girl you want and talk only to her. This will ruin the interaction from the start. While this is a safe bet, it IS possible to just reach out, grab a girl out of a group of girls, and pull her to you so that all you have to do is talk to her, but this level of game will require a bit of practice.
 
 Now it's time for your question. We have plenty of samples in the toolbox here, but the trick to making up your own is that it fits three requirements:
 
 1. It doesn't make her have to do any super deep thinking to come up with an answer. It should be a yes or no answer, or have very little thought involved in order to answer you.
-2. It should be interesting. Noth-
-
----
-
-# THE PASSPORT 
-
-ing boring is going to score you any points for attaining focus. It should involve celebrities, relationships, movies, or a current event.
+2. It should be interesting. Noth-ing boring is going to score you any points for attaining focus. It should involve celebrities, relationships, movies, or a current event.
 3. It should involve women, relationships, metaphysical subjects, or something from childhood.
 A good way to give your approach a little more authenticity is to have a friend text a bunch of questions to you on your phone and keep the messages in your inbox. When you approach, have the phone out with the message displayed and act as though you just received the text message.
 
@@ -809,22 +587,10 @@ FOCUS TOOLS: (To accompany a relevant story)
 
 1. "When you guys were kids, did you think a watermelon would grow inside of you if you swallowed one of the seeds?"
 2. "I've been arguing about this all day with my friend; he thinks that mostly women believe in ghosts. Is that true? Do you guys all believe in ghosts or not?"
-3. "My friend and I have a bet going...have you seen Batman? You know how the costume has the molded-in
-
----
-
-# THE PASSPORT 
-
-pecs and abs? Ok, did the costume have nipples on it or not? My friend thinks there were like huge nipples on the costume. What were they for? Did he make batmilk? I seriously don't think that there were any nipples on the Batman costume."
+3. "My friend and I have a bet going...have you seen Batman? You know how the costume has the molded-inpecs and abs? Ok, did the costume have nipples on it or not? My friend thinks there were like huge nipples on the costume. What were they for? Did he make batmilk? I seriously don't think that there were any nipples on the Batman costume."
 4. "Do you think really hot women are a little more crazy than other women? I think my friend's girlfriend is psycho. Get this...she wants my friend to cut off all ties to his friends that are female and delete them from his cell phone. He's putting up with this because she's hot, but I'm trying to tell him that beauty is so common. It's either given to you, or you write a check for it. Do you guys do this stuff?"
 5. "When you guys eat Captain Crunch cereal, does it tear up the roof of your mouth or not?"
-6. Draw a stick figure with a triangle dress on and a smiley face and walk up to her, even if she's with a group. Tell her you are a professional artist and you've been working on a sketch of her for two hours and be very slow and hesitant about handing her the napkin. When she looks at it, don't have a joking face on-act like you are very proud of it and then slowly ease into a smile. As soon as she
-
----
-
-# CHASE HUGHES 
-
-laughs, you can shoot a relationship question or any other approach you like. This is an awesome way to break her emotional state and tear down her barriers to attraction.
+6. Draw a stick figure with a triangle dress on and a smiley face and walk up to her, even if she's with a group. Tell her you are a professional artist and you've been working on a sketch of her for two hours and be very slow and hesitant about handing her the napkin. When she looks at it, don't have a joking face on-act like you are very proud of it and then slowly ease into a smile. As soon as shelaughs, you can shoot a relationship question or any other approach you like. This is an awesome way to break her emotional state and tear down her barriers to attraction.
 7. "Have you guys ever seen a ghost?" (Roll into the ghost story here.)
 8. "Have you guys ever seen the Sound of Music? My friend and I were trying to remember what the favorite things were in the movie from that 'Favorite Things' song. If you can remember some, I'll...well, I'll give you high-five or something."
 9. "Do girls like guys who are total video game nerds? What if the guy plays manly games? My friend thinks that because he plays shooting games or whatever that it's manly and it makes it okay for him to be plugged into the game box all the time."
@@ -833,13 +599,7 @@ laughs, you can shoot a relationship question or any other approach you like. Th
 
 ## Routines/Stories
 
-Here is a list of story ideas, ex-
-
----
-
-# THE PASSPORT 
-
-amples, and the ultimate guide to putting together your own stories to maximize attraction potential. Use tonality, facial expressions, and body language to your advantage. Study great comedians like Dane Cook, Jerry Seinfeld, and George Carlin.
+Here is a list of story ideas, ex-amples, and the ultimate guide to putting together your own stories to maximize attraction potential. Use tonality, facial expressions, and body language to your advantage. Study great comedians like Dane Cook, Jerry Seinfeld, and George Carlin.
 
 Story-Telling Guide:
 Using your own stories from your life is great because you can use them without having to rehearse anything and it will automatically look natural. When you tell stories from your life, make sure you include six basic principles in them.
@@ -852,13 +612,7 @@ Using your own stories from your life is great because you can use them without 
 
 Examples:
 Do you believe in ghosts?
-Get this; my phone rings at like 2 a.m. this morning and I usually don't pick it up, but I did. My friend was completely frantic. He says, "Dude, get over here NOW!" I'm like, "Calm down, bro." And he said, "Dude, I just saw a ghost walk
-
----
-
-# CHASE HUGHES 
-
-across my bedroom. I'm selling this house tomorrow. I can't go back inside. I need you here, now.* So I put on my flip-flops and go over. I get to his house and he's standing in his driveway behind the gate in his pajamas with a baseball bat over his shoulder and his eyes are huge. He wants me to search his house, but I make him come with me to show him there is nothing there. He grabs on to the back of my shirt and walks behind me through the whole house. I get pretty freakin' scared, but we don't find anything. He's still selling his house, though, and he let me keep the baseball bat, but I think he's crazy.
+Get this; my phone rings at like 2 a.m. this morning and I usually don't pick it up, but I did. My friend was completely frantic. He says, "Dude, get over here NOW!" I'm like, "Calm down, bro." And he said, "Dude, I just saw a ghost walkacross my bedroom. I'm selling this house tomorrow. I can't go back inside. I need you here, now.* So I put on my flip-flops and go over. I get to his house and he's standing in his driveway behind the gate in his pajamas with a baseball bat over his shoulder and his eyes are huge. He wants me to search his house, but I make him come with me to show him there is nothing there. He grabs on to the back of my shirt and walks behind me through the whole house. I get pretty freakin' scared, but we don't find anything. He's still selling his house, though, and he let me keep the baseball bat, but I think he's crazy.
 
 ## Accidental Sex Party
 
@@ -870,13 +624,7 @@ clothes off. Chris thought it was cool and was like, "Dude, it's a swinger party
 
 # Watermelon Seeds 
 
-My friend Dan is a huge hypochondriac. We all brought watermelon to this volleyball party the other day and he runs over to me completely freaked out and tells me he swallowed a seed instead of spitting it out. I try to tell him he's an idiot, but he starts trying to make himself puke right in front of my co-workers and friends. Now everyone is staring at him and then looking back at me. (Body language demo) So I yelled out that he had food poisoning to cover up his complete stupidity. As soon as I did, people started looking at their food and walking over to ask me what he ate. I had to make up this huge story because our friend is an idiot, and I think I lost a few party invites over that shit.
-
----
-
-# CHASE HUGHES 
-
-## The Costume Shop
+My friend Dan is a huge hypochondriac. We all brought watermelon to this volleyball party the other day and he runs over to me completely freaked out and tells me he swallowed a seed instead of spitting it out. I try to tell him he's an idiot, but he starts trying to make himself puke right in front of my co-workers and friends. Now everyone is staring at him and then looking back at me. (Body language demo) So I yelled out that he had food poisoning to cover up his complete stupidity. As soon as I did, people started looking at their food and walking over to ask me what he ate. I had to make up this huge story because our friend is an idiot, and I think I lost a few party invites over that shit.## The Costume Shop
 
 My friend and I were in this costume shop earlier today and we saw this Batman costume. When we get together we cause all kinds of trouble. He puts this thing on and runs over to this girl that works there and tells her to be Robin. She puts on a Robin mask and he grabs her and starts kissing her with this mask on. I'm thinking we'll be in jail soon, but she starts kissing him back. This nerdy-looking guy-I guess he was the manager or something-comes out and I look at him and I am like (make the shhhh gesture with your finger on your lips) and he just stands there and watches. I guess this goth chick is supposed to be meeting us tonight, but I think she's kinda creepy.
 
@@ -892,25 +640,13 @@ video of her singing and dancing all over my house. I posted it on that video we
 
 The Koala Bear
 
-I was in Australia last year and this weirdo on the street solicits my friend and me to go and see a koala bear show. We thought it sounded fun and we took a cab to this address on the brochure. When we got there, everything looked really respectable and clean. The audience was only like a dozen people or so, and the "show" went on pretty normal; some kangaroos hopped around and did a trick, some wallabies came out and did a silly little dance, but as they neared the end of the show, we smashed through a wall into the twilight zone. I swear to god. The host of the show looked like the crocodile hunter and talked exactly like him. When the end of the show was approaching, he introduced this little koala bear. (Do the accent and body language here; not to entertain them, but because you are so
-
----
-
-# CHASE HUGHES 
-
-excited about the story. Do it for yourself. This is the difference between being a performer and a leader.) As this koala came out, this fat little assistant girl came out and picked him up as he waddled over to her. The host started talking about how much fun koalas have and how they 'love to play.' As she picked him up, I SWEAR TO GOD, she started rubbing his little koala penis. THERE WERE KIDS AT THIS SHOW!!!
+I was in Australia last year and this weirdo on the street solicits my friend and me to go and see a koala bear show. We thought it sounded fun and we took a cab to this address on the brochure. When we got there, everything looked really respectable and clean. The audience was only like a dozen people or so, and the "show" went on pretty normal; some kangaroos hopped around and did a trick, some wallabies came out and did a silly little dance, but as they neared the end of the show, we smashed through a wall into the twilight zone. I swear to god. The host of the show looked like the crocodile hunter and talked exactly like him. When the end of the show was approaching, he introduced this little koala bear. (Do the accent and body language here; not to entertain them, but because you are soexcited about the story. Do it for yourself. This is the difference between being a performer and a leader.) As this koala came out, this fat little assistant girl came out and picked him up as he waddled over to her. The host started talking about how much fun koalas have and how they 'love to play.' As she picked him up, I SWEAR TO GOD, she started rubbing his little koala penis. THERE WERE KIDS AT THIS SHOW!!!
 
 Anyway, everyone got a little uncomfortable, but we were frozen in place. She started rubbing and massaging his penis, and his little fuzzy koala head started tilting back in sheer pleasure. His little eyes closed and he had koala juice squirt out. Everyone in the audience was completely shocked. One guy got up and left, and my friend Nick was watching and reaching into his bag for his camera at the same time. By the time he got pictures, we were both completely hysterical with laughter. My face hurt so freakin' bad from laughing.
 
 ## Mom and Dad
 
-My friend and I were in his car the other day, and he has one of those Bluetooth things that goes to his speakers. We were in the middle of a new CD he just bought when the
-
----
-
-# THE PASSPORT 
-
-phone rang. When his phone rings, it mutes the CD player so you can talk in the car. He picked it up and his dad accidentally called him from his pocket or something. But it wasn't the usual pocket-call noises we were hearing. His sickass parents were making out, and I swear to god I heard some lovemakin' on the phone. His face was solid white and I thought he was going to faint...or vomit. He tried to push the off button, but I fought him and turned up the volume so I could listen. He did NOT think it was funny. He made me get out of his car at a gas station, and I had to have my girlfriend come and pick me up. He won't return any of my calls, but I'm sure he'll get over it.
+My friend and I were in his car the other day, and he has one of those Bluetooth things that goes to his speakers. We were in the middle of a new CD he just bought when thephone rang. When his phone rings, it mutes the CD player so you can talk in the car. He picked it up and his dad accidentally called him from his pocket or something. But it wasn't the usual pocket-call noises we were hearing. His sickass parents were making out, and I swear to god I heard some lovemakin' on the phone. His face was solid white and I thought he was going to faint...or vomit. He tried to push the off button, but I fought him and turned up the volume so I could listen. He did NOT think it was funny. He made me get out of his car at a gas station, and I had to have my girlfriend come and pick me up. He won't return any of my calls, but I'm sure he'll get over it.
 
 ## FOCUS TOUCH LADDER
 
@@ -939,13 +675,7 @@ One thing about voids is that we all want to fill them. When you create a gap in
 
 You need to maintain the attention of the whole group, here. Be loud and speak without hesitation.
 
-When you first start a conversation, you must openly show disinterest, an AMG quality. One way to do this is to make her think you are not into her at all. If you are confident and strong, she will begin to wonder why. Eventually she will want to prove you wrong. All of this is done in good fun. They are meant to do two things: throw her off guard and make her chase you. You're saying something you like about her, but something unusual that might make her a little self-conscious. Remember...this is all about fun. If you aren't smiling and having an awesome time, she will sense it and your words will
-
----
-
-# CHASE HUGHES 
-
-come out differently. If you say these lines like a rude jerk, you won't get the response you're looking for. They have to be delivered in a fun and playful way. Remember, you want her to be operating on a sense of loss for just a few minutes.
+When you first start a conversation, you must openly show disinterest, an AMG quality. One way to do this is to make her think you are not into her at all. If you are confident and strong, she will begin to wonder why. Eventually she will want to prove you wrong. All of this is done in good fun. They are meant to do two things: throw her off guard and make her chase you. You're saying something you like about her, but something unusual that might make her a little self-conscious. Remember...this is all about fun. If you aren't smiling and having an awesome time, she will sense it and your words willcome out differently. If you say these lines like a rude jerk, you won't get the response you're looking for. They have to be delivered in a fun and playful way. Remember, you want her to be operating on a sense of loss for just a few minutes.
 
 Imagine if you saw a piece of paper blowing on the sidewalk. What would you think? It's just a piece of litter, right? But then, when you look closer, you realize it's a hundred-dollar bill. As it blows away from you, an instinct to chase it and pick it up comes over you. It's the same principle with women. When you walk up to a group, you are just another guy. But once you start demonstrating awesome body language and they realize you are having a better time and have higher status than they do, the attention shifts. You become valuable. They become interested.
 
@@ -969,13 +699,7 @@ Talk to her friends, too. Don't neglect the group or they will keep her there an
 
 5. "You are so cute! If I wasn't gay, I'd probably be hitting on you right about...now." (Yes...this works. She knows you're joking, or will work to find out if you are. This also works well for groups with guys in them.)
 
-6. "You have the coolest-looking ears. I want a picture of them! They are so cute!" (Bust out your camera or camera phone and take a picture of her ear. Re-
-
----
-
-# CHASE HUGHES 
-
-member to smile.)
+6. "You have the coolest-looking ears. I want a picture of them! They are so cute!" (Bust out your camera or camera phone and take a picture of her ear. Re-member to smile.)
 7. "Were you in the chess club in high school? You have a smartgirl vibe."
 8. "I'll make a bet with you... I'll bet you that you can pick any dude in here and I'll walk you over to him and introduce you...ANY GUY in here...I'll bet he's boring." (You should deliver this as if you are only making a joke about stupid men, not a bet. They won't take the bet anyway, though.)
 9. "You just made me so hungry!" (Pause very briefly for a response.) "Your hair kinda reminds me of an awesome blossom. It's so cute. I never see that style; I love it!
@@ -994,13 +718,7 @@ member to smile.)
 
 Here you will show her that she's just slightly below us on the social food chain, while we also build a little bit of sexual tension and attraction. There are easy ways to do this. During this phase, you also reveal one childhood short story. You will hold hands with her, lock arms to walk somewhere, or simply move her a few feet to break her out of the mental bubble she was in before you came around.
 
-Value is defined as the ability to boost someone's social status or beliefs about their social status
-
----
-
-# CHASE HUGHES 
-
-by virtue of sheer presence or association. In one word, value is coolness. Value is the quality or condition of being more socially desired and attractive than others. In this step, you will screen her to make sure she is desirable to you. This also enforces the feeling for her that she is "earning" your affection.
+Value is defined as the ability to boost someone's social status or beliefs about their social statusby virtue of sheer presence or association. In one word, value is coolness. Value is the quality or condition of being more socially desired and attractive than others. In this step, you will screen her to make sure she is desirable to you. This also enforces the feeling for her that she is "earning" your affection.
 
 In this phase of the system, you will demonstrate your ability to withstand any kind of test or trial they decide to throw your way. It's designed to get you up the steep incline of the value line in the initial phase of the interaction. Take a look at the diagram and notice how quickly your value makes a climb in this phase.
 
@@ -1014,13 +732,7 @@ and attractive. Before you start screening her to be with you, make sure you thr
 
 Toward the end of this phase, and into the beginning of the next, she will most likely throw a few standard questions at you that she throws at every guy. When she asks you what you do, where you work, what your name is, or where you are from, don't answer the question. Be fun about it, but don't answer it right away. Either tell her you will let her know in a minute, make her test her psychic powers, or make up an obviously joking answer and if they ask again, go ahead and give it to her.
 
-When you've established Value, it's a perfect time to end the conversation and get her number. When you ask for the digits, make sure she's in a happy and focused frame of mind. The way to achieve this is by telling a quick story that has good humor and adventure that only lasts about a minute. When she's in this good state, execute the techniques at the end of the three-minute phone number technique: Tell her it was cool to meet her and you hope to run into her again. As you instill the sense of loss by walking away, turn back around and go
-
----
-
-# CHASE HUGHES 
-
-for the digits. Hand her your phone, ask for hers, or just say, "Hey, give me your number, I want to chat some more."
+When you've established Value, it's a perfect time to end the conversation and get her number. When you ask for the digits, make sure she's in a happy and focused frame of mind. The way to achieve this is by telling a quick story that has good humor and adventure that only lasts about a minute. When she's in this good state, execute the techniques at the end of the three-minute phone number technique: Tell her it was cool to meet her and you hope to run into her again. As you instill the sense of loss by walking away, turn back around and gofor the digits. Hand her your phone, ask for hers, or just say, "Hey, give me your number, I want to chat some more."
 
 Another technique for getting the number here is to use a highly descriptive story with a huge buildup to the ending and cut it off as you look at your watch. Tell her you have to go, but you'll finish later. Use the same technique to finish.
 
@@ -1045,24 +757,12 @@ energy story)
 10. Have you ever stalked a guy? (Still kind of smiling.)
 11. There are really two things I look for in a girl: She has to be honest and she has GOT to have a positive view of her own life. It seems like you've got the positive thing down pretty well. (Leave her hanging on the honesty part, and if she asks, tell her you don't know her well enough yet.)
 12. I'm going to kick your ass...I bet you say this crap to all the guys, don't you? (A line women use all the time.)
-13. God, I hope you aren't a weirdo... you better warn me if you are...I'm serious." (Totally joking tone.)
-
----
-
-# CHASE HUGHES 
-
-## VALUE TOUCH HIERARCHY
+13. God, I hope you aren't a weirdo... you better warn me if you are...I'm serious." (Totally joking tone.)## VALUE TOUCH HIERARCHY
 
 1. Hand holding: When you take her by the hand, don't keep looking down at it or squeeze any harder than she is. Keep the leading position and be completely comfortable with the fact that you can take her by the hand. She will be okay with it if you are. The simple way to make sure you are comfortable is to ask yourself, "How would I do this if I did this all the time and it was no big deal for me?"
 2. The happy face technique: When she impresses you, makes you laugh, or says something you like, give her happy faces on her "report card." When you give her a happy face, make the motion of quickly pulling a sticker off of a card and putting it on her arm. This sounds juvenile, but it works wonders as well as building more touchcomfort.
 3. Interlocking arms: When you are moving her, using her in a demo, walking with her, always walk in front of her and hold out either your arm for her to hook into, or your hand for her to hold while you travel through an area.
-4. Pick an imaginary piece of dirt or something off of her shirt. Make sure you aren't grabbing
-
----
-
-# THE PASSPORT 
-
-any breasts or the deal will most likely be off.
+4. Pick an imaginary piece of dirt or something off of her shirt. Make sure you aren't grabbingany breasts or the deal will most likely be off.
 
 ## E-MOTIONAL HIJACK
 
@@ -1070,13 +770,7 @@ Here, we completely rack her brain. You will be able to dominate her thoughts an
 
 Once her attraction levels start to climb, it opens her vault doors and reveals all of her secret attraction and emotional control knobs. Once you go inside, however, you have to know what you are doing, or risk crashing the system. A woman's emotions are easy to control if you have the map.
 
-She's feeling all kinds of emotions right now: She's attracted, nervous, scared, and worried about what her friends are thinking of her. Here, you may want to get a number and bail, or continue the
-
----
-
-# CHASE HUGHES 
-
-method in a different location. If you are in a loud bar or club, go outside or find a table so you can actually talk to her. If you are in a daytime place where it's relatively quiet, just move her a few feet. Here, you will move her to another location in the club, bar, or store you are in. Not to a different one yet. If you tell her friends you are going to take her on a walk for a second, they won't have any problems with it because you have not told her or communicated publicly that you are attracted to her. She probably doesn't even know yet either. Just take the lead, tell her to come with you, and stick your hand out. She has already touched you based on the touch hierarchy, so it won't be a big deal.
+She's feeling all kinds of emotions right now: She's attracted, nervous, scared, and worried about what her friends are thinking of her. Here, you may want to get a number and bail, or continue themethod in a different location. If you are in a loud bar or club, go outside or find a table so you can actually talk to her. If you are in a daytime place where it's relatively quiet, just move her a few feet. Here, you will move her to another location in the club, bar, or store you are in. Not to a different one yet. If you tell her friends you are going to take her on a walk for a second, they won't have any problems with it because you have not told her or communicated publicly that you are attracted to her. She probably doesn't even know yet either. Just take the lead, tell her to come with you, and stick your hand out. She has already touched you based on the touch hierarchy, so it won't be a big deal.
 
 When you find yourself involved in conversation, resist every urge to agree with her about all of her likes and dislikes. If she says she loves eating jelly doughnuts, don't be afraid to say you hate them. It's okay because there WILL eventually be something you genuinely both agree on. Resist the urge to kiss her ass and tell her you like everything that she likes. She knows that guys who say "me too" to everything she likes are wussies.
 
@@ -1096,13 +790,7 @@ EMOTIONAL HIJACK TOUCH HIERARCHY
 
 2. Use her to demonstrate a funny picture you saw of a couple hugging or posing for a photographer.
 
-3. Grab her hand and put it in yours. As you do, look around the place and talk about how she has to be your bodyguard from all the other women. If she lets go of your hand or looks at your actions awkwardly, don’t make a big deal out of it. Just roll
-
----
-
-# CHASE HUGHES 
-
-your eyes at her like she's too silly to realize who she's with and start talking to someone else for a minute or two to rebuild the sense of loss.
+3. Grab her hand and put it in yours. As you do, look around the place and talk about how she has to be your bodyguard from all the other women. If she lets go of your hand or looks at your actions awkwardly, don’t make a big deal out of it. Just rollyour eyes at her like she's too silly to realize who she's with and start talking to someone else for a minute or two to rebuild the sense of loss.
 4. Make her sit on your leg if there is a shortage of chairs. When you bring her over to sit on your leg, tell her not to try anything funny. Be resistant.
 
 ## T-AKEAWAYS
@@ -1123,25 +811,13 @@ TAKEAWAY TOOLS
 
 1. "Hey, what do you do for fun? And don't say anything that takes place indoors. What! Oh my god! You aren't supposed to say that! You're going to get me in so much trouble! I'm supposed to be this uber-bachelor!" (As soon as you say this, act completely surprised and turn your back on her in a joking, childish way and wait for her to re-start the interaction.)
 
-2. "We would sooooo never work. I would be running through your
-
----
-
-# CHASE HUGHES 
-
-living room with the hugest pil-
+2. "We would sooooo never work. I would be running through yourliving room with the hugest pil-
 low I could find and start beat. ing the crap out of you. Either that or I would draw the cutest little mustaches on you if you ever fell asleep near me."
 3. "Okay, I have a serious question for you...do you drink out of the cartons of juice and milk and stuff in the fridge or not?" If she says yes, tell her you do the same thing and you were hoping she would say that because you think that's one of the defining qualities that can tell you whether a girl is cool or not. Remember, you want her to know that you are resisting being attracted to her. If she says no, tell her you hoped she would say that because you totally agree with her on that and it's one of your major pet peeves. You had a roommate who did it all the time and it drove you crazy. Follow this up by saying, "I totally can't hang around with you now...that was the ONE thing I hoped we would disagree on. I guess I have to keep prodding, huh?" Do another turn around and cross your arms really dramatically.
 
 ## TAKEAWAYS TOUCH HIERARCHY
 
-1.Hand around her while moving,
-
----
-
-# THE PASSPORT 
-
-talking to other people.
+1.Hand around her while moving,talking to other people.
 2.Hand-holding with interlocked fingers.
 
 ## W-ILLINGNESS TO ACCEPT HER
@@ -1152,13 +828,7 @@ Nothing is more satisfying to women than the feeling of having earned a man's af
 
 She needs a justification for being with you and for being so attracted to you so fast. Chances are that she hasn't ever felt this way about a guy so fast unless she's met a celebrity or something. When you start the "W" phase, she will be ready for it.
 
-Here, you will deliberately create voids in conversation and effect a drastic emotional shift in her mood.
-
----
-
-# CHASE HUGHES 
-
-## WILLINGNESS TOOLS
+Here, you will deliberately create voids in conversation and effect a drastic emotional shift in her mood.## WILLINGNESS TOOLS
 
 1. "Why am I so into you now? This isn't supposed to happen like this. I'm not supposed to feel like this."
 2. "You are my personal definition of trouble."
@@ -1171,25 +841,13 @@ Here, you will deliberately create voids in conversation and effect a drastic em
 1. Embracing with elongated eye contact and silence
 2. Gentle hair pulling (back of the head)
 3. Keeping your arm around her while talking to other people (break it off first)
-4. A three-second shoulder massage. Tell her you're the best at them and stop after three seconds.
-
----
-
-# THE PASSPORT 
-
-5. Kissing. (Refer to the quick kiss guide.)
+4. A three-second shoulder massage. Tell her you're the best at them and stop after three seconds.5. Kissing. (Refer to the quick kiss guide.)
 
 ## O-PENNESS
 
 This is a personality demonstration phase that allows you to grind a lot of your personality into her by way of stories and memories.
 
-Demonstrating personality is crucial to the process. In this step, you will have an ACTUAL conversation. No woman wants a status robot. She needs a human being who LISTENS. Throughout the entire process of attraction, you will feel an irresistible urge to ask standard loser questions like, "What do you do?" "Where are you from?" etc. Don't do it. Act silly, play games, ask funny questions, or anything other than asking the standard questions. These are the questions she's heard from EVERY guy who has ever tried to sleep with her. When she hears them, it triggers a shocking automatic reaction in her mind. Just the words alone will remind her of all the losers who have approached her. Let me assure you that you WILL do this a few times out of a need to fill up a silence in conversation or lack of interesting topics. It's okay when you are in the beginning
-
----
-
-# CHASE HUGHES 
-
-phase of learning, but it will naturally eliminate itself from your game as you develop the ability to run more solid and interesting conversation.
+Demonstrating personality is crucial to the process. In this step, you will have an ACTUAL conversation. No woman wants a status robot. She needs a human being who LISTENS. Throughout the entire process of attraction, you will feel an irresistible urge to ask standard loser questions like, "What do you do?" "Where are you from?" etc. Don't do it. Act silly, play games, ask funny questions, or anything other than asking the standard questions. These are the questions she's heard from EVERY guy who has ever tried to sleep with her. When she hears them, it triggers a shocking automatic reaction in her mind. Just the words alone will remind her of all the losers who have approached her. Let me assure you that you WILL do this a few times out of a need to fill up a silence in conversation or lack of interesting topics. It's okay when you are in the beginningphase of learning, but it will naturally eliminate itself from your game as you develop the ability to run more solid and interesting conversation.
 
 Also happening in this phase will be a stronger and more suggestive body language and touching. Hold her hand, look into her eyes for a few seconds without words, hold her close to you, but ALWAYS be the one to break contact first and say, "Whoa...this is scary. We totally need to slow this down. I'm enjoying this way too much. Ha-ha."
 
@@ -1198,13 +856,7 @@ Also happening in this phase will be a stronger and more suggestive body languag
 1. "When I was a kid, my entire goal in life was to be a..." (tell your pre-created story)
 2. "I'm kinda getting wierded-out now...(she'll ask why) Well, I feel like it's my birthday when I'm with you. You're becoming a drug for me and I might need to go to rehab now. We gotta slow this down. Who the hell are you that you can have this power over me? It feels weird."
 3. "Did you ever make your own popsicles when you were growing up?" (Start childhood stories)
-4. Continually change topics of conversation to establish a wider baseline. When you first meet her, very few things connect you.
-
----
-
-# THE PASSPORT 
-
-As you progress and change topics frequently, the base upon which your connection rests becomes significantly larger. The more you know about each other's genuine lives, the more she will feel connected to you.
+4. Continually change topics of conversation to establish a wider baseline. When you first meet her, very few things connect you.As you progress and change topics frequently, the base upon which your connection rests becomes significantly larger. The more you know about each other's genuine lives, the more she will feel connected to you.
 
 ## OPENNESS TOUCH HIERARCHY
 
@@ -1252,23 +904,11 @@ Here you will demonstrate a willingness to not have sex at all. This will show h
 
 This step will take you into the last phase of the mating process: sex. Here you will demonstrate a need to be with her for other reasons than sex. She will feel safe, comfortable, and more open to you after this phase.
 
-When things start to get hot, most guys will try to turn a woman on and get her really ready for sex.
-
----
-
-# CHASE HUGHES 
-
-by kissing her harder, rubbing her more, or squeezing her harder, basically increasing the amount and intensity of things they are already doing. They think, It's time to have sex. I need to go faster and harder so she doesn't change her mind. This is horrible. Almost all women thrive sexually on anticipation and suspense. A true AMG knows how to build strong sexual tension, create throbbing anticipation, and stir her emotions before bringing them to boil.
+When things start to get hot, most guys will try to turn a woman on and get her really ready for sex.by kissing her harder, rubbing her more, or squeezing her harder, basically increasing the amount and intensity of things they are already doing. They think, It's time to have sex. I need to go faster and harder so she doesn't change her mind. This is horrible. Almost all women thrive sexually on anticipation and suspense. A true AMG knows how to build strong sexual tension, create throbbing anticipation, and stir her emotions before bringing them to boil.
 
 While you are sitting on the couch, do something nonsexual like watch a movie, play a game, make a quick snack together, or roast marshmallows on a candle. Although it's nonsexual, remain close to her.
 
-A woman has a biologically programmed fear of male abandonment following sex. A millennia ago, she would have risked her own life, as well as the lives of her offspring, if the male did not stay with her following a sexual encounter that caused a pregnancy. When you demonstrate a willingness and happiness to be with her with absolutely no sex at all, it tells her biological "sex alarm" to calm down. Doing this shows maturity, style, and a total sense of self-mastery. She understands here that you are com-
-
----
-
-# THE PASSPORT 
-
-fortable and satisfied not having sex, but just spending time with her.
+A woman has a biologically programmed fear of male abandonment following sex. A millennia ago, she would have risked her own life, as well as the lives of her offspring, if the male did not stay with her following a sexual encounter that caused a pregnancy. When you demonstrate a willingness and happiness to be with her with absolutely no sex at all, it tells her biological "sex alarm" to calm down. Doing this shows maturity, style, and a total sense of self-mastery. She understands here that you are com-fortable and satisfied not having sex, but just spending time with her.
 
 When things start to heat up, back off. Tell her whatever reason you'd like to stop for a break, but this is a crucial step to showing her your level of independence and discipline.
 
@@ -1284,34 +924,16 @@ Use anticipation, build tension, increase tempo, back off a second, and repeat.
 
 Direct implies the immediate communication of your attraction to her and involves a very high level of confidence and playfulness.
 
-1. "Hey, I'm not sure what it is, but I have a good feeling that you have a lot more going for you than beauty alone. I have to get going, but I'd like to chat. Do you have a cell phone?" When she pulls it out, simply tell
-
----
-
-# CHASE HUGHES 
-
-her to put your number into it. When she does, tell her to hit send. You just got her number. This is a solid technique I've used for years and it will always work if she's single and your confidence and playfulness are aligned.
+1. "Hey, I'm not sure what it is, but I have a good feeling that you have a lot more going for you than beauty alone. I have to get going, but I'd like to chat. Do you have a cell phone?" When she pulls it out, simply tellher to put your number into it. When she does, tell her to hit send. You just got her number. This is a solid technique I've used for years and it will always work if she's single and your confidence and playfulness are aligned.
 2. Walking by a girl, or group of girls, at a daytime place, stick your tongue out at her and make a mean-kid face that lets her know you are playing. When she does it back, walk over and tell her she's got a cute tongue, but it's too pink. Tell her you like her energy and it seems like she's got more going for her than her looks and get that number. If they don't stick their tongue out at you, you can still walk up and use a regular direct approach.
-3. "Hey, I'm late for a gettogether with some friends and I've got to go, but what are you doing this Saturday at nine?" If she's free, proceed. If not, get her number with technique one and bail. "Awesome, I don't know what it is about you, but I really like the way you carry yourself. I mean, you're goodlooking, but it seems like you might have some good qualities beyond that. I can't put my fin-
-
----
-
-# THE PASSPORT 
-
-ger on it, but somehow it in- trigued me. My friends and I are going to (insert activity) and I'd like to get to know you more." Now get her number.
+3. "Hey, I'm late for a gettogether with some friends and I've got to go, but what are you doing this Saturday at nine?" If she's free, proceed. If not, get her number with technique one and bail. "Awesome, I don't know what it is about you, but I really like the way you carry yourself. I mean, you're goodlooking, but it seems like you might have some good qualities beyond that. I can't put my fin-ger on it, but somehow it in- trigued me. My friends and I are going to (insert activity) and I'd like to get to know you more." Now get her number.
 
 ## WINGMAN 101
 
 There are about six million ways to screw up an interaction with a wingman. Use your wingmen carefully, and follow the wingman guide when you are the wing.
 
 1. Don't approach a group of girls together. One of you must go first for about two minutes, run solid material, and the wingman will enter stage left. As soon as the wingman comes into the interaction, immediately fill him in on the conversation and introduce him to the group. This eliminates the feeling women get when two guys approach two girls. It is completely obvious that the two of you are going to hit on them. Go in alone. Your wing should come in second.
-2. If you or your wingman starts talking, even if you're interrupting the girls, turn to your wingman and LISTEN TO HIM. Your wingman should have tons more value and status to you than the girls. Most idiots are so excited
-
----
-
-# CHASE HUGHES 
-
-that they are talking to girls that they will ignore their wingman and keep talking to the girls. STOP IT! Your wing is more important than ANY woman in the bar, and if he wants to talk over the girls or interrupt them, you must behave as if he's the only one speaking.
+2. If you or your wingman starts talking, even if you're interrupting the girls, turn to your wingman and LISTEN TO HIM. Your wingman should have tons more value and status to you than the girls. Most idiots are so excitedthat they are talking to girls that they will ignore their wingman and keep talking to the girls. STOP IT! Your wing is more important than ANY woman in the bar, and if he wants to talk over the girls or interrupt them, you must behave as if he's the only one speaking.
 3. Brag about your wingman, but don't overdo it. As soon as he looks away or you have a second to speak to the girl he is going for, brag about him. "This guy is my best friend. He is the coolest guy in the world. Do you know who he is?" Building him up like a celebrity is something that will boost both of your status.
 4. When you and your wing are not engaged in conversation with women, keep a solid, funny, excited conversation. Do not look around the bar for more interesting things or hot women. Your wing should be your focus point and whoever is speaking between the two of you should hold the attention of the other. When you look around the club/bar while your wing is talking, it kills his status. It tells everyone that he's not important enough to hold your attention, and it lowers your own status level as well.
 
@@ -1329,23 +951,11 @@ Simple list of what to do instead of axe-murder attraction.
 
 Don't—Live with passivity.
 
-Do—Fully erase passivity from your life. Passivity is simply allowing things to happen as they
-
----
-
-# CHASE HUGHES 
-
-happen without any action or planning on your part. This is a crucial piece to becoming the AMG. Get a planner and keep a schedule. Get a newspaper and make sure you know the entire goings on around town each day that you might want to go to. There might be gallery openings, races, support group meetings, ceremonies, small concerts, community events or something going on in your area you may want to go to. It also builds your status to know the goings on about your town. Keep the planner filled with things going on around town and use it as much as possible.
+Do—Fully erase passivity from your life. Passivity is simply allowing things to happen as theyhappen without any action or planning on your part. This is a crucial piece to becoming the AMG. Get a planner and keep a schedule. Get a newspaper and make sure you know the entire goings on around town each day that you might want to go to. There might be gallery openings, races, support group meetings, ceremonies, small concerts, community events or something going on in your area you may want to go to. It also builds your status to know the goings on about your town. Keep the planner filled with things going on around town and use it as much as possible.
 
 Don't- Smile too much while approaching or while talking to them.
 
-Do- Smile because you are confident and you have something to smile about. Most guys who come to the classes smile while they are talking to women to show them that they mean no harm. Guys feel a very hard gut feeling going against making fun of a girl because of the social programming they went through. The result of this is a guy who tries to smile too much to convey innocence and try to convince her he was only joking in case she got pissed off.
-
----
-
-# THE PASSPORT 
-
-Don't- Let anyone or anything get you emotional.
+Do- Smile because you are confident and you have something to smile about. Most guys who come to the classes smile while they are talking to women to show them that they mean no harm. Guys feel a very hard gut feeling going against making fun of a girl because of the social programming they went through. The result of this is a guy who tries to smile too much to convey innocence and try to convince her he was only joking in case she got pissed off.Don't- Let anyone or anything get you emotional.
 
 Do- Be the person who is more in control of themselves than anyone else around. Women are attracted to the rock. Everyone wants to have a leader who they can trust to be calm and collected in an emergency. The AMG is the rock women can count on. This is as simple as thinking about it and making sure you are aware of your own emotional state so you can control it.
 
@@ -1366,13 +976,7 @@ Do- Use "hey, guys," or just plain "hey." Saying ladies or girls conveys creepy 
 
 Don't- Walk directly up to women and face them.
 
-Do- Walk almost past them, and do your first ten seconds of communication over your shoulder. Let them know you have to get going soon and keep your feet in the position as if you were about to keep walking. Try this exercise: Get a friend and stand facing him, four inches from his nose. It's uncomfortable. Now, stand four inches away, but beside him, looking in the same direction
-
----
-
-# THE PASSPORT 
-
-he is. It's more comfortable and less confrontational to not face them immediately.
+Do- Walk almost past them, and do your first ten seconds of communication over your shoulder. Let them know you have to get going soon and keep your feet in the position as if you were about to keep walking. Try this exercise: Get a friend and stand facing him, four inches from his nose. It's uncomfortable. Now, stand four inches away, but beside him, looking in the same directionhe is. It's more comfortable and less confrontational to not face them immediately.
 
 Don't- Talk too fast.
 Do- Slow down your speech. People who speak too fast are usually doing it to avoid being interrupted. Don't be afraid to pause for effect, or when you can't think of a word. People will wait for you to finish. But don't use this to be rude, or you'll get cut off. Make it part of your daily calm demeanor.
@@ -1381,13 +985,7 @@ Don't- Buy women drinks.
 Do- Tell them they are more than welcome to buy you one. (In a cocky tone while smiling) If they persist on getting you to buy a drink, you need to put your foot down. Refuse to buy them drinks. If you are going to hang with them, this behavior will not be tolerated. You have to set boundaries immediately or you'll be invaded.
 Don't- Try to compliment women to make them like you.
 
-Do- Make fun of them. Never make fun of a woman in a mean or rude way. Do it the same way thirdgraders would do on a playground:
-
----
-
-# CHASE HUGHES 
-
-Call her a dork, nerd, closet geek, pimp, man-hater, Dalai Lama etc. If she's really skinny, tell her she looks like your favorite linebacker, in a cocky, but joking way. Don't be serious about this. If she's dressed to kill, make sure you tell her that all the women are buying that same dress these days, but you still like it. These are compliments in a way. You will call her all of these names and make fun of her, but in a way to suggest you like that quality about her.
+Do- Make fun of them. Never make fun of a woman in a mean or rude way. Do it the same way thirdgraders would do on a playground:Call her a dork, nerd, closet geek, pimp, man-hater, Dalai Lama etc. If she's really skinny, tell her she looks like your favorite linebacker, in a cocky, but joking way. Don't be serious about this. If she's dressed to kill, make sure you tell her that all the women are buying that same dress these days, but you still like it. These are compliments in a way. You will call her all of these names and make fun of her, but in a way to suggest you like that quality about her.
 
 Women in bars automatically expect to get hit on a lot. This makes them feel like they own the place. All you are doing is bringing them to your level and letting them know you like them, but they aren't fooling you at all.
 
@@ -1458,23 +1056,11 @@ Note: One good technique a friend uses when he is able to learn her name before 
 Eliminating Fear on the Approach
 Every man gets nervous when he approaches hot women. It is universal, but the amount of fear and anxiety each man has on the walk-up is different. The only true way to get rid of it and make yourself into a machine that gets unbelievable results that your friends will think you are a god for is to expose yourself to the situation.
 
-When you first start approaching women, the fear will feel something like standing at the edge of a cliff. Your stomach will churn, your heart will pound, and your hand might even shake. I've seen it all. Trust me, you are NOT alone. Once you are able to do this a couple hundred times, it will feel like brushing your teeth...no big deal.
-
----
-
-# CHASE HUGHES 
-
-Approach and start conversations with women everywhere. Approach at the store, mall, coffee shop, bookstore, restaurant, bar, club, gym, school, and street. Work on your approach at every opportunity. You don't have to try to get numbers from every single woman you see, just walk up and start a quick conversation with one of the appetizers in the toolkit, tell a quick story, and bail if you want to. The more you do this, the better and more natural you will feel when you approach a woman you want to date. I don't care if the woman is fat, bald, too tall, too short, or whatever; you need to work on your skills and practice all of your body language and routines.
+When you first start approaching women, the fear will feel something like standing at the edge of a cliff. Your stomach will churn, your heart will pound, and your hand might even shake. I've seen it all. Trust me, you are NOT alone. Once you are able to do this a couple hundred times, it will feel like brushing your teeth...no big deal.Approach and start conversations with women everywhere. Approach at the store, mall, coffee shop, bookstore, restaurant, bar, club, gym, school, and street. Work on your approach at every opportunity. You don't have to try to get numbers from every single woman you see, just walk up and start a quick conversation with one of the appetizers in the toolkit, tell a quick story, and bail if you want to. The more you do this, the better and more natural you will feel when you approach a woman you want to date. I don't care if the woman is fat, bald, too tall, too short, or whatever; you need to work on your skills and practice all of your body language and routines.
 
 If you've ever watched the TV series Psych on the USA network, you have seen a perfect example of how to deal with tests, and be humorous and unique at the same time. The lead character in the show demonstrates hundreds of body language, social, and psychological techniques worth duplicating in each episode. Go buy the seasons, or watch it however you can. It will definitely spark a few ideas for your approaches.
 
-The best guys have become the best because they have been able to go out and try all kinds of new
-
----
-
-# THE PASSPORT 
-
-things over and over until they became so good that not even a gorgeous woman was able to slow down their game. This needs to be you.
+The best guys have become the best because they have been able to go out and try all kinds of newthings over and over until they became so good that not even a gorgeous woman was able to slow down their game. This needs to be you.
 
 If you find in the middle of an approach that a boyfriend walks up or something, immediately communicate that you are not into her at all. Start talking about your boyfriend, or your wife, and you'll be fine.
 
@@ -1484,24 +1070,12 @@ Become a social butterfly on purpose.
 
 ## Quick-Kiss Techniques
 
-Using the touch hierarchy is the most important thing you can do to be able to get the kiss when you want it. It IS possible to kiss her
-
----
-
-# CHASE HUGHES 
-
-after a few minutes. When you feel that feeling in the pit of your stomach that makes you nervous whether or not you should kiss her...it's time to kiss her. There are a few good ways to do this.
+Using the touch hierarchy is the most important thing you can do to be able to get the kiss when you want it. It IS possible to kiss herafter a few minutes. When you feel that feeling in the pit of your stomach that makes you nervous whether or not you should kiss her...it's time to kiss her. There are a few good ways to do this.
 
 1. "You rock, did you know that? You have a cool personality, a fun attitude and, well...I'm not sure what else yet. (Let her reply) There's only one other thing I need to know about you...are you a good kisser?" (Kiss her)
 2. "Did you ever play truth or dare when you were young? I once did it and this girl named Stacie kissed me and just covered my face in saliva. It was so gross. Everyone made fun of her, but I tried to defend her. It was no use. You don't kiss like that, do you? Good." (Kiss her)
 3. "Hey...come over here so I can kiss you"
-4. "Alright, I want to get this on camera." Hold out camera and take a picture of the two of you together. Tell her she was making a weird face in the picture and try again. If the second one is good, tell her you're going to get your official first kiss on camera. Hold up the camera or give it to a bystander and don't look into her eyes deeply until
-
----
-
-# THE PASSPORT 
-
-RIGHT before you kiss her. This is a very romantic and cool technique that almost always works.
+4. "Alright, I want to get this on camera." Hold out camera and take a picture of the two of you together. Tell her she was making a weird face in the picture and try again. If the second one is good, tell her you're going to get your official first kiss on camera. Hold up the camera or give it to a bystander and don't look into her eyes deeply untilRIGHT before you kiss her. This is a very romantic and cool technique that almost always works.
 5. "Okay, on a one-to-ten scale, how good of a kisser are you?" Whatever she says, be surprised about it. (Kiss her)
 
 ## Value/Status Builder Kit
@@ -1535,13 +1109,7 @@ go back.
 8. Spread your feet out about shoulder width apart. Don't get squeezed in. Own your space around you. It's yours and you should occupy it.
 9. Smile. This is simple and effective. Just a hint of a smile can convey so much.
 10. Take full breaths. Most guys will breathe shallow breaths when they feel threatened or they feel like their personal space is too small. Breathe through your abdomen, not your chest.
-11. Keep your eyes still. Don't be
-
----
-
-# CHASE HUGHES 
-
-scanning the room for better things or cooler people. You need to know that the party is right here...inside you. Looking around the room only shows you are bored, or looking for important people in the room. Looking around like this while a guy or girl is talking to you is a solid way to boost status.
+11. Keep your eyes still. Don't bescanning the room for better things or cooler people. You need to know that the party is right here...inside you. Looking around the room only shows you are bored, or looking for important people in the room. Looking around like this while a guy or girl is talking to you is a solid way to boost status.
 12. Avoid hygienic gestures in public such as fixing hair, licking lips, adjusting clothing, looking down at your outfit, and looking into mirrors as you pass by them.
 13. Keep all of your arm movement while speaking even with or below your chest line.
 14. Remember that no matter how much you "fake" body language, your internal state of mind will leak through and be visible. Women are certifiable experts at reading body language. You must be internally sound for all of your body language to come through looking tight. This is why a man whose life is together and who "handles his business" has great body language because he knows that everything is going his way and he created that reality.
@@ -1554,13 +1122,7 @@ and use a focus line immediately. Reach out confidently as she walks by and star
 
 # Women Conversation Tricks 
 
-Contrary to what some might say, bragging about how many cores your CPU has, how fast you can download porn, or how much turbo PSI you're
-
----
-
-# CHASE HUGHES 
-
-pushing through your old riced-up Honda will not get you anything but a blank stare at best. Women respond to vivid, adjective-rich descriptions, emotional content, and controversial relationship topics. They don't care if you're a level50 goblin warrior with wizard powers. No, seriously, they don't. (I've had a ton of students and I've heard every line in the book. You might not believe how frequently these things come up.)
+Contrary to what some might say, bragging about how many cores your CPU has, how fast you can download porn, or how much turbo PSI you'repushing through your old riced-up Honda will not get you anything but a blank stare at best. Women respond to vivid, adjective-rich descriptions, emotional content, and controversial relationship topics. They don't care if you're a level50 goblin warrior with wizard powers. No, seriously, they don't. (I've had a ton of students and I've heard every line in the book. You might not believe how frequently these things come up.)
 
 The art of good storytelling will take you a long way. Women have reported being more attracted to men who demonstrate an ability to tell stories well and use humor.
 
@@ -1580,13 +1142,7 @@ A story from your life should involve humor, adventure, and emotion. Use the sam
 
 When you compliment someone on something completely unique and valid, it will be appreciated. No matter how much she's into you, she will eat up one or two (no more) compliments about something completely unique about her.
 
-You boost her value just by being around her. A woman, or anyone for that matter, will respond to you as soon as they realize you are on a different level. If you just found out that you won ten million dollars and you walked into a club, you wouldn't give a shit about anything else. Only your own good time would matter and not even a hot girl can make you think otherwise. It would be the happiest day of
-
----
-
-# CHASE HUGHES 
-
-your life, and if someone tried to pull you down, all you would do is laugh. This is how successful players establish social dominance and people feel good around them.
+You boost her value just by being around her. A woman, or anyone for that matter, will respond to you as soon as they realize you are on a different level. If you just found out that you won ten million dollars and you walked into a club, you wouldn't give a shit about anything else. Only your own good time would matter and not even a hot girl can make you think otherwise. It would be the happiest day ofyour life, and if someone tried to pull you down, all you would do is laugh. This is how successful players establish social dominance and people feel good around them.
 
 Human beings are naturally attracted to others who are positive and don't look sad or depressed. When they are in the presence of someone in a kick-ass, awesome mood, they begin to feel it themselves. Positive and fun attitudes are viral and contagious.
 
@@ -1594,22 +1150,10 @@ Be the center. Have the MOST fun. Be the HAPPIEST guy and don't worry about what
 
 ## On the Phone With Her
 
-Once you develop the ability to get lots of numbers whenever and wherever you want, you will have women who won't call you back, girls who won't answer the phone, and worse. When you make a call, there are a few things you must do to ensure she keeps highlevel interest. We'll cover this in two sections: when she picks up and when she doesn't
-
----
-
-# THE PASSPORT 
-
-1. Eat chips, cheese balls, or whatever you fancy when you talk to her. The sound alone will be enough to show her how comfortable and confident you are.
+Once you develop the ability to get lots of numbers whenever and wherever you want, you will have women who won't call you back, girls who won't answer the phone, and worse. When you make a call, there are a few things you must do to ensure she keeps highlevel interest. We'll cover this in two sections: when she picks up and when she doesn't1. Eat chips, cheese balls, or whatever you fancy when you talk to her. The sound alone will be enough to show her how comfortable and confident you are.
 2. If you get her voice mail and it's the first time you've called, say something like, "Get this, I just saw a humongous, fat clown like three seconds ago driving this pimped-out Mercedes Benz. The guy was completely dressed up and had one of those frowns painted on his face. When I pulled up next to him at the light, he looked over at me and I thought I was going to pee on myself...wait, I might have. Hold on...okay, we're good. Oh yeah, it's Chase. Call me back."
 3. If you've already had contact and have spoken a few times over the phone and you get her voice mail, create a trap. Say, "Hey, Stacie, It's Chase. I was just eating one of those huge burritos with French fries in them and it made me think of you." She will be completely taken off guard and will want to know why you thought of her when you were eating a "huge" burrito.
-4. If you have called a few times and keep getting voice mail, consider it a loss and have fun with it. Call her voice mail and
-
----
-
-# CHASE HUGHES 
-
-say, "Stacie, it's Chase. I was just thinking about you and how much I can't live without you." (In a joking tone of voice) "I just wanted to sing you a quick song 'cause I miss you so much." Then bust out a love song on her voice mail. Not a whole one, but one you're sure she knows. Then say, "Straight up...call me back, G." Do this whole voice mail in a very joking tone, but sing like you are completely miserable that she won't call you back. If she doesn't, you will have had fun.
+4. If you have called a few times and keep getting voice mail, consider it a loss and have fun with it. Call her voice mail andsay, "Stacie, it's Chase. I was just thinking about you and how much I can't live without you." (In a joking tone of voice) "I just wanted to sing you a quick song 'cause I miss you so much." Then bust out a love song on her voice mail. Not a whole one, but one you're sure she knows. Then say, "Straight up...call me back, G." Do this whole voice mail in a very joking tone, but sing like you are completely miserable that she won't call you back. If she doesn't, you will have had fun.
 5. When you get her on the phone and she answers, make sure you have a story ready to go, and a few observations about her. Don't call unless you know what you are going to say. When she answers the phone, start off with a quick story and ask her what she's up to. Keep the conversation short and tell her you have to get going somewhere. Always be the first one to say you have to go on the phone.
 6. While you are on the phone with her, the game doesn't stop. You should still be playing jokes, busting on her, and joking around. Make her say over and out, tell her you guys are going to use secret codenames for each
 
@@ -1627,13 +1171,7 @@ Games to Play
 
 Anything you did in the fourth grade is gold. Women love games and childish, fun things that remind them of childhood. To most women, there is nothing more attractive than a man who is completely confident and mature, with strong leadership skills, and who can completely let go and play childish games he played in elementary school.
 
-1. Thumb wrestling: an American classic
-
----
-
-# CHASE HUGHES 
-
-2. Hand butt (Where you put your hands together and spread your fingers and make her do the same. When you interlock hands down the middle and tell her to open hers and look inside, it will look like a bodily orifice.)
+1. Thumb wrestling: an American classic2. Hand butt (Where you put your hands together and spread your fingers and make her do the same. When you interlock hands down the middle and tell her to open hers and look inside, it will look like a bodily orifice.)
 3. Sketching a crappy picture of each other on napkins or whatever
 4. Tic-tac-toe
 5. The quick-slap hand game (don't hit her hard...duh)
@@ -1641,13 +1179,7 @@ Anything you did in the fourth grade is gold. Women love games and childish, fun
 7. Fake palm reading
 8. Have her make up a magic trick and make fun of her.
 9. Do a mock puppet show of you and her with your hands. Make her voice sound really girlie and stupid. Make her (your hand) keep trying to make out with you. (You can also make her pull out her phone and use both of your phones as puppets.)
-10. Make up code names for each other. Tell her you are going to be secret agents for the night and you have to have secret code names that she has to promise never to repeat to anyone. Make her pinky swear. (Touch hierarchy)
-
----
-
-# THE PASSPORT 
-
-11. Coolest Pet Name Game: Announce to the group that you're going to play this game. Go around the table and find out everyone's pet's names and appoint yourself as the judge.
+10. Make up code names for each other. Tell her you are going to be secret agents for the night and you have to have secret code names that she has to promise never to repeat to anyone. Make her pinky swear. (Touch hierarchy)11. Coolest Pet Name Game: Announce to the group that you're going to play this game. Go around the table and find out everyone's pet's names and appoint yourself as the judge.
 12. The timeless, classic "highfive"
 13. Bring a marker and write your names on a wall together.
 
@@ -1671,50 +1203,26 @@ were a woman. Laugh at her performance.
 
 1. You must be able to project your voice slightly louder than the environment you are in.
 2. Encourage other men to get girls. Don't be afraid to tell some guy that he would be perfect for your girl. She will know you are joking, and he will feel a little weird.
-3. Demonstrate leadership. Be the first one to take her hand and lead her or the group to a different place in the bar. Be the one to suggest going to another place together. (When you leave a bar together and go into another one together, she will stay with you because you came there together. The same principle ap-
-
----
-
-# THE PASSPORT 
-
-plies to when you move a group within a bar and find a spot or a table together.)
+3. Demonstrate leadership. Be the first one to take her hand and lead her or the group to a different place in the bar. Be the one to suggest going to another place together. (When you leave a bar together and go into another one together, she will stay with you because you came there together. The same principle ap-plies to when you move a group within a bar and find a spot or a table together.)
 4. Be more comfortable and relaxed than anyone around you. Show the LEAST signs of having any anxiety or nervousness.
 5. Don't be afraid to touch people kindly, make friendly and strong eye contact, and smile. Be genuinely interested in people and ask questions. When you do this to guys, it's completely disarming. You can get another guy to start bragging about himself and talking about his job really quickly. Act interested and impressed when they do this. You will score points with all the women if you can hold awesome conversations with guys and they see you touching them and being a leader.
 6. When someone is talking, turn your body away from him or her briefly, and then turn back to them. It will demonstrate a carefree and dominant (not domineering) attitude.
 
 ## THE 55 LAWS OF THE ALPHA MALE GENTLEMAN:
 
-1. Always take up a lot of space. Beta males always shrink up as
-
----
-
-# CHASE HUGHES 
-
-if they were apologizing for the invasion of other people's space. Be territorial. Claim it because you own it.
+1. Always take up a lot of space. Beta males always shrink up asif they were apologizing for the invasion of other people's space. Be territorial. Claim it because you own it.
 2. Be calmer than everyone around you. Stress (talking about it or showing it) is an indicator of beta-male status. Be unaffected by what others are affected by. Heat, sweat, cold, stress, etc... Leaders are aloof and confident. Stop complaining. It screams powerlessness and weakness.
 3. Slow down body movements and visualize moving underwater. Relax your eyelids.
 4. Resist the fear that you will piss people off. Be willing to be distracted when someone is talking to you. Be willing to take the lead and end the conversation when you want to. You should be the initiator for most conversations, too.
 5. STOP trying to please everyone and make him or her like you. Start qualifying everyone and don't give any fake smiles, laughs, or gestures until they EARN IT!
 6. Develop a sense of impudence: Take liberties you know you deserve.
-7. Know your own worth. When someone does you a favor or gives you something, don't over-
-
----
-
-# THE PASSPORT 
-
-appreciate it. Know that you deserved it and you had it coming from them. Act as though it is expected when people help, do favors, and give things to you. Set boundaries and limitations on what you will tolerate from others.
+7. Know your own worth. When someone does you a favor or gives you something, don't over-appreciate it. Know that you deserved it and you had it coming from them. Act as though it is expected when people help, do favors, and give things to you. Set boundaries and limitations on what you will tolerate from others.
 8. Confidence: This is simply freedom from self-doubt, and having strong beliefs in your own actions, words, and abilities. Don't overanalyze this.
 9. Be supportive of "lesser" males. Aggression is never a good idea. Use praise instead. Make sure your friends are safe and they see you ensuring their safety.
 10. Smile less often. It doesn't make you rude, just discerning. People should earn your smiles and laughs. Give them as rewards when people win you over.
 11. Don't EVER act apologetic. Don't use excuses or feel the need to explain your actions...EVER!
 12. Keep your life in order and maintain fun and discipline within it. Time with you is valuable and rare...you are busy and focused on yourself.
-13. Frame equals mood + beliefs about the current situation. Don't get sucked into anyone's mood. Pull them into yours, forcefully. Be the pillar of
-
----
-
-# CHASE HUGHES 
-
-strength that is unmovable. Why do you think strippers like those poles so much?
+13. Frame equals mood + beliefs about the current situation. Don't get sucked into anyone's mood. Pull them into yours, forcefully. Be the pillar ofstrength that is unmovable. Why do you think strippers like those poles so much?
 14. If you don't define the meaning of the interaction, the other person will do it for you.
 15. Remain silent every once in a while after someone finishes talking. Look at them and wait...they will keep talking to make you happy.
 16. Speak slowly. You will NOT lose the group's attention.
@@ -1722,13 +1230,7 @@ strength that is unmovable. Why do you think strippers like those poles so much?
 18. Don't ever laugh at your own jokes. This kills!
 19. Make statements whenever possible. People should have to earn your questions.
 20. Don't look around at other people, trying to get energy or attention from them. Your energy is within you. Be in your own universe; you can have a welcome mat, but others should still be a guest.
-21. Hold everyone's attention. If they look away or get distracted, be the first to walk away, get even more distracted, or become immediately busy.
-
----
-
-# THE PASSPORT 
-
-22. ELIMINATE the fear of being the one to break a group's state by taking the lead and beginning or ending something first so that others will follow.
+21. Hold everyone's attention. If they look away or get distracted, be the first to walk away, get even more distracted, or become immediately busy.22. ELIMINATE the fear of being the one to break a group's state by taking the lead and beginning or ending something first so that others will follow.
 23. Make yourself COMFORTABLE. Don't be uncomfortable when speaking to others or groups. Face the direction you feel like facing.
 24. Make strong eye contact. You don't have to have a serious face on when you do this. That's stupid. Smirk a tiny bit like you know more than they do.
 25. Don't try to make people like you.
@@ -1736,13 +1238,7 @@ strength that is unmovable. Why do you think strippers like those poles so much?
 27. Don't wait to take control. Seize the opportunity.
 28. Out-alpha the AMGS by shoulder taps, friendly elbows, compliments, and putting social pressure on him. Social pressure is only using a psychological spotlight.
 29. When a competing male tries to challenge you or take control of the group, ignore him, don't make eye contact, and keep your body posture. (Shoulders back and relaxed, head back, smile a little.) Comment when he's finished.
-30. Be comfortable having complete
-
----
-
-# CHASE HUGHES 
-
-control of the group. It is a responsibility you must take on. Don't be afraid that you will screw things up.
+30. Be comfortable having completecontrol of the group. It is a responsibility you must take on. Don't be afraid that you will screw things up.
 31. With men: Start qualifying immediately. As soon as you get them to qualify, compliment them on something and start telling a story before they can respond.
 32. Being in control is simple: It is only about believing fully in what you are doing. Believe that you have the best plan of action and no one could possibly do better.
 33. If someone says something you don't like, SMILE, roll your eyes a little, and give them a look as if they were a cute little kid.
@@ -1760,13 +1256,7 @@ control of the group. It is a responsibility you must take on. Don't be afraid t
 42. Straighten your spine, tilt your pelvis forward, relax, and spread out. Take up space...it's YOURS!!
 43. Don't always respond when someone calls your name. When you do respond, turn your head to them slowly.
 44. Keep it short and to the point. Don't go into some elaborate and boring story. (I know you love it, but it's boring.)
-45. When you ask advice from other people, let them have the spotlight. Don't be afraid to let someone else stand in the spot-
-
----
-
-# CHASE HUGHES 
-
-light for a while. Compliment them when they do.
+45. When you ask advice from other people, let them have the spotlight. Don't be afraid to let someone else stand in the spot-light for a while. Compliment them when they do.
 46. Never stop someone from performing acts of generosity toward you, or be too thankful when they do.
 47. Be dominant and in control. If you don't like the conversation...walk away. Start talking to someone else in the middle of the conversation if you feel like it. You are the alpha and you are in charge. Regardless of income, rank etc...you are the leader.
 48. Don't ever brag about yourself. Not bragging builds mystery. Let them discover things on their own.
@@ -1788,13 +1278,7 @@ Qualities of the HUNTER:
 - Endurance (able to catch prey; in modern times this is emotional endurance)
 - Social relaxation (Conserving energy for the hunt)
 - Ability to reflexively respond to aggressors (conveyed through stories)
-- Calculated thought patterns (able to plan in advance and have goals)
-
----
-
-# CHASE HUGHES 
-
-- Goal-oriented (Prey drive and quick decision-making skills)
+- Calculated thought patterns (able to plan in advance and have goals)- Goal-oriented (Prey drive and quick decision-making skills)
 - Motivated toward reward, not away from negative consequences
 - Motivated to protect peers and assist them in their success/hunting
 - Physical strength and power (communicated through body language alone)
@@ -1809,13 +1293,7 @@ Qualities of the LEADER:
 - Immediately and politely establishes his rank
 - Ability to show both correction and caring simultaneously
 - Commitment (to his peers' and his subordinates' success)
-- Courage (ability to be the dominant, aggressive male to
-
----
-
-# THE PASSPORT 
-
-## protect others)
+- Courage (ability to be the dominant, aggressive male to## protect others)
 
 - Goal-oriented (setting goals in very short- and long-term venues)
 - Generosity (sharing with lesser males and giving helpful advice when needed)
@@ -1827,13 +1305,7 @@ Qualities of the LEADER:
 - Listening ability (able to understand the needs of his pack; making sure the pack knows this)
 - Comfort (making sure he is always comfortable so the pack is able to rest assured of no predators)
 - Slow movements (able to display vulnerability in the face of a predator; he's in control of himself)
-- Ability to solve problems (this
-
----
-
-# CHASE HUGHES 
-
-is similar to initiative except with added critical thinking)
+- Ability to solve problems (thisis similar to initiative except with added critical thinking)
 
 - No need to ever make fun of others. Never puts another pack member down. Points out the good.
 
@@ -1854,13 +1326,7 @@ Meant to be delivered in a semicocky and mostly teasing/playful tone: 1. How muc
 8. Are you a drug dealer?
 9. "My mom would SOOO not approve of you. You are t-r-o-u-b-le...did I spell that right?"
 10. If you ever come out with me, I'm wearing a fake mustache!
-11. You're not really my type, but I'd bet you'd be an awesome shopping buddy. You could pick out all my outfits and stuff.
-
----
-
-# CHASE HUGHES 
-
-How good are you at fashion?
+11. You're not really my type, but I'd bet you'd be an awesome shopping buddy. You could pick out all my outfits and stuff.How good are you at fashion?
 12. If you were a lesbian, would you convert for George Clooney?
 13. You know that you and I would never get along...and I would win all the fights, too!
 14. If she asks where you are from, tell her you were cryogenically frozen and you're actually from the sixties. Start using words like groovy and hip.
@@ -1870,13 +1336,7 @@ How good are you at fashion?
 
 ## Dealing With Other Guys
 
-It's going to happen eventually. Most guys are very insecure and
-
----
-
-# THE PASSPORT 
-
-will become angry when they see you talking to a girl they know. This is very easy to deal with if you know how to judge the situation.
+It's going to happen eventually. Most guys are very insecure andwill become angry when they see you talking to a girl they know. This is very easy to deal with if you know how to judge the situation.
 
 If you are in conversation already and he comes out of nowhere and puts his arm around her or makes obvious gestures that he is with her, use an approach line on him and ask them how long they have been together. Congratulate them on being a cute couple and bail.
 
@@ -1908,13 +1368,7 @@ Belt and shoes should be the same color. Black and brown don't go well together,
 
 When you go out to bars, dinner, and such, you should dress well. While it can actually benefit you to wear old, faded (clean) clothes, you should use it in moderation. When going to the mall or something, it is a demonstration of disinterest and communicates you are not trying to impress anyone. This works in your favor provided the clothes, and you, are clean.
 
-A simple pair of modern slacks and a dress shirt with the top two buttons (no more) unbuttoned is acceptable. Don't wear anything with pleats. They are way out of style and the fashion police will shoot you on sight if they catch you. Just don't do it.
-
----
-
-# CHASE HUGHES 
-
-Get rid of:
+A simple pair of modern slacks and a dress shirt with the top two buttons (no more) unbuttoned is acceptable. Don't wear anything with pleats. They are way out of style and the fashion police will shoot you on sight if they catch you. Just don't do it.Get rid of:
 Pull-over strap shoes with the hook and loop stuff
 pleated pants and shorts
 The 1980s river sandals (wear some nice flip flops instead)
@@ -1926,13 +1380,7 @@ It's cool to wear pieces of clothing or jewelry that attract attention, but DON'
 
 ## Your House
 
-You don' t have to have a five-million-dollar house with expensive furniture to take home even the richest model in sight. It doesn't work that way. Having stuff awry in your house can sometimes help you.
-
----
-
-# THE PASSPORT 
-
-only because women sometimes see men as little projects and look for your potential instead of your actual condition.
+You don' t have to have a five-million-dollar house with expensive furniture to take home even the richest model in sight. It doesn't work that way. Having stuff awry in your house can sometimes help you.only because women sometimes see men as little projects and look for your potential instead of your actual condition.
 
 If your house is clean, organized, and stylish, you are halfway there.
 
@@ -1946,13 +1394,7 @@ If your house is clean, organized, and stylish, you are halfway there.
 - Put some curtains up on windows to build a sense of privacy when you bring her home.
 - Leave out a few things that are interesting to look at and demonstrate your personality like cool books (not this one), art, something from one of your hobbies-something she will want to pick up and ask you about.
 - Have a wine rack or something like it ready for drinks in the living room.
-- Put out candles but don't
-
----
-
-# CHASE HUGHES 
-
-overdo it (make sure you have matches).
+- Put out candles but don'toverdo it (make sure you have matches).
 
 - Have music ready to go, but don't make it obvious you were expecting to bring her home (i.e. hooking the clapper thing up to the CD player that plays "Let's Get It On").
 
@@ -1969,13 +1411,7 @@ Think about one word: CLEAN
 6. Sheets, pillows, and comforter should be clean and the bed made.
 7. Keep cool books on the bedside table.
 8. Leave clean and clutter-free horizontal spaces in the room (bookshelves, tables, nightstands, etc.).
-9. Have one framed picture in the bathroom and at least three in the bedroom.
-
----
-
-# THE PASSPORT 
-
-10. Make sure the bedroom smells nice and not from a bunch of cologne covering up your gym laundry that's been there for two weeks.
+9. Have one framed picture in the bathroom and at least three in the bedroom.10. Make sure the bedroom smells nice and not from a bunch of cologne covering up your gym laundry that's been there for two weeks.
 11. Put a few candles on the tables and bookshelves and keep one on the bedside table.
 12. Have things ready in your room or living room for the interaction process.
 
@@ -1983,13 +1419,7 @@ Think about one word: CLEAN
 
 The same exact techniques you might use in the bar or bookstore can also be used while you are online. The difference is that you can't "approach" a woman online and do a set of body language and verbal tricks to build the initial attraction momentum and make her interested in you. This is where your "profile" comes into play.
 
-Every profile you see from guys online is the same; they talk very little about what they want in a woman and instead, brag about themselves and try to list reasons women should like them. They display a barrage of boring, shirtless, and beer bottle-littered pictures that are supposed to show how cool they are. This is a good thing because you will be able to stand
-
----
-
-# CHASE HUGHES 
-
-out a lot more once you read this.
+Every profile you see from guys online is the same; they talk very little about what they want in a woman and instead, brag about themselves and try to list reasons women should like them. They display a barrage of boring, shirtless, and beer bottle-littered pictures that are supposed to show how cool they are. This is a good thing because you will be able to standout a lot more once you read this.
 The Internet has become an increasingly popular place to meet girls. From dating websites to hookup havens, it's still easy. No matter where you are trying to meet women, the principles stay the same. Once you can communicate that you are the one CHOOSING them, it becomes easy.
 
 The best way to reverse the chasing roles online is to look at a bunch of women's profiles and take the good stuff from them. Steal their beliefs. Women will have a mile-long list of all the qualities they want in a man and a list of disqualifiers that tell men whether or not they are good enough for them. It's completely insane and all you have to do is take their mentality from them. Bring the screening process and fun onto your profile. If you scan a hundred women's profiles, you'll see a word that most of them have in common: "FUN." Women are completely wrapped around this word online.
@@ -2002,31 +1432,13 @@ with devil horns, or a funny picture of yourself. Demonstrating FUN is the bigge
 
 On the intro to your page, let everyone know that you are basically only looking for friends because there are so many weird and psycho girls on the Internet and it makes you very cautious about meeting them online.
 
-As they look through your profile, women will screen keywords as they read to see if you have what they are looking for. Make sure you talk about how great your own life is and how much you enjoy it. This is incredibly attractive to women. As you write your paragraph about yourself, put a few things in there to demonstrate personality. Use humor and don't try to make it sound professional. Here are a few samples to go by:
-
----
-
-# CHASE HUGHES 
-
-1. "I am 26 and my life has never been better! Every day is more fun than the next and I love being me. I am only looking for friends here because the Internet has waaaaay too many psychotic and weird girls. If you know how to shop, and you aren't a basket case, drop me a line."
+As they look through your profile, women will screen keywords as they read to see if you have what they are looking for. Make sure you talk about how great your own life is and how much you enjoy it. This is incredibly attractive to women. As you write your paragraph about yourself, put a few things in there to demonstrate personality. Use humor and don't try to make it sound professional. Here are a few samples to go by:1. "I am 26 and my life has never been better! Every day is more fun than the next and I love being me. I am only looking for friends here because the Internet has waaaaay too many psychotic and weird girls. If you know how to shop, and you aren't a basket case, drop me a line."
 2. "Women beware! I am a bachelor and I'm probably not the right guy for you. If you aren't adventurous and fun, there are PLENTY of boring guys on here. If you are emotionally mature, a good friend, and know how to be a bitch when you need to be, you rock."
 3. "I'm not the right guy for you if you like boring, ass-kissing guys. I am responsible, but I live above the common level of life. Nothing is more fun than being me and I love my life."
 4. "Things I find attractive in women: Emotional maturity, FUN, ability to exchange cocky banter, being a good friend, women who have and keep good friends, women who can be a bitch if they need to, playfulness, confidence, not being a stalker, having goals, the ability to have fun no matter what you are doing, and conversation skills."
-5. "Things I will never tolerate in
-
----
-
-# THE PASSPORT 
-
-women: neediness, insecurity, stalker potential, immaturity (although it's awesome to have tons of fun), inability to keep friends in your life, having no goals, and dating loser guys for no reason."
+5. "Things I will never tolerate inwomen: neediness, insecurity, stalker potential, immaturity (although it's awesome to have tons of fun), inability to keep friends in your life, having no goals, and dating loser guys for no reason."
 6. "Please don't write me if you like dating ass-kissing, ap-proval-seeking men. I am mostly on here for friends due to the increasingly large volume of women who are boring on here. If you are fun, adventurous, mature, and describe yourself as a 'good friend,' send me a note. There are millions of boring-guy profiles on here who will buy you tons of stuff if that's what you are looking for. I want someone to have FUN with. We can talk about other stuff later. PLEASE DON'T WRITE ME IF YOU ARE LOOKING FOR A PUPPY DOG."
-7. "Nothing is more important to me right now than my life. I have fun no matter what I'm doing and I love being me. I'd like to eventually share that with someone and make them important too, but I'm just looking for friends on here right now. Lots of women on here are kinda creepy, so I am just looking for women who like to have fun and aren't a basket case. No, I won't give
-
----
-
-# CHASE HUGHES 
-
-you my cell number unless I get to know you. I judge women by the quality of friends they have. I think this is a huge indicator of maturity and womanhood that most don't have today."
+7. "Nothing is more important to me right now than my life. I have fun no matter what I'm doing and I love being me. I'd like to eventually share that with someone and make them important too, but I'm just looking for friends on here right now. Lots of women on here are kinda creepy, so I am just looking for women who like to have fun and aren't a basket case. No, I won't giveyou my cell number unless I get to know you. I judge women by the quality of friends they have. I think this is a huge indicator of maturity and womanhood that most don't have today."
 8. "Things I like to do: Have FUN no matter what, play stupid games at bars that embarrass my friends, kayaking, rock climbing, giving high-fives to random people on the street, keeping my friends out of trouble, watching my dog stare at himself in the mirror, leaving my cell phone at home for a day, surfing, bonfires on the beach, staying in when it's raining (yeah, it's girly, but I love it), going to guitar stores and playing random guitars, messing with employees at drive-throughs, dog parks, mentoring friends, and making fun of girls who can dish it back out."
 
 ---
@@ -2037,23 +1449,11 @@ TRANSFORMATION PROCESS
 
 This program has been used by all kinds of men with all kinds of problems with women. It has worked almost completely and it was made to work for you. You only have to be READY for the switch to being an Alpha Male. It is a lifestyle change that doesn't just change who you are while you are approaching women. It's permanent and it's your choice.
 
-Buy an organizer or a pocket calendar to help you document your progress. You will be able to mark the day you began to feel the change. And if you are unable to finish an assignment, you can push it to the right and finish it
-
----
-
-# CHASE HUGHES 
-
-later. Remember, this is not a science, so feel free to make mistakes and laugh your ass off about it. This program is to be used day-byday, making small, but significant movement in the right direction. Use it at your own pace. It's your personal coach, but you have to be committed to becoming the AMG. The actual shift in lifestyle takes place in different places within the program for different guys, but you will know it as soon as you feel it. The exercises and homework assignments each day are designed to effect a change in your life. Some are designed for social muscle development, while others are for attraction-building skills.
+Buy an organizer or a pocket calendar to help you document your progress. You will be able to mark the day you began to feel the change. And if you are unable to finish an assignment, you can push it to the right and finish itlater. Remember, this is not a science, so feel free to make mistakes and laugh your ass off about it. This program is to be used day-byday, making small, but significant movement in the right direction. Use it at your own pace. It's your personal coach, but you have to be committed to becoming the AMG. The actual shift in lifestyle takes place in different places within the program for different guys, but you will know it as soon as you feel it. The exercises and homework assignments each day are designed to effect a change in your life. Some are designed for social muscle development, while others are for attraction-building skills.
 
 ## DAY 1
 
-Take care of yourself. You should be in a better mood than anyone around you. All you have to do today is smile. Smile like you are having the best day of your life and everything always goes your way. When someone is in a really good mood, people can tell and it is extremely attractive. People know by your smile that you don't have anything to prove, nor do you have any hatred for anyone you meet. It's irresistible and you will notice a different reaction today when you act like you're hav-
-
----
-
-# THE PASSPORT 
-
-ing the best day of your life.
+Take care of yourself. You should be in a better mood than anyone around you. All you have to do today is smile. Smile like you are having the best day of your life and everything always goes your way. When someone is in a really good mood, people can tell and it is extremely attractive. People know by your smile that you don't have anything to prove, nor do you have any hatred for anyone you meet. It's irresistible and you will notice a different reaction today when you act like you're hav-ing the best day of your life.
 
 ## DAY 2
 
@@ -2071,13 +1471,7 @@ Make a list of what you want in a woman. List specifically what you will not tol
 
 ## DAY 5
 
-The malls are full of kiosks with pushy, overselling salesmen. Go out today, act like you are to-
-
----
-
-# CHASE HUGHES 
-
-tally interested in a few products, look them over for a few minutes, and walk away. Tell the salesman you aren't interested. Salesmen put all kinds of social pressure on you to stay there and keep talking and looking at products. Tolerance to social pressure will put you ahead of ninety percent of men. You NEED to be able to tolerate pressure and completely brush it off. This ability alone will make you stand out to women.
+The malls are full of kiosks with pushy, overselling salesmen. Go out today, act like you are to-tally interested in a few products, look them over for a few minutes, and walk away. Tell the salesman you aren't interested. Salesmen put all kinds of social pressure on you to stay there and keep talking and looking at products. Tolerance to social pressure will put you ahead of ninety percent of men. You NEED to be able to tolerate pressure and completely brush it off. This ability alone will make you stand out to women.
 
 ## DAY 6
 
@@ -2093,13 +1487,7 @@ Write all the habits down you need to start doing in your life. Keep it with you
 
 ## DAY 9
 
-Concentrate on body language for
-
----
-
-# THE PASSPORT 
-
-a day. Write down the body language notes from the earlier chapter and keep it with you. Make constant reference to it.
+Concentrate on body language fora day. Write down the body language notes from the earlier chapter and keep it with you. Make constant reference to it.
 
 ## DAY 10
 
@@ -2115,13 +1503,7 @@ Ask three store employees (men or women) for good movie recommendations.
 
 ## DAY 13
 
-Practice eye contact for a day. Smile while you do this and it will never be seen as a threat. When you are speaking to someone, maintain eye contact and keep their attention.
-
----
-
-# CHASE HUGHES 
-
-## DAY 14
+Practice eye contact for a day. Smile while you do this and it will never be seen as a threat. When you are speaking to someone, maintain eye contact and keep their attention.## DAY 14
 
 Call at least three company's toll-free numbers and use approach questions and story routines on the female operators.
 
@@ -2139,13 +1521,7 @@ Go to Starbucks or a coffee shop near your house and read a romance novel in fro
 
 0nce you become a successful AMG, you'll have the awesome privilege of having fantastic physical and emotional relationships with the women you always wanted. Throughout your relationships, you will inevitably hit some speed bumps, roadblocks, and a few detours. Illustrated are two major scales in relationships with women. Once one side is weighted the other will rise. Here is the crash course on the most important and crucial things for you to remember in a relationship.
 
-Also, you will learn the basic principles of how to argue, fight (metaphorically speaking), keep romance and desire alive, and hold your own when she gets pissed off about something. The art of manliness is one of constant awareness and vigilance. You must keep the
-
----
-
-# CHASE HUGHES 
-
-closest watch on your own emotions and feelings. They can ruin a good day quickly.
+Also, you will learn the basic principles of how to argue, fight (metaphorically speaking), keep romance and desire alive, and hold your own when she gets pissed off about something. The art of manliness is one of constant awareness and vigilance. You must keep theclosest watch on your own emotions and feelings. They can ruin a good day quickly.
 
 The beginning of a relationship is the phase where both of you put in a lot of work, not to keep the relationship going, but to make sure your partner sees you as a cool guy or girl. Both of you are self-conscious, slightly reserved, and very observant.
 
@@ -2159,13 +1535,7 @@ She will appreciate anything you do for her tenfold if you do it irregularly and
 
 ## DEALING WITH HER BITCHING
 
-When she vents, even if it's about you, you have to remember two things about this:
-
----
-
-# THE PASSPORT 
-
-1. She is NOT expressing a set of new and permanent viewpoints about you. They will change eventually and she WILL get out of her mood.
+When she vents, even if it's about you, you have to remember two things about this:1. She is NOT expressing a set of new and permanent viewpoints about you. They will change eventually and she WILL get out of her mood.
 2. She only needs you to listen when she's mad at you. She's not secretly asking for you to explain yourself.
 The urge to try to "fix" her mood and lift her out of being depressed or pissed off is almost uncontrollable. But you must resist it.
 
@@ -2173,13 +1543,7 @@ When she starts to complain about her day, her friends, her life or even you, yo
 
 You have to resist the urges to talk her out of her mood. Resist the urge to defend yourself. While she is mad at you, nothing can change her mind except talking about it. As she talks, it's as if she's taking baby steps out of a hole in the ground. She will talk herself out of her own bad moods most of the time if you are a good listener. Wait a day or two to defend yourself. Oftentimes, she WILL apologize for what she said if you are a good listener.
 
-Make sure she feels like you are protecting her and you want her to feel safe. ALWAYS take her side when she's pissed off about something other than you.
-
----
-
-# CHASE HUGHES 
-
-## JEALOUSY AND INSECURITY
+Make sure she feels like you are protecting her and you want her to feel safe. ALWAYS take her side when she's pissed off about something other than you.## JEALOUSY AND INSECURITY
 
 You will feel it at all kinds of weird and inexplicable times. Some guys feel it if she has guy friends who call her a lot. Some men feel it when she goes to the bar or club without them. It happens to the best of us. It's happened to me.
 
@@ -2210,13 +1574,7 @@ Emotional Reasons:
 When a woman selects a man for a long-term relationship, she is looking for a man with the same qualities she wants in an ideal father figure:
 
 1. Takes care of her
-2. Treats her with respect
-
----
-
-# CHASE HUGHES 
-
-3. Will call her BS if need be
+2. Treats her with respect3. Will call her BS if need be
 4. Willing to risk himself to defend her
 5. Committed to her through whatever happens
 6. Takes the lead and doesn't back down
@@ -2250,13 +1608,7 @@ While most of your problems within an interaction can be traced back to one of t
 Getting bad body langage means one of two things: Either you are facing in to the group too much or are coming off as somewhat needy. Work on this and you will find your weakness
 2. Getting fake numbers
 
-Girls do this for several reasons: Either she has a boyfriend and doesn't want to hurt your feelings, she's married but lives to be flirted with and just used you to boost her ego
-
----
-
-# CHASE HUGHES 
-
-or you demonstrated too much physical interest in her in the initial interaction. When you first approach, try not to make faces like you think the lines coming out of your mouth are the coolest thing she's going to hear this year. Keep a very calm and controlled appearance and don't let her cach you sneaking a peak at cleavage, ass or anything else. Remember to be selective and that she has not yet earned your affection.
+Girls do this for several reasons: Either she has a boyfriend and doesn't want to hurt your feelings, she's married but lives to be flirted with and just used you to boost her egoor you demonstrated too much physical interest in her in the initial interaction. When you first approach, try not to make faces like you think the lines coming out of your mouth are the coolest thing she's going to hear this year. Keep a very calm and controlled appearance and don't let her cach you sneaking a peak at cleavage, ass or anything else. Remember to be selective and that she has not yet earned your affection.
 3. Too nervous on the approach
 
 Simply put; everyone gets this and you will need to approach several women in all kinds of situations to get over it. The quickest ad fastest way to get over the anxiety of approaching is to use absolutely ridiculous lines with the intent for her to reject you and see how much you can get away with. Have your friends make up lame-ass lines for you to go and use designed for you to fail. It will be fun and make sure you take pictures to remember your times as an average guy. It won't be long before you are at the round table.
@@ -2276,13 +1628,7 @@ If you haven't successfully made it into the 'TWO' phase, then she will likely t
 
 This is part deux of The Passport. The 5-2-6 Workbook is designed to maximize the amount you absorb and retain from the book. It is also designed to be a catalyst for the life-altering transition into the AMG's world. Keep it close and make sure you refer to your own notes often. Just writing something down won't necessarily help you unless you re-read it as you progress and evolve.
 
-Number of women I've approached:
-
----
-
-# CHASE HUGHES 
-
-The three biggest fears I have with women are:
+Number of women I've approached:The three biggest fears I have with women are:
 1.
 2.
 3.
@@ -2311,25 +1657,13 @@ My goals, in respect to women, in the next six months are...
 
 How has being passive or insecure hurt my relationships in the past?
 
-As I progress toward the AMG level, I will see changes in what ways?
-
----
-
-# CHASE HUGHES 
-
-As I perfect my skills with women, what other things in my life will improve as a result?
+As I progress toward the AMG level, I will see changes in what ways?As I perfect my skills with women, what other things in my life will improve as a result?
 
 In order of importance, what do I need to change most to become an AMG?
 
 What is my timeline for becoming "good" with women?
 
-How will I know when I'm getting better?
-
----
-
-# THE PASSPORT 
-
-Create one line for each step on your own:
+How will I know when I'm getting better?Create one line for each step on your own:
 
 F
 I
@@ -2380,13 +1714,7 @@ Simply the greatest of all time. One hour of his boot camp is worth the price of
 
 Real Social Dynamics-
 www.realsocialdynamics.com
-I've changed my life because of these guys. I have learned more about social interaction and inner game than ever before. Tyler Dur-
-
----
-
-# CHASE HUGHES 
-
-den's book is called The Blueprint and will be available soon on the website.
+I've changed my life because of these guys. I have learned more about social interaction and inner game than ever before. Tyler Dur-den's book is called The Blueprint and will be available soon on the website.
 www. themenspassport. com
 www. bristollair.com
 www.fastseduction.com
