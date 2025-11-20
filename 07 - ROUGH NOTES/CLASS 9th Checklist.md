@@ -1,3 +1,7 @@
+ENGLISH LANGUAGE AND LITERATURE (Code No. 184) SYLLABUS CLASS – IX (2024-25
+
+
+
 # **Reading Skills**
  - [ ] Discursive passage of 400-450 words. 
  - [ ] Case-based factual passage (with visual input- statistical data/chart etc.) of 200-250 words.
