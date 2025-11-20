@@ -518,8 +518,6 @@ which automatically puts your status into the sewer. Just don't do it, or find a
 
 Bars and Clubs: Bars and clubs will almost never reward a guy using a directly interest-conveying approach. Bars and clubs are an extremely high-stimulus environment, so to approach here, you need to be more interesting, commanding, and fun than the environment (most girls are there to hang with their friends, get drunk, and let the music and flashing lights distract them from the problems in their daily lives) around you. The relationship and childhood questions are best suited for bars and clubs. You've got to be loud and project over the noise to be heard and understood. This is where most guys think they will get laid, get lucky, and find a decent girlfriend. Just because there is more to choose from and they are wearing slutty clothing does not mean that the women there are of good quality. The best reports I get from my students are from when they approached girls in the daytime: a store, mall, or even a fast-food joint. Don't get me wrong; there is a lot to be said about the nightlife, but the best girlfriendsyou'll get will be a result of a daytime non-club environment. All the techniques you'll ever need to meet and keep women are in here.
 
----
-
 # THE 5-2-6 METHOD EXPLAINED 
 
 Here it is: the secret method. Each phase has a brief description of what it is and what's going on in her head during this phase and is followed by an all-inclusive list of the most advanced techniques available to fully accomplish each step.
@@ -536,11 +534,7 @@ athlete became that way overnight. They hit thousands upon thousands of practice
 
 Here's the full and complete guide to the 5-2-6 system. Examples are listed after the description of each phase of the system and should be used, mixed around, and changed however you want. They are a guide and not an oracle. Each man's personality is different and might better be reflected by the use of varying the timing, tonality, and word choice of each example.
 
-Do whatever you have to do to make her ugly and completely repulsive in your mind. Imagine all the
-
----
-
-problems she might have, the disgusting guys she's been with, or worse. Just make sure you don't FEEL a whole lot of attraction because it will "leak" out in your body language whether you like it or not.
+Do whatever you have to do to make her ugly and completely repulsive in your mind. Imagine all the problems she might have, the disgusting guys she's been with, or worse. Just make sure you don't FEEL a whole lot of attraction because it will "leak" out in your body language whether you like it or not.
 
 When a lot of my students started, they got in a huge rush to recite everything they memorized as fast as they could, hoping the words were the key to the girl's heart. It's not true. Remember to pause for effect, and speak as though you have all the time in the world. As soon as you begin using pauses in normal conversation and while meeting women, the attention-grabbing power will amaze you. People are somehow drawn to pauses when they are timed to precede a good part in a story, a point being made, or even the end of a question.
 
@@ -550,11 +544,7 @@ The 5-2-6 is an art form that fluctuates and varies in its scientific precision.
 
 Focus is all about the ability to make a woman ignore or forget something else that is otherwise important to her. Her friend is tugging on her sleeve and telling her it's time to go, but she's fixated on what you are saying. There are two basic ways to achieve this. Touching her for the first time takes place now.
 
-Take a look at the black line on the model. At the beginning, it depicts the perceived level of social status you have at the beginning of the approach. As soon as you walk up, you have work to do. She immediately puts you into the chump category before you speak, simply because you are approaching her like all the others. When you build high focus, she will understand that she's wrong about you. Your value, as you progress in the approach, will steadily increase and
-
----
-
-level off just slightly above hers. This illustrates that you should never put her down out of anger, meanness, or fear. Simply keeping a moderate level of sexual tension and making her focus on you makes this line stay above hers. Also notice that when you walk up, her value is above yours.
+Take a look at the black line on the model. At the beginning, it depicts the perceived level of social status you have at the beginning of the approach. As soon as you walk up, you have work to do. She immediately puts you into the chump category before you speak, simply because you are approaching her like all the others. When you build high focus, she will understand that she's wrong about you. Your value, as you progress in the approach, will steadily increase and level off just slightly above hers. This illustrates that you should never put her down out of anger, meanness, or fear. Simply keeping a moderate level of sexual tension and making her focus on you makes this line stay above hers. Also notice that when you walk up, her value is above yours.
 
 This is the number one place where men get fear and anxiety for no reason. Most guys will see a woman and immediately launch into the thought cycle of "What opener do I use?" and keep running it over in their heads until they have either made the woman freaked out from staring, or she has left the area. Don't let this happen to you. The only reason men have so much fear around this is because they think that this one woman will somehow either reject them and go tell every other woman on the planet, or if they aren't able to get her, there won't be another one like her in ten thousand years. When you approach and go into the FOCUS stage, you must understand that she is only one single woman and there are hundreds more within only miles of you that you will be able to get as soon as you are finished with her. There really is no possible way that anything bad can come of approaching a woman. You will still feel the fearof approach, but you must keep going, because the only way to eradicate it is to get as many as you can over with.
 
@@ -575,11 +565,7 @@ A good way to give your approach a little more authenticity is to have a friend 
 
 When you approach women, you will feel your body start to send out chemicals that make your heart beat faster. You might get nervous, as most ALL men do. This is energy that your body produces as a result of biology. Seventy thousand years ago, you might have needed this, but not now.
 
-Watch a few movies with Brad Pitt in them. Notice he's usually eating something while he is doing something else. Doing this shows you have more to do than just talk to whoever it is. You are busy doing something else. This also aids in expending that nervous energy you feel. If you walk up to a group
-
----
-
-while chewing gum, eating an apple, or sucking on a lollipop, it can tremendously reduce your anxiety and nervousness. Even the most successful players have this reaction when they approach. You will get used to it, and it will only be a tingle in your brain when you've got a few months of experience under your belt.
+Watch a few movies with Brad Pitt in them. Notice he's usually eating something while he is doing something else. Doing this shows you have more to do than just talk to whoever it is. You are busy doing something else. This also aids in expending that nervous energy you feel. If you walk up to a group while chewing gum, eating an apple, or sucking on a lollipop, it can tremendously reduce your anxiety and nervousness. Even the most successful players have this reaction when they approach. You will get used to it, and it will only be a tingle in your brain when you've got a few months of experience under your belt.
 
 Remember; you MUST be more fun and more energetic than they are. You don't want to go into the group and have them thinking that you brought THEM down. You have to be happier and more confident than anyone there. Don't be energy-needy; you should be the one issuing it out to everyone in the group.
 
@@ -616,11 +602,7 @@ Get this; my phone rings at like 2 a.m. this morning and I usually don't pick it
 
 ## Accidental Sex Party
 
-My friend and I were at this stupid VIP party for the release of his book last week and we got invited to this "house party." (Make the quotations gesture.) We took these directions to this house. It was nice and everyone seemed cool, but like thirty minutes into the party, we saw like three couples making out in the living room, so we just went to the patio. Everyone started getting undressed. All of these gross, fat people started taking
-
----
-
-clothes off. Chris thought it was cool and was like, "Dude, it's a swinger party," but I grabbed his arm and we ran out of the front door. I'm freaked out and I'm thinking they're going to chase us down or something. Just as we get outside, my friend runs back in, smacks this dude on the ass, and runs back outside to get into the car. I felt so dirty just thinking about what was going on after we left. It was disgusting.
+My friend and I were at this stupid VIP party for the release of his book last week and we got invited to this "house party." (Make the quotations gesture.) We took these directions to this house. It was nice and everyone seemed cool, but like thirty minutes into the party, we saw like three couples making out in the living room, so we just went to the patio. Everyone started getting undressed. All of these gross, fat people started taking clothes off. Chris thought it was cool and was like, "Dude, it's a swinger party," but I grabbed his arm and we ran out of the front door. I'm freaked out and I'm thinking they're going to chase us down or something. Just as we get outside, my friend runs back in, smacks this dude on the ass, and runs back outside to get into the car. I felt so dirty just thinking about what was going on after we left. It was disgusting.
 
 # Watermelon Seeds 
 
@@ -630,13 +612,7 @@ My friend and I were in this costume shop earlier today and we saw this Batman c
 
 ## The Sound Of Music
 
-We were in the video store last week and I saw that movie on the shelf. My friend said she hadn't seen it in a long time, so we bought it. As soon as we got back to my house, she ran into the living room and started singing that 'My Favorite Things' song and dancing all over the place like a complete idiot. (Body language demo) I busted out my camera real quick (body language demo) and I made a
-
----
-
-THE PASSPORT
-
-video of her singing and dancing all over my house. I posted it on that video website and emailed her a link to it. I wrote the title as 'A Hot Girl Singing' and she got so pissed off when she saw it had been viewed like a thousand times. I told her I would delete it, but I think she likes it. Girls are such dorks.
+We were in the video store last week and I saw that movie on the shelf. My friend said she hadn't seen it in a long time, so we bought it. As soon as we got back to my house, she ran into the living room and started singing that 'My Favorite Things' song and dancing all over the place like a complete idiot. (Body language demo) I busted out my camera real quick (body language demo) and I made a video of her singing and dancing all over my house. I posted it on that video website and emailed her a link to it. I wrote the title as 'A Hot Girl Singing' and she got so pissed off when she saw it had been viewed like a thousand times. I told her I would delete it, but I think she likes it. Girls are such dorks.
 
 The Koala Bear
 
@@ -652,9 +628,6 @@ My friend and I were in his car the other day, and he has one of those Bluetooth
 
 1. Handshake: Launch into thumb war as soon as you shake hands if you think she's into it.
 2. The "Daps": Hold out your fist instead of shaking hands. Most men never do this to women and it will make you stand out. When she goes to give you the "pound," tell her she doesn't know how to do it. Teach her the right way by using her hand (playfully) and going into "slow mo."
-
----
-
 3. Pointing at her clothes and touching them while you are either making fun of them or just looking. Note: Don't ask her what the fabric is. It's lame.
 
 # I-NTEREST 
@@ -663,7 +636,7 @@ This phase begins after you've made yourself known and you are being listened to
 
 Look at the dark blue line on the model. It represents her attraction to you. Notice a HUGE spike as soon as you reach this phase.
 
-A woman's interest level is dictated and controlled by reactions to stimulus. Here, you will grab her emotional steering wheel and begin the process of making her chase you. The examples are designed to communicate and demonstrate indifference and disinterest. Why do this? She hasn't earned your interest yet and will need to do a little work to get it. You will immediately see a reaction when you use these tactics, and youwill be tempted to pause and let her react to them. Don't. Just use them and continue with another story. You are deliberately creating a social void in the interaction.
+A woman's interest level is dictated and controlled by reactions to stimulus. Here, you will grab her emotional steering wheel and begin the process of making her chase you. The examples are designed to communicate and demonstrate indifference and disinterest. Why do this? She hasn't earned your interest yet and will need to do a little work to get it. You will immediately see a reaction when you use these tactics, and you will be tempted to pause and let her react to them. Don't. Just use them and continue with another story. You are deliberately creating a social void in the interaction.
 
 One thing about voids is that we all want to fill them. When you create a gap in the interest level, a woman will naturally want to fill the void. When you tell a girl she's not your type, she feels the need to prove otherwise. A void in attraction is more powerful than any tool in this kit.
 
