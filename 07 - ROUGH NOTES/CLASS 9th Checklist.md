@@ -5,4 +5,8 @@
 # **Grammar and Writing Skills**
 ## Grammar
 - [ ] Determiners
-- [ ] Tense
+- [ ] Tenses
+- [ ] Modals
+- [ ] Subject-Verb Concord
+- [ ] Reported Speech
+	- [ ] Commands and Requests
