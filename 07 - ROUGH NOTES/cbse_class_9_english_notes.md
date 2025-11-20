@@ -78,13 +78,13 @@ The story explores the future of education and the impact of technology on socia
 
 #### Part I: Evelyn Glennie Listens to Sound without Hearing It
 
-#### Summary
+##### Summary
 
 This part of the chapter tells the inspiring story of Evelyn Glennie, a profoundly deaf multi-percussionist. Her hearing loss began at age eight and was almost complete by age eleven. Instead of giving up, she was determined to lead a normal life and pursue her interest in music. She learned to sense music through different parts of her body, essentially feeling the vibrations. With the help of her mentor, percussionist Ron Forbes, she mastered this technique and went on to attend London's Royal Academy of Music, where she scored one of the highest marks in the academy's history. The story highlights her journey of overcoming her disability to become a world-renowned and sought-after musician, inspiring millions.
 
 ---
 
-#### Plot (Main Events)
+##### Plot (Main Events)
 
 - **Exposition:** A young Evelyn Glennie is on a train platform, nervous but excited about her audition at the prestigious Royal Academy of Music in London, a huge challenge for someone who is profoundly deaf.
 - **Rising Action:** Flashbacks reveal Evelyn's gradual hearing loss, her determination not to give up, and her discovery of sensing music through vibrations with the guidance of percussionist Ron Forbes.
@@ -94,7 +94,7 @@ This part of the chapter tells the inspiring story of Evelyn Glennie, a profound
 
 ***
 
-#### Setting
+##### Setting
 
 - **Time:** Spans from Evelyn's childhood in the 1970s to her adulthood as an established musician.
 - **Place:** Various locations including her home in Scotland, the Royal Academy of Music in London, and concert stages around the world.
@@ -116,9 +116,9 @@ This part of the chapter tells the inspiring story of Evelyn Glennie, a profound
 
 ***
 
-### Part II: The Shehnai of Bismillah Khan
+#### Part II: The Shehnai of Bismillah Khan
 
-#### Summary
+##### Summary
 
 This section chronicles the life of the legendary shehnai maestro, Ustad Bismillah Khan. It traces the origin of the shehnai and Bismillah Khan's deep connection with the instrument from a young age. Born in Dumraon, Bihar, he was fascinated by the shehnai played by his maternal uncle, Ali Bux, at the Vishnu temple in Varanasi. Bismillah Khan practiced for hours on the banks of the River Ganga, which inspired him to invent new ragas. He brought the shehnai from temples and weddings to the classical stage, gaining international recognition. Despite his fame, he remained a simple man, deeply devoted to his music and his country, considering Varanasi and the Ganga his greatest inspirations.
 
