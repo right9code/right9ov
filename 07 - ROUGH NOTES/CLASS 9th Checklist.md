@@ -14,4 +14,5 @@
 	- [ ] Questions
 ## Writing Section
 - [ ] Descriptive Paragraph (a person / event / situation, based on visual or verbal cue/s)
-- [ ] Story 
+- [ ] Story Writing (on a given cue/title) / Diary Entry
+
