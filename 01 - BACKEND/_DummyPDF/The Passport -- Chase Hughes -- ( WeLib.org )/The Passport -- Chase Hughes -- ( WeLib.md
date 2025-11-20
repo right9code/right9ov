@@ -1283,10 +1283,8 @@ Become a better "animal." We are all animals. Every single person has the abilit
 
 ## One-Liners
 
-Meant to be delivered in a semicocky and mostly teasing/playful tone: 1. How much would it take for you to...? (Say something like walk around the club and tell every one that you are a pineapple princess or go ask a group of people a crazy question.)
-
----
-
+Meant to be delivered in a semicocky and mostly teasing/playful tone: 
+1. How much would it take for you to...? (Say something like walk around the club and tell every one that you are a pineapple princess or go ask a group of people a crazy question.)
 2. Which female actress would you most like to beat up?
 3. We're both going to dress up as pirates next time we go out, but you have to be the evil one 'cause you look like you cause lots of trouble anyway...
 4. I bet you kick ass at Star Trek trivia...you look like a trekkie.
@@ -1312,11 +1310,7 @@ If you are in conversation already and he comes out of nowhere and puts his arm 
 
 If you aren't sure if he's with her, but he comes in the conversation and starts trying to make fun of you or tell you to go away, simply tell him there's nothing to worry about because you are gay. The guy will believe you, but women are extremely intuitive and she will know you aren't.
 
-If you see a girl you want, and she's with a group that has guys in it, there's a simple and easy way to find out who is who. Approach the whole group like you would a normal group of girls. Just treat the guys like girls you aren't interested in. There really is no difference when it comes to guys being there or not. Run a quick approach and throw a story out. After the story, ask everyone at the table if they are all co-workers. This will usually stir up a few introductions and allow you to find
-
----
-
-out the relationship of your girl to the people at the table.
+If you see a girl you want, and she's with a group that has guys in it, there's a simple and easy way to find out who is who. Approach the whole group like you would a normal group of girls. Just treat the guys like girls you aren't interested in. There really is no difference when it comes to guys being there or not. Run a quick approach and throw a story out. After the story, ask everyone at the table if they are all co-workers. This will usually stir up a few introductions and allow you to find out the relationship of your girl to the people at the table.
 
 When a guy is talking to you and you want him to be a little uneasy, you can either keep a straight and interested face while reaching all the way into your pants to massage and scratch yourself, OR you can stare at his forehead while he speaks. These work equally great.
 
@@ -1326,11 +1320,7 @@ Don't EVER be afraid or embarrassed to act gay or completely back out of a fight
 
 Wardrobe
 
-What you wear is important on occasion. While wearing old gym shorts and a t-shirt from high school is cool sometimes, it's not for the normal nightlife outing. We'll get into the specifics on
-
----
-
-that. I deliberately made this chapter very short because there are so many good resources out there for this.
+What you wear is important on occasion. While wearing old gym shorts and a t-shirt from high school is cool sometimes, it's not for the normal nightlife outing. We'll get into the specifics on that. I deliberately made this chapter very short because there are so many good resources out there for this.
 
 When dressing up, there's no need to tuck your shirt in unless you are wearing a suit jacket with your outfit. You can wear a dress shirt untucked, but make sure it is designed to be worn that way. People at any clothing store can show you this.
 
@@ -1394,11 +1384,7 @@ The Internet has become an increasingly popular place to meet girls. From dating
 
 The best way to reverse the chasing roles online is to look at a bunch of women's profiles and take the good stuff from them. Steal their beliefs. Women will have a mile-long list of all the qualities they want in a man and a list of disqualifiers that tell men whether or not they are good enough for them. It's completely insane and all you have to do is take their mentality from them. Bring the screening process and fun onto your profile. If you scan a hundred women's profiles, you'll see a word that most of them have in common: "FUN." Women are completely wrapped around this word online.
 
-When you design your profile, keep the mystery alive; don't give out your stats like you're writing a resume. Keep a few things about yourself secret and elusive. When you decide on a picture of yourself, pick something funny, like a digitally edited picture of you
-
----
-
-with devil horns, or a funny picture of yourself. Demonstrating FUN is the biggest priority when your picture is the first thing women see when they look at your profile. Have a list of qualities and attributes you like in women. Have a list of disqualifiers that you don't like in women as well. Keep your disqualifiers pretty short; you only need to communicate that you are selective and picky. A list called, "Things I find attractive in women" will make EVERY woman read through your list to see if they qualify.
+When you design your profile, keep the mystery alive; don't give out your stats like you're writing a resume. Keep a few things about yourself secret and elusive. When you decide on a picture of yourself, pick something funny, like a digitally edited picture of you with devil horns, or a funny picture of yourself. Demonstrating FUN is the biggest priority when your picture is the first thing women see when they look at your profile. Have a list of qualities and attributes you like in women. Have a list of disqualifiers that you don't like in women as well. Keep your disqualifiers pretty short; you only need to communicate that you are selective and picky. A list called, "Things I find attractive in women" will make EVERY woman read through your list to see if they qualify.
 
 On the intro to your page, let everyone know that you are basically only looking for friends because there are so many weird and psycho girls on the Internet and it makes you very cautious about meeting them online.
 
@@ -1523,8 +1509,6 @@ It gets so bad with some guys that they will go through her cell phone, start ch
 
 Some women will need to know you get a LITTLE bit jealous at times in order to know you really care for them. This is okay, but don't overdo it.
 
----
-
 Don't EVER put down her guy friends or any other man in front of her. If you put down another man in front of a woman, it only communicates one thing: He is a threat to you. Don't do it.
 
 KEEPING HER HANGING ON
@@ -1563,11 +1547,8 @@ When a woman selects a man for a long-term relationship, she is looking for a ma
 
 When a man has these qualities, a woman feels as though she can fully trust him with her body and her mind. She has no reason to doubt him, and he will never willingly hurt her or abandon her. These are all traits of the "ideal father."
 
----
-
 If she starts withholding sex, losing attraction, treating you bad, or taking the lead, she is either testing you, or you can trace back the cause to something you did to communicate low status or insecurity. Women are very simple to maintain and need only the slightest amount of maintenance. I don't care if you think you have a high-maintenance woman, she's not. With the right man, who knows his role in the relationship as a man, she can relax and be a natural woman.
 
----
 
 # TROUBLESHOOTING APPROACH PROBLEMS 
 
